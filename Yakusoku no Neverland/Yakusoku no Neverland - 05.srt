@@ -1,6 +1,6 @@
 1
 00:01:50,330 --> 00:01:53,370
-What are you saying?\NWhat's wrong, Norman?
+What are you saying?What's wrong, Norman?
 
 2
 00:01:54,250 --> 00:01:56,960
@@ -16,7 +16,7 @@ To Don, I said the rope was under my bed.
 
 5
 00:02:04,510 --> 00:02:07,640
-To Gilda, I said\Nthe second floor bathroom's ceiling.
+To Gilda, I saidthe second floor bathroom's ceiling.
 
 6
 00:02:07,930 --> 00:02:10,270
@@ -24,11 +24,11 @@ That's what I told you, Ray.
 
 7
 00:02:10,720 --> 00:02:15,650
-But actually, I told Don it was in the dining hall,\Nand told Gilda it was in the library.
+But actually, I told Don it was in the dining hall,and told Gilda it was in the library.
 
 8
 00:02:16,900 --> 00:02:19,900
-Then, the rope\Nthat was under my bed disappeared.
+Then, the ropethat was under my bed disappeared.
 
 9
 00:02:20,280 --> 00:02:22,320
@@ -60,7 +60,7 @@ The day Sister came to the House.
 
 16
 00:03:06,570 --> 00:03:08,910
-I was disgusted with myself\Nfor thinking such a thing.
+I was disgusted with myselffor thinking such a thing.
 
 17
 00:03:08,910 --> 00:03:11,160
@@ -80,11 +80,11 @@ It was my supposition for the worst case.
 
 21
 00:03:21,050 --> 00:03:24,840
-But for us, it would be the most problematic\Nif you're the traitor.
+But for us, it would be the most problematicif you're the traitor.
 
 22
 00:03:24,840 --> 00:03:28,800
-And from the enemy's point of view, it would be\Nthe most beneficial if you're the traitor.
+And from the enemy's point of view, it would bethe most beneficial if you're the traitor.
 
 23
 00:03:29,680 --> 00:03:32,520
@@ -92,7 +92,7 @@ You can give opinions to our plans,
 
 24
 00:03:32,520 --> 00:03:35,480
-and from the perspective of controlling\Nthe situation, it's perfect.
+and from the perspective of controllingthe situation, it's perfect.
 
 25
 00:03:35,890 --> 00:03:38,100
@@ -112,11 +112,11 @@ One more thing.
 
 29
 00:03:48,110 --> 00:03:52,240
-Ray, you're not a traitor\Nwho was set up just for this matter, right?
+Ray, you're not a traitorwho was set up just for this matter, right?
 
 30
 00:03:52,700 --> 00:03:57,790
-Mom would never trust a sudden tip\Nor an impromptu spy.
+Mom would never trust a sudden tipor an impromptu spy.
 
 31
 00:03:58,870 --> 00:04:01,040
@@ -136,7 +136,7 @@ Basically, a sheepdog for a shepherd.
 
 35
 00:04:10,680 --> 00:04:13,600
-You knew about everything\Nand assisted Mom this whole time?
+You knew about everythingand assisted Mom this whole time?
 
 36
 00:04:13,890 --> 00:04:14,600
@@ -148,7 +148,7 @@ Was everything a lie?
 
 38
 00:04:20,480 --> 00:04:24,570
-All the time spent\Npreparing for things with Emma and me?
+All the time spentpreparing for things with Emma and me?
 
 39
 00:04:25,900 --> 00:04:28,070
@@ -168,15 +168,15 @@ Depending on the answer, will you cut me off?
 
 43
 00:04:34,950 --> 00:04:39,670
-I won't. I'll have you by our side,\Nas you've always been.
+I won't. I'll have you by our side,as you've always been.
 
 44
 00:04:40,960 --> 00:04:44,300
-Aren't you glad? You can continue\Nto hide the mistake you made.
+Aren't you glad? You can continueto hide the mistake you made.
 
 45
 00:04:44,300 --> 00:04:47,720
-You wanted to keep spying on us,\Neven if it meant framing Don, right?
+You wanted to keep spying on us,even if it meant framing Don, right?
 
 46
 00:04:48,340 --> 00:04:49,590
@@ -188,7 +188,7 @@ Three things.
 
 48
 00:04:52,180 --> 00:04:57,100
-One, continue to spend time with us like before\Nand guarantee our safety.
+One, continue to spend time with us like beforeand guarantee our safety.
 
 49
 00:04:57,730 --> 00:05:01,100
@@ -216,11 +216,11 @@ Are you an idiot?
 
 55
 00:05:11,070 --> 00:05:14,740
-If that was your objective from the beginning,\Nyou should've kept quiet and used me.
+If that was your objective from the beginning,you should've kept quiet and used me.
 
 56
 00:05:14,740 --> 00:05:18,410
-Just forcibly utilize me and then abandon me\Nwhen you execute the plan.
+Just forcibly utilize me and then abandon mewhen you execute the plan.
 
 57
 00:05:18,410 --> 00:05:20,330
@@ -248,11 +248,11 @@ That you're my friend before my enemy.
 
 63
 00:05:46,190 --> 00:05:49,400
-Besides, you're the one\Nwho hid Little Bunny, right?
+Besides, you're the onewho hid Little Bunny, right?
 
 64
 00:05:50,490 --> 00:05:54,910
-That night when we went to the gate,\Nif you hadn't said that we could make it
+That night when we went to the gate,if you hadn't said that we could make it
 
 65
 00:05:54,910 --> 00:05:56,660
@@ -260,11 +260,11 @@ we wouldn't have gone.
 
 66
 00:05:58,120 --> 00:06:03,170
-You led us to discover the truth\Nabout this House for ourselves.
+You led us to discover the truthabout this House for ourselves.
 
 67
 00:06:04,040 --> 00:06:07,800
-You're the one who set up\Nthis escape for our sake, right?
+You're the one who set upthis escape for our sake, right?
 
 68
 00:06:09,210 --> 00:06:11,630
@@ -276,7 +276,7 @@ Why?
 
 70
 00:06:13,430 --> 00:06:18,510
-You wouldn't do things to make us realize the truth\Nif you were 100 percent Mom's dog.
+You wouldn't do things to make us realize the truthif you were 100 percent Mom's dog.
 
 71
 00:06:20,390 --> 00:06:22,730
@@ -284,15 +284,15 @@ You were controlling us.
 
 72
 00:06:22,810 --> 00:06:28,190
-The tracking devices, the timing of the escape,\Nand how fast the plan progressed.
+The tracking devices, the timing of the escape,and how fast the plan progressed.
 
 73
 00:06:28,520 --> 00:06:31,820
-That's why you strongly opposed\Nescaping ten days from now.
+That's why you strongly opposedescaping ten days from now.
 
 74
 00:06:32,360 --> 00:06:36,070
-But at the same time,\Nweren't you also keeping Mom under control?
+But at the same time,weren't you also keeping Mom under control?
 
 75
 00:06:36,660 --> 00:06:39,290
@@ -304,7 +304,7 @@ I volunteered. I went to her.
 
 77
 00:06:44,330 --> 00:06:48,040
-No, it's more accurate to say\Nthat I sold myself.
+No, it's more accurate to saythat I sold myself.
 
 78
 00:06:49,250 --> 00:06:52,210
@@ -312,7 +312,7 @@ It was all in preparation for this escape.
 
 79
 00:06:54,380 --> 00:06:59,220
-The most efficient way to learn about the enemy\Nand gather things is from inside their pocket.
+The most efficient way to learn about the enemyand gather things is from inside their pocket.
 
 80
 00:06:59,430 --> 00:07:02,640
@@ -328,7 +328,7 @@ I had chances to succeed.
 
 83
 00:07:06,190 --> 00:07:11,730
-Mom would want to avoid harvesting a top scorer,\None she spent time and effort on, midway.
+Mom would want to avoid harvesting a top scorer,one she spent time and effort on, midway.
 
 84
 00:07:12,190 --> 00:07:13,610
@@ -336,7 +336,7 @@ That's how I saw it.
 
 85
 00:07:14,280 --> 00:07:17,240
-She actually cares more\Nabout profit rather than rules.
+She actually cares moreabout profit rather than rules.
 
 86
 00:07:17,700 --> 00:07:19,740
@@ -344,7 +344,7 @@ I basically asked for two things.
 
 87
 00:07:20,240 --> 00:07:23,750
-One, I'll cooperate,\Nso don't immediately ship me out.
+One, I'll cooperate,so don't immediately ship me out.
 
 88
 00:07:23,950 --> 00:07:27,460
@@ -360,11 +360,11 @@ Just various junk.
 
 91
 00:07:30,920 --> 00:07:33,960
-If it wasn't available in the House,\NI had her obtain it.
+If it wasn't available in the House,I had her obtain it.
 
 92
 00:07:36,680 --> 00:07:40,890
-I was testing what I could obtain\Nand what was impossible.
+I was testing what I could obtainand what was impossible.
 
 93
 00:07:40,890 --> 00:07:43,140
@@ -372,7 +372,7 @@ I also wanted to probe the outside world.
 
 94
 00:07:43,470 --> 00:07:48,060
-As a result, she obtained a lot of things,\Nas long as they weren't dangerous.
+As a result, she obtained a lot of things,as long as they weren't dangerous.
 
 95
 00:07:48,060 --> 00:07:50,900
@@ -380,7 +380,7 @@ But they were all older models.
 
 96
 00:07:51,320 --> 00:07:55,030
-Then, when you said you had an idea\Nabout breaking the tracking devices...
+Then, when you said you had an ideaabout breaking the tracking devices...
 
 97
 00:07:55,360 --> 00:07:57,400
@@ -388,7 +388,7 @@ I've seen the actual device.
 
 98
 00:07:58,490 --> 00:08:02,540
-I experimented, and after many years,\NI figured out how to break it.
+I experimented, and after many years,I figured out how to break it.
 
 99
 00:08:03,120 --> 00:08:05,540
@@ -400,7 +400,7 @@ Do you understand?
 
 101
 00:08:08,460 --> 00:08:12,920
-The person you see before you\Nis the strongest card you have.
+The person you see before youis the strongest card you have.
 
 102
 00:08:13,590 --> 00:08:15,630
@@ -408,11 +408,11 @@ The tracking devices and Mom.
 
 103
 00:08:15,630 --> 00:08:21,180
-I have far more information\Nthan what's necessary for this escape.
+I have far more informationthan what's necessary for this escape.
 
 104
 00:08:23,640 --> 00:08:27,810
-I've been preparing ever since\NI found out the truth about the House.
+I've been preparing ever sinceI found out the truth about the House.
 
 105
 00:08:28,640 --> 00:08:29,650
@@ -420,11 +420,11 @@ Ray.
 
 106
 00:08:29,770 --> 00:08:34,320
-Without having anyone notice,\NI had you two go to the gate.
+Without having anyone notice,I had you two go to the gate.
 
 107
 00:08:34,730 --> 00:08:38,820
-I did all this to make sure\Nyou two don't get killed.
+I did all this to make sureyou two don't get killed.
 
 108
 00:08:41,740 --> 00:08:45,410
@@ -436,11 +436,11 @@ But I'm also not an ally.
 
 110
 00:08:47,330 --> 00:08:51,420
-Under one condition,\NI can completely become your ace.
+Under one condition,I can completely become your ace.
 
 111
 00:08:51,790 --> 00:08:57,300
-I'll give you all the information I have,\Nand I'll also leak lies to Mom like you want.
+I'll give you all the information I have,and I'll also leak lies to Mom like you want.
 
 112
 00:08:57,510 --> 00:08:58,720
@@ -452,15 +452,15 @@ Trick Emma.
 
 114
 00:09:01,090 --> 00:09:04,680
-You need to pretend we're taking everyone,\Nbut at the last moment, ditch them.
+You need to pretend we're taking everyone,but at the last moment, ditch them.
 
 115
 00:09:04,680 --> 00:09:07,270
-Even if we take others,\Nit'll only be Don and Gilda.
+Even if we take others,it'll only be Don and Gilda.
 
 116
 00:09:07,430 --> 00:09:10,560
-So you're telling me to give up on\Nescaping with everyone?
+So you're telling me to give up onescaping with everyone?
 
 117
 00:09:10,560 --> 00:09:11,400
@@ -468,7 +468,7 @@ Yeah.
 
 118
 00:09:11,650 --> 00:09:14,360
-The training is helping everyone grow\Nmore than we expected.
+The training is helping everyone growmore than we expected.
 
 119
 00:09:14,860 --> 00:09:16,980
@@ -484,7 +484,7 @@ Then we can all—
 
 122
 00:09:20,150 --> 00:09:22,950
-It still doesn't change the fact\Nthat they're a burden.
+It still doesn't change the factthat they're a burden.
 
 123
 00:09:26,200 --> 00:09:28,450
@@ -504,7 +504,7 @@ I thought you didn't want us to get killed.
 
 127
 00:09:38,760 --> 00:09:42,430
-If you're just going to get killed as soon as\Nwe escape, it'd be better to get shipped out.
+If you're just going to get killed as soon aswe escape, it'd be better to get shipped out.
 
 128
 00:09:44,220 --> 00:09:46,600
@@ -564,11 +564,11 @@ You should have never summoned her.
 
 142
 00:11:37,880 --> 00:11:41,050
-That was supposed to be\Na deterrent for me, right?
+That was supposed to bea deterrent for me, right?
 
 143
 00:11:41,170 --> 00:11:46,380
-It makes me sad that you still don't trust me\Neven though I've been helping you for six years.
+It makes me sad that you still don't trust meeven though I've been helping you for six years.
 
 144
 00:11:46,380 --> 00:11:48,180
@@ -576,7 +576,7 @@ It's just a precaution.
 
 145
 00:11:48,510 --> 00:11:52,850
-Besides, if you had made sure those two\Ndidn't go to the gate that day,
+Besides, if you had made sure those twodidn't go to the gate that day,
 
 146
 00:11:52,850 --> 00:11:55,060
@@ -588,7 +588,7 @@ I apologized for that.
 
 148
 00:11:56,850 --> 00:12:02,820
-I never thought you'd be a useless dog\Nwho couldn't even keep watch.
+I never thought you'd be a useless dogwho couldn't even keep watch.
 
 149
 00:12:02,980 --> 00:12:05,820
@@ -596,7 +596,7 @@ I made up for it by spying for you.
 
 150
 00:12:06,280 --> 00:12:10,200
-I sold out my best friends, and I report\NSister Krone's disturbing behavior in detail.
+I sold out my best friends, and I reportSister Krone's disturbing behavior in detail.
 
 151
 00:12:10,620 --> 00:12:12,790
@@ -644,7 +644,7 @@ Good morning.
 
 162
 00:13:14,810 --> 00:13:16,810
-- So then I did this...\N- Good morning, Norman.
+- So then I did this...- Good morning, Norman.
 
 163
 00:13:17,390 --> 00:13:18,810
@@ -660,7 +660,7 @@ I brought the plates.
 
 166
 00:13:21,900 --> 00:13:23,560
-- Good morning, Ray.\N- Good morning, Emma.
+- Good morning, Ray.- Good morning, Emma.
 
 167
 00:13:25,190 --> 00:13:26,150
@@ -672,7 +672,7 @@ How did the plan with the ropes go?
 
 169
 00:13:28,280 --> 00:13:30,240
-Was there progress\Nfor the source of information?
+Was there progressfor the source of information?
 
 170
 00:13:30,240 --> 00:13:31,110
@@ -696,7 +696,7 @@ It was you?
 
 175
 00:13:46,420 --> 00:13:50,380
-Sorry for that reaction,\Nbut I still don't understand.
+Sorry for that reaction,but I still don't understand.
 
 176
 00:13:51,470 --> 00:13:52,930
@@ -708,7 +708,7 @@ So you're the traitor, but not an enemy.
 
 178
 00:13:57,890 --> 00:14:01,560
-You were acting as Mom's subordinate\Nall this time for our sake?
+You were acting as Mom's subordinateall this time for our sake?
 
 179
 00:14:02,020 --> 00:14:02,980
@@ -716,7 +716,7 @@ Yeah.
 
 180
 00:14:02,980 --> 00:14:08,400
-The truth is, I was going to tell you everything\Nas soon as you got back from the gate.
+The truth is, I was going to tell you everythingas soon as you got back from the gate.
 
 181
 00:14:09,570 --> 00:14:11,990
@@ -724,27 +724,27 @@ But you left Little Bunny behind,
 
 182
 00:14:11,990 --> 00:14:15,570
-saying you wanted to escape with everyone,\Nand other unexpected things happened.
+saying you wanted to escape with everyone,and other unexpected things happened.
 
 183
 00:14:15,990 --> 00:14:19,790
-Mom found out,\Nso I had to manage the situation.
+Mom found out,so I had to manage the situation.
 
 184
 00:14:19,790 --> 00:14:22,460
-Plus you guys were being rash,\Nand about to get reckless.
+Plus you guys were being rash,and about to get reckless.
 
 185
 00:14:22,670 --> 00:14:26,500
-That's why I figured I should keep quiet\Nand get both under control.
+That's why I figured I should keep quietand get both under control.
 
 186
 00:14:26,670 --> 00:14:30,460
-So you're saying that you\Nwere covering up for our mistakes.
+So you're saying that youwere covering up for our mistakes.
 
 187
 00:14:30,800 --> 00:14:34,550
-And you're still against\Nescaping with everyone, right?
+And you're still againstescaping with everyone, right?
 
 188
 00:14:34,800 --> 00:14:36,470
@@ -772,7 +772,7 @@ Ray is now going to help everyone escape.
 
 194
 00:14:53,900 --> 00:14:57,990
-And we also have information\Nto trick Mom from the inside.
+And we also have informationto trick Mom from the inside.
 
 195
 00:14:57,990 --> 00:14:59,450
@@ -784,7 +784,7 @@ But, I see.
 
 197
 00:15:04,460 --> 00:15:07,210
-You knew about everything\Nfor a long time, huh?
+You knew about everythingfor a long time, huh?
 
 198
 00:15:08,500 --> 00:15:10,050
@@ -792,7 +792,7 @@ It must have been painful.
 
 199
 00:15:10,340 --> 00:15:12,460
-Knowing and sending them off\Nwithout saying anything.
+Knowing and sending them offwithout saying anything.
 
 200
 00:15:13,170 --> 00:15:14,970
@@ -804,19 +804,19 @@ Hey.
 
 202
 00:15:22,140 --> 00:15:26,060
-Were the experiments for the tracking devices\Ndone on someone's ear?
+Were the experiments for the tracking devicesdone on someone's ear?
 
 203
 00:15:27,980 --> 00:15:32,280
-What happened to that child...\Nor rather, children?
+What happened to that child...or rather, children?
 
 204
 00:15:32,610 --> 00:15:35,150
-You didn't cause them\Nto be shipped out early, did you?
+You didn't cause themto be shipped out early, did you?
 
 205
 00:15:35,990 --> 00:15:39,830
-You didn't sacrifice someone\Nfor our sake, did you?
+You didn't sacrifice someonefor our sake, did you?
 
 206
 00:15:41,450 --> 00:15:43,750
@@ -824,7 +824,7 @@ Actually, never mind. Thank you.
 
 207
 00:15:43,950 --> 00:15:46,460
-Thanks to that,\Nwe can all escape together now.
+Thanks to that,we can all escape together now.
 
 208
 00:15:47,170 --> 00:15:48,130
@@ -856,7 +856,7 @@ They're talking on their own again, huh?
 
 215
 00:16:13,070 --> 00:16:16,780
-Damn it, how long are they\Ngoing to be discussing things?
+Damn it, how long are theygoing to be discussing things?
 
 216
 00:16:16,780 --> 00:16:19,200
@@ -876,7 +876,7 @@ I don't know.
 
 220
 00:16:24,580 --> 00:16:28,500
-It's not just about being dangerous\Nbecause we're dealing with bad people.
+It's not just about being dangerousbecause we're dealing with bad people.
 
 221
 00:16:28,870 --> 00:16:31,130
@@ -900,7 +900,7 @@ What?
 
 226
 00:16:43,720 --> 00:16:47,270
-You said you did it\Nso that both of us don't get killed.
+You said you did itso that both of us don't get killed.
 
 227
 00:16:47,690 --> 00:16:49,140
@@ -916,11 +916,11 @@ I have something to report.
 
 230
 00:16:56,820 --> 00:17:01,160
-Gilda and I decided to properly\Nobserve Mom once again.
+Gilda and I decided to properlyobserve Mom once again.
 
 231
 00:17:01,570 --> 00:17:04,160
-Mom disappears right before\Neight o'clock every night.
+Mom disappears right beforeeight o'clock every night.
 
 232
 00:17:04,580 --> 00:17:05,580
@@ -952,11 +952,11 @@ Next to Mom's bedroom.
 
 239
 00:17:19,170 --> 00:17:23,140
-Mom's bedroom has the bathroom\Nand washroom next to it.
+Mom's bedroom has the bathroomand washroom next to it.
 
 240
 00:17:23,140 --> 00:17:27,810
-Past that, continuing beyond the wall\Nis Mom's office.
+Past that, continuing beyond the wallis Mom's office.
 
 241
 00:17:28,230 --> 00:17:30,310
@@ -964,11 +964,11 @@ But this probably isn't a wall.
 
 242
 00:17:31,400 --> 00:17:37,440
-I noticed that every time Mom disappears,\Nshe always goes into her office or the washroom.
+I noticed that every time Mom disappears,she always goes into her office or the washroom.
 
 243
 00:17:37,440 --> 00:17:43,530
-So I measured the distance inside the room,\Nand the distance in the hallway.
+So I measured the distance inside the room,and the distance in the hallway.
 
 244
 00:17:43,700 --> 00:17:45,990
@@ -988,15 +988,15 @@ They didn't match.
 
 248
 00:17:50,160 --> 00:17:53,080
-There are about ten\Nof my footsteps' worth of space.
+There are about tenof my footsteps' worth of space.
 
 249
 00:17:53,500 --> 00:17:56,590
-One side is a wall,\Nand the other side is a bookshelf.
+One side is a wall,and the other side is a bookshelf.
 
 250
 00:17:57,000 --> 00:17:59,840
-But I think there are\Nhidden doors on both sides.
+But I think there arehidden doors on both sides.
 
 251
 00:18:00,010 --> 00:18:02,970
@@ -1016,7 +1016,7 @@ Scheduled check-ins.
 
 255
 00:18:07,180 --> 00:18:10,100
-Mom does scheduled check-ins\Nto the headquarters every day.
+Mom does scheduled check-insto the headquarters every day.
 
 256
 00:18:10,230 --> 00:18:11,770
@@ -1028,11 +1028,11 @@ Headquarters?
 
 258
 00:18:13,400 --> 00:18:17,360
-The base that supplies babies\Nand sisters to this House.
+The base that supplies babiesand sisters to this House.
 
 259
 00:18:18,280 --> 00:18:21,280
-Ray, did you know\Nthat there was a room here?
+Ray, did you knowthat there was a room here?
 
 260
 00:18:21,280 --> 00:18:23,610
@@ -1044,7 +1044,7 @@ Let's try to get in.
 
 262
 00:18:25,240 --> 00:18:28,620
-It's a way to communicate with the outside,\Nand find Conny and the others' whereabouts.
+It's a way to communicate with the outside,and find Conny and the others' whereabouts.
 
 263
 00:18:28,910 --> 00:18:31,250
@@ -1064,11 +1064,11 @@ Hold on. There's no merit in going that far.
 
 267
 00:18:38,960 --> 00:18:43,470
-Even if it's a communication method,\Nit's most likely only connected to headquarters.
+Even if it's a communication method,it's most likely only connected to headquarters.
 
 268
 00:18:43,470 --> 00:18:46,890
-And Mom doesn't know\Nwhere our siblings were sent.
+And Mom doesn't knowwhere our siblings were sent.
 
 269
 00:18:47,220 --> 00:18:49,390
@@ -1076,11 +1076,11 @@ It's not even an issue of finding clues.
 
 270
 00:18:49,640 --> 00:18:52,770
-And if we're careless, our tracking devices\Ncould give away our position.
+And if we're careless, our tracking devicescould give away our position.
 
 271
 00:18:52,980 --> 00:18:55,520
-We don't know\Nwhat kind of security that room has.
+We don't knowwhat kind of security that room has.
 
 272
 00:18:55,600 --> 00:18:56,860
@@ -1092,7 +1092,7 @@ But...
 
 274
 00:18:57,900 --> 00:19:01,820
-I'm saying that the risk\Noverwhelmingly outweighs the merit.
+I'm saying that the riskoverwhelmingly outweighs the merit.
 
 275
 00:19:02,900 --> 00:19:04,110
@@ -1100,7 +1100,7 @@ You're right.
 
 276
 00:19:04,110 --> 00:19:08,910
-For now, be careful of the Sister.\NDon't dig your grave with a foolish move.
+For now, be careful of the Sister.Don't dig your grave with a foolish move.
 
 277
 00:19:08,910 --> 00:19:09,790
@@ -1108,7 +1108,7 @@ Exactly.
 
 278
 00:19:10,290 --> 00:19:14,290
-I have Mom under control,\Nbut we're doomed if the Sister finds out.
+I have Mom under control,but we're doomed if the Sister finds out.
 
 279
 00:19:14,790 --> 00:19:16,330
@@ -1120,7 +1120,7 @@ Don, can you go ahead to prepare for dinner?
 
 281
 00:19:23,800 --> 00:19:26,010
-- If someone doesn't go, Mom will—\N- I know.
+- If someone doesn't go, Mom will—- I know.
 
 282
 00:19:42,280 --> 00:19:44,400
@@ -1152,7 +1152,7 @@ Is there even one here?
 
 289
 00:20:45,300 --> 00:20:49,930
-Damn it! I need to hurry and go save her\Nas soon as possible!
+Damn it! I need to hurry and go save heras soon as possible!
 
 290
 00:20:50,470 --> 00:20:51,850

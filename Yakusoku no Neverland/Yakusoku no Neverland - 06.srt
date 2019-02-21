@@ -4,7 +4,7 @@ Phil?
 
 2
 00:01:47,540 --> 00:01:50,160
-I'm playing hide-and-seek\Nwith Naila and Eugene.
+I'm playing hide-and-seekwith Naila and Eugene.
 
 3
 00:01:51,660 --> 00:01:53,080
@@ -24,11 +24,11 @@ Outside.
 
 7
 00:02:02,590 --> 00:02:05,180
-{\an8}We know most of what we need to\Nabout the House.
+{\an8}We know most of what we need toabout the House.
 
 8
 00:02:05,180 --> 00:02:08,310
-{\an8}The training is going well.\NThe tracking devices can be broken.
+{\an8}The training is going well.The tracking devices can be broken.
 
 9
 00:02:08,310 --> 00:02:09,010
@@ -36,7 +36,7 @@ Outside.
 
 10
 00:02:09,010 --> 00:02:13,020
-{\an8}...to get intel on the outside,\Nand if we can outmaneuver the adults here,
+{\an8}...to get intel on the outside,and if we can outmaneuver the adults here,
 
 11
 00:02:13,480 --> 00:02:15,480
@@ -60,19 +60,19 @@ Two, get away from this farm safely.
 
 16
 00:02:27,490 --> 00:02:31,450
-Three, establish a way to survive outside\Nand become self-reliant.
+Three, establish a way to survive outsideand become self-reliant.
 
 17
 00:02:32,160 --> 00:02:34,750
-Currently, we have hope\Nof accomplishing the first step.
+Currently, we have hopeof accomplishing the first step.
 
 18
 00:02:35,000 --> 00:02:38,670
-Next is the second step.\NWe need to focus on the outside.
+Next is the second step.We need to focus on the outside.
 
 19
 00:02:38,670 --> 00:02:41,710
-Evade the pursuers\Nand get away from the farm safely.
+Evade the pursuersand get away from the farm safely.
 
 20
 00:02:41,800 --> 00:02:44,180
@@ -80,15 +80,15 @@ We need to examine and prepare for that.
 
 21
 00:02:44,180 --> 00:02:46,550
-First, we need information\Nabout the area around the farm.
+First, we need informationabout the area around the farm.
 
 22
 00:02:46,550 --> 00:02:49,810
-Oh, when I climbed up the tree,\NI saw a forest beyond the wall.
+Oh, when I climbed up the tree,I saw a forest beyond the wall.
 
 23
 00:02:49,810 --> 00:02:52,520
-Those are the things\Nwe need to properly check.
+Those are the thingswe need to properly check.
 
 24
 00:02:52,520 --> 00:02:54,520
@@ -100,7 +100,7 @@ Okay.
 
 26
 00:02:55,480 --> 00:02:58,650
-Hey, can I talk about another thing\Nhaving to do with when we get outside?
+Hey, can I talk about another thinghaving to do with when we get outside?
 
 27
 00:02:59,520 --> 00:03:01,690
@@ -144,7 +144,7 @@ Who's he?
 
 37
 00:03:39,020 --> 00:03:43,230
-I don't know. What I do know is that\Nhe's the previous owner of that book.
+I don't know. What I do know is thathe's the previous owner of that book.
 
 38
 00:03:43,230 --> 00:03:46,990
@@ -156,7 +156,7 @@ What do you mean?
 
 40
 00:03:48,410 --> 00:03:52,120
-This person has been conveying\Na certain message through books.
+This person has been conveyinga certain message through books.
 
 41
 00:03:52,120 --> 00:03:53,660
@@ -176,7 +176,7 @@ A bookplate.
 
 45
 00:04:08,090 --> 00:04:11,390
-A label that indicates the book's owner\Nbefore it came here.
+A label that indicates the book's ownerbefore it came here.
 
 46
 00:04:11,390 --> 00:04:13,470
@@ -248,7 +248,7 @@ Farm.
 
 63
 00:05:28,840 --> 00:05:33,340
-This is a message from the outside to us,\Nhidden from the demons and the adults.
+This is a message from the outside to us,hidden from the demons and the adults.
 
 64
 00:05:33,340 --> 00:05:35,510
@@ -280,7 +280,7 @@ Why are you always like that?
 
 71
 00:05:51,820 --> 00:05:57,580
-William Minerva. This man is outside\Nand knows our farm exists.
+William Minerva. This man is outsideand knows our farm exists.
 
 72
 00:05:57,580 --> 00:06:01,410
@@ -292,11 +292,11 @@ Yes!
 
 74
 00:06:02,540 --> 00:06:05,920
-There was an ally on the outside.\NAnd he might still be there.
+There was an ally on the outside.And he might still be there.
 
 75
 00:06:06,380 --> 00:06:10,050
-If that's true, then there could be\Na society of humans outside.
+If that's true, then there could bea society of humans outside.
 
 76
 00:06:10,050 --> 00:06:11,170
@@ -304,15 +304,15 @@ Exactly!
 
 77
 00:06:32,900 --> 00:06:36,620
-These kinds of messages\Ncan only be found in Minerva's books.
+These kinds of messagescan only be found in Minerva's books.
 
 78
 00:06:36,740 --> 00:06:40,160
-I don't know when\Nthese labels were attached,
+I don't know whenthese labels were attached,
 
 79
 00:06:40,160 --> 00:06:44,580
-but I at least know this one\Nwas attached after the year 2015.
+but I at least know this onewas attached after the year 2015.
 
 80
 00:06:44,790 --> 00:06:46,210
@@ -324,7 +324,7 @@ Is there anything else we could know?
 
 82
 00:06:48,630 --> 00:06:51,340
-Like something in common between\Nthe contents or the type of books?
+Like something in common betweenthe contents or the type of books?
 
 83
 00:06:51,340 --> 00:06:52,840
@@ -332,23 +332,23 @@ Not much.
 
 84
 00:06:52,840 --> 00:06:55,890
-The genres are varied.\NThe publishers and the years were—
+The genres are varied.The publishers and the years were—
 
 85
 00:06:55,890 --> 00:06:58,720
-But what about that thing?\NUh, which one was it?
+But what about that thing?Uh, which one was it?
 
 86
 00:06:59,640 --> 00:07:02,560
-I didn't understand the Morse code\Non these two books.
+I didn't understand the Morse codeon these two books.
 
 87
 00:07:02,560 --> 00:07:05,020
-For the content,\None is a typical adventure novel,
+For the content,one is a typical adventure novel,
 
 88
 00:07:05,020 --> 00:07:07,230
-and a mythology book\Nthat I didn't really understand.
+and a mythology bookthat I didn't really understand.
 
 89
 00:07:08,110 --> 00:07:10,190
@@ -376,7 +376,7 @@ So it was true, what they said.
 
 95
 00:07:27,790 --> 00:07:31,550
-Mom was lying.\NNo one was sent to foster families.
+Mom was lying.No one was sent to foster families.
 
 96
 00:07:31,550 --> 00:07:32,710
@@ -384,7 +384,7 @@ But why...
 
 97
 00:07:32,710 --> 00:07:36,590
-Because if they were,\Nthere's no way this would be here.
+Because if they were,there's no way this would be here.
 
 98
 00:07:36,590 --> 00:07:38,890
@@ -396,7 +396,7 @@ It's not just Little Bunny.
 
 100
 00:07:42,350 --> 00:07:46,310
-They were all snatched away from them\Nby Mom when they left,
+They were all snatched away from themby Mom when they left,
 
 101
 00:07:46,310 --> 00:07:49,270
@@ -412,7 +412,7 @@ I think these have a meaning.
 
 104
 00:08:01,080 --> 00:08:05,250
-Like how one book doesn't have the Morse code,\Nand there were others with ripped pages.
+Like how one book doesn't have the Morse code,and there were others with ripped pages.
 
 105
 00:08:05,250 --> 00:08:07,410
@@ -428,7 +428,7 @@ Yeah. I feel like...
 
 108
 00:08:12,800 --> 00:08:17,340
-these will become some kind of\Nan important guide for us.
+these will become some kind ofan important guide for us.
 
 109
 00:08:17,680 --> 00:08:18,720
@@ -456,7 +456,7 @@ Are they the bad people?
 
 115
 00:08:33,150 --> 00:08:38,570
-That's right, he said he had Mom under control,\Nbut we're doomed if Sister finds out.
+That's right, he said he had Mom under control,but we're doomed if Sister finds out.
 
 116
 00:08:38,860 --> 00:08:40,490
@@ -464,15 +464,15 @@ What did he mean by doomed?
 
 117
 00:08:40,490 --> 00:08:43,530
-If they find out, is Mom or Sister\Ngoing to do something to us?
+If they find out, is Mom or Sistergoing to do something to us?
 
 118
 00:08:44,330 --> 00:08:48,370
-What if Mom is much more dangerous,\Nand Conny and our siblings are already...
+What if Mom is much more dangerous,and Conny and our siblings are already...
 
 119
 00:08:48,370 --> 00:08:52,040
-Stop it. Norman said he doesn't know\Nwhat happened to Conny.
+Stop it. Norman said he doesn't knowwhat happened to Conny.
 
 120
 00:08:52,040 --> 00:08:54,840
@@ -500,7 +500,7 @@ Mr. Minerva and the mystery of his books.
 
 126
 00:09:10,440 --> 00:09:15,650
-We're not just running away.\NLet's find a way for us to survive in this world.
+We're not just running away.Let's find a way for us to survive in this world.
 
 127
 00:09:15,940 --> 00:09:18,150
@@ -524,7 +524,7 @@ But I'm surprised.
 
 132
 00:09:37,000 --> 00:09:39,880
-It's expected from Ray\Nwho reads books all the time, but...
+It's expected from Raywho reads books all the time, but...
 
 133
 00:09:39,880 --> 00:09:42,550
@@ -544,7 +544,7 @@ Phil?
 
 137
 00:09:48,720 --> 00:09:52,480
-Yeah. He was reading a children’s book\Nand it was one of Mr. Minerva's.
+Yeah. He was reading a children’s bookand it was one of Mr. Minerva's.
 
 138
 00:09:52,480 --> 00:09:55,230
@@ -628,7 +628,7 @@ And, did Mom...
 
 158
 00:11:31,870 --> 00:11:36,420
-I don't think she noticed. We already\Nreturned the key, too. So probably...
+I don't think she noticed. We alreadyreturned the key, too. So probably...
 
 159
 00:11:37,120 --> 00:11:39,130
@@ -636,11 +636,11 @@ You did something really stupid.
 
 160
 00:11:39,420 --> 00:11:45,220
-What would you do if the room was equipped\Nwith either a camera, a bug, or an alarm?
+What would you do if the room was equippedwith either a camera, a bug, or an alarm?
 
 161
 00:11:45,220 --> 00:11:49,350
-If Mom or Sister found out,\Nyou two... no, all of us would be—
+If Mom or Sister found out,you two... no, all of us would be—
 
 162
 00:11:49,350 --> 00:11:51,140
@@ -652,11 +652,11 @@ Would we get killed?
 
 164
 00:11:56,100 --> 00:11:59,860
-We found Conny's Little Bunny\Nin the secret room.
+We found Conny's Little Bunnyin the secret room.
 
 165
 00:12:00,480 --> 00:12:03,400
-So much for your "I don't know"\Nand "let's go save them".
+So much for your "I don't know"and "let's go save them".
 
 166
 00:12:03,780 --> 00:12:05,990
@@ -712,11 +712,11 @@ It was for our sake.
 
 179
 00:12:50,160 --> 00:12:54,240
-Then Ray, you knew what was going\Nto happen to Conny that day?
+Then Ray, you knew what was goingto happen to Conny that day?
 
 180
 00:12:55,580 --> 00:13:01,460
-Emma and Norman, you both tried to trick us\Nand take us out into a world full of enemies?
+Emma and Norman, you both tried to trick usand take us out into a world full of enemies?
 
 181
 00:13:17,600 --> 00:13:18,810
@@ -736,11 +736,11 @@ Are we that much of a burden?
 
 185
 00:13:34,490 --> 00:13:40,040
-Are we that weak and useless to you\Nthat you feel the need to protect us?
+Are we that weak and useless to youthat you feel the need to protect us?
 
 186
 00:13:41,250 --> 00:13:46,000
-That time, when you asked us to help you,\NI thought you were relying on us.
+That time, when you asked us to help you,I thought you were relying on us.
 
 187
 00:13:46,000 --> 00:13:47,800
@@ -768,7 +768,7 @@ I just want you to have a little faith in us!
 
 193
 00:14:05,150 --> 00:14:09,070
-Sorry, I'm acting a little weird right now.\NI'm going to go cool off.
+Sorry, I'm acting a little weird right now.I'm going to go cool off.
 
 194
 00:14:09,740 --> 00:14:10,650
@@ -788,7 +788,7 @@ I'm just taking it out on them.
 
 198
 00:14:34,340 --> 00:14:36,680
-I'm not frustrated because\Nthey treated us like weaklings.
+I'm not frustrated becausethey treated us like weaklings.
 
 199
 00:14:37,050 --> 00:14:39,060
@@ -796,7 +796,7 @@ I made them lie.
 
 200
 00:14:39,720 --> 00:14:42,770
-I couldn't do anything\Nfor Conny and the others.
+I couldn't do anythingfor Conny and the others.
 
 201
 00:14:43,310 --> 00:14:46,020
@@ -836,7 +836,7 @@ Sorry. I didn't understand.
 
 210
 00:15:16,430 --> 00:15:21,060
-I was prepared to be resented, but I didn't\Nhave enough resolve to believe in you!
+I was prepared to be resented, but I didn'thave enough resolve to believe in you!
 
 211
 00:15:22,890 --> 00:15:24,020
@@ -848,7 +848,7 @@ Sorry.
 
 213
 00:15:28,270 --> 00:15:32,780
-No, well, I'm also sorry\Nthat I suddenly punched you.
+No, well, I'm also sorrythat I suddenly punched you.
 
 214
 00:15:33,400 --> 00:15:35,530
@@ -880,15 +880,15 @@ Geez, fine.
 
 221
 00:15:53,010 --> 00:15:56,680
-Even if the worst happens,\NI'll take care of it somehow.
+Even if the worst happens,I'll take care of it somehow.
 
 222
 00:15:58,840 --> 00:16:02,810
-I'm also sorry for the other things I did.\NI apologize.
+I'm also sorry for the other things I did.I apologize.
 
 223
 00:16:06,940 --> 00:16:11,150
-Don. Gilda. There's no more lying,\Nso let me ask again.
+Don. Gilda. There's no more lying,so let me ask again.
 
 224
 00:16:12,110 --> 00:16:13,730
@@ -916,11 +916,11 @@ Yeah.
 
 230
 00:16:43,060 --> 00:16:47,060
-{\an8}One week until we carry out our plan.\NThe preparations are going well, too.
+{\an8}One week until we carry out our plan.The preparations are going well, too.
 
 231
 00:16:47,060 --> 00:16:49,650
-{\an8}We just have to figure out\Nhow to escape with everyone.
+{\an8}We just have to figure outhow to escape with everyone.
 
 232
 00:16:50,060 --> 00:16:52,770
@@ -928,7 +928,7 @@ Yeah.
 
 233
 00:16:53,650 --> 00:16:57,780
-I tried to figure out on my own\Nhow to escape with everyone.
+I tried to figure out on my ownhow to escape with everyone.
 
 234
 00:17:05,910 --> 00:17:07,540
@@ -940,11 +940,11 @@ It is.
 
 236
 00:17:08,710 --> 00:17:11,750
-But with this plan,\Nwe can catch Mom off guard.
+But with this plan,we can catch Mom off guard.
 
 237
 00:17:11,750 --> 00:17:14,960
-Realistically, this is the only way\Nto escape with everyone.
+Realistically, this is the only wayto escape with everyone.
 
 238
 00:17:17,050 --> 00:17:17,970
@@ -960,7 +960,7 @@ No.
 
 241
 00:17:24,850 --> 00:17:28,430
-Do you think Ray\Nwould really have everyone escape?
+Do you think Raywould really have everyone escape?
 
 242
 00:17:28,430 --> 00:17:29,770
@@ -968,7 +968,7 @@ Of course he would.
 
 243
 00:17:30,060 --> 00:17:33,650
-Ray's been moving all this time\Nwhile thinking about us.
+Ray's been moving all this timewhile thinking about us.
 
 244
 00:17:34,060 --> 00:17:36,570
@@ -980,7 +980,7 @@ Both of us?
 
 246
 00:17:37,650 --> 00:17:42,280
-Oh. Don't worry.\NI'll bring it up to Ray sometime soon.
+Oh. Don't worry.I'll bring it up to Ray sometime soon.
 
 247
 00:17:42,570 --> 00:17:43,490
@@ -988,7 +988,7 @@ Okay.
 
 248
 00:18:10,310 --> 00:18:13,900
-"All this to make sure\Nyou two don't get killed."
+"All this to make sureyou two don't get killed."
 
 249
 00:18:14,980 --> 00:18:18,980
@@ -1012,7 +1012,7 @@ They'll come in handy for our investigation.
 
 254
 00:18:31,250 --> 00:18:35,920
-By investigation, you mean we'll go past the fence\Nto climb the wall and look outside, right?
+By investigation, you mean we'll go past the fenceto climb the wall and look outside, right?
 
 255
 00:18:36,290 --> 00:18:38,340
@@ -1020,15 +1020,15 @@ What about the tracking devices?
 
 256
 00:18:38,340 --> 00:18:41,420
-We just have to make sure\Nthey don't check them.
+We just have to make surethey don't check them.
 
 257
 00:18:41,670 --> 00:18:44,930
-We'll have both Mom and Sister\Nlooking somewhere else,
+We'll have both Mom and Sisterlooking somewhere else,
 
 258
 00:18:44,930 --> 00:18:48,140
-and create a situation where they\Nwon't look at their trackers.
+and create a situation where theywon't look at their trackers.
 
 259
 00:18:48,140 --> 00:18:49,720
@@ -1060,7 +1060,7 @@ Norman is trying to kill you.
 
 266
 00:19:09,160 --> 00:19:12,450
-If he wants to escape with everyone,\Nthat's something he would think of.
+If he wants to escape with everyone,that's something he would think of.
 
 267
 00:19:12,660 --> 00:19:13,460
@@ -1072,7 +1072,7 @@ He's collecting items.
 
 269
 00:19:15,120 --> 00:19:20,590
-A hammer, detergent, herbicide,\Nor anything else that he thinks he can use.
+A hammer, detergent, herbicide,or anything else that he thinks he can use.
 
 270
 00:19:20,590 --> 00:19:22,210
@@ -1092,7 +1092,7 @@ And that's how you got that bruise.
 
 274
 00:19:28,930 --> 00:19:32,060
-Murder by poison.\NChemicals can be troublesome.
+Murder by poison.Chemicals can be troublesome.
 
 275
 00:19:32,060 --> 00:19:35,190
@@ -1100,7 +1100,7 @@ Yeah. You'd better not ship them out early.
 
 276
 00:19:35,190 --> 00:19:38,980
-I want them to live to the end,\Nuntil 12 years old.
+I want them to live to the end,until 12 years old.
 
 277
 00:19:38,980 --> 00:19:41,230
@@ -1108,7 +1108,7 @@ In this House, without any discomforts.
 
 278
 00:19:42,690 --> 00:19:45,570
-So let's replace the chemicals\Nwith something else.
+So let's replace the chemicalswith something else.
 
 279
 00:19:45,570 --> 00:19:47,030
@@ -1120,7 +1120,7 @@ Do you know where it is?
 
 281
 00:19:48,570 --> 00:19:51,450
-- Yeah.\N- Then let's deal with this tomorrow.
+- Yeah.- Then let's deal with this tomorrow.
 
 282
 00:19:51,620 --> 00:19:52,870
@@ -1128,7 +1128,7 @@ Is that all you have to report?
 
 283
 00:19:52,870 --> 00:19:55,870
-Yeah. Do you have something else\Nthat's bothering you?
+Yeah. Do you have something elsethat's bothering you?
 
 284
 00:19:56,000 --> 00:19:56,960
@@ -1144,7 +1144,7 @@ I'm letting you know a little early.
 
 287
 00:20:01,670 --> 00:20:05,050
-I received a notification from the top\Nat yesterday's scheduled check-in.
+I received a notification from the topat yesterday's scheduled check-in.
 
 288
 00:20:05,050 --> 00:20:06,630
@@ -1152,7 +1152,7 @@ The next shipment has been set.
 
 289
 00:20:08,180 --> 00:20:10,510
-There will be no regular shipment\Nfor next month.
+There will be no regular shipmentfor next month.
 
 290
 00:20:11,220 --> 00:20:13,310
@@ -1168,11 +1168,11 @@ So the next shipment will finally be me, huh?
 
 293
 00:20:25,740 --> 00:20:29,740
-But even if we leave Ray to deal with Mom,\Nwhat about Sister?
+But even if we leave Ray to deal with Mom,what about Sister?
 
 294
 00:20:29,740 --> 00:20:33,580
-Yeah, if she finds out,\Nwe'll be shipped out immediately, right?
+Yeah, if she finds out,we'll be shipped out immediately, right?
 
 295
 00:20:33,580 --> 00:20:35,450
@@ -1192,15 +1192,15 @@ I was watching the whole thing!
 
 299
 00:20:58,020 --> 00:21:03,150
-Talking in the dining hall last night,\Nall of you!
+Talking in the dining hall last night,all of you!
 
 300
 00:21:03,730 --> 00:21:06,150
-The ones who know the secret\Nabout this House
+The ones who know the secretabout this House
 
 301
 00:21:06,150 --> 00:21:10,660
-is Norman, Emma, Ray, Gilda, and Don.\NThe five of you.
+is Norman, Emma, Ray, Gilda, and Don.The five of you.
 
 302
 00:21:14,990 --> 00:21:16,500
