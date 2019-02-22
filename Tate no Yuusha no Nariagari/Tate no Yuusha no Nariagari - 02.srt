@@ -1,0 +1,1372 @@
+1
+00:00:15,280 --> 00:00:16,640
+Sir...
+
+2
+00:00:17,530 --> 00:00:20,750
+This slave here is my recommendation.
+
+3
+00:00:26,620 --> 00:00:28,420
+It's level 75.
+
+4
+00:00:28,930 --> 00:00:31,570
+That's close to twenty times my level.
+
+5
+00:00:32,310 --> 00:00:33,460
+How much for this one?
+
+6
+00:00:33,460 --> 00:00:37,710
+Well, it is highly capable in battle.
+
+7
+00:00:37,710 --> 00:00:40,480
+How does 15 gold pieces sound?
+
+8
+00:00:40,480 --> 00:00:44,180
+Showing me your most expensive slave knowing that I can't afford it, huh?
+
+9
+00:00:44,180 --> 00:00:48,580
+Indeed. You're sure to become one of my best patrons,
+
+10
+00:00:48,580 --> 00:00:52,360
+so I need you to develop a keen eye, you see.
+
+11
+00:00:53,630 --> 00:00:54,700
+Well...
+
+12
+00:00:54,700 --> 00:00:57,730
+Now that you've seen my best,
+
+13
+00:00:57,730 --> 00:01:01,460
+let me ask you: what kind of slave would you like?
+
+14
+00:01:01,460 --> 00:01:03,570
+One that's cheap and obedient.
+
+15
+00:01:04,540 --> 00:01:05,910
+In other words,
+
+16
+00:01:05,910 --> 00:01:08,120
+a demi-human?
+
+17
+00:01:08,900 --> 00:01:12,300
+These aren't suited for combat or manual labor.
+
+18
+00:01:12,300 --> 00:01:14,720
+If I need them in battle, I'll train them.
+
+19
+00:01:14,720 --> 00:01:16,830
+That's an amusing response,
+
+20
+00:01:16,830 --> 00:01:19,260
+when you don't believe in people.
+
+21
+00:01:19,260 --> 00:01:21,790
+But slaves aren't people.
+
+22
+00:01:21,790 --> 00:01:24,340
+Training one is no different than upgrading my shield.
+
+23
+00:01:25,360 --> 00:01:28,200
+Well, you've got me there.
+
+24
+00:01:29,170 --> 00:01:33,500
+These are the cheapest slaves I can offer you.
+
+25
+00:01:33,500 --> 00:01:34,650
+From the left...
+
+26
+00:01:34,650 --> 00:01:35,800
+Raise your head.
+
+27
+00:01:41,200 --> 00:01:45,980
+That half-raccoon is diseased and has a mental disorder.
+
+28
+00:01:45,980 --> 00:01:49,020
+I'm having a real hard time with her myself.
+
+29
+00:01:50,830 --> 00:01:54,330
+Her previous owner loved his torture, you see.
+
+30
+00:01:54,710 --> 00:01:57,600
+I doubt she'll last much longer.
+
+31
+00:01:57,600 --> 00:01:58,670
+I've decided.
+
+32
+00:01:59,920 --> 00:02:01,500
+I'll take this one.
+
+33
+00:03:35,650 --> 00:03:40,740
+{\fad(485,772)}The Slave Girl
+
+34
+00:03:38,690 --> 00:03:39,850
+Let's begin.
+
+35
+00:03:55,770 --> 00:03:56,740
+Hey...
+
+36
+00:03:56,740 --> 00:03:58,440
+Worry not.
+
+37
+00:03:58,440 --> 00:04:00,400
+The pain will dissipate soon.
+
+38
+00:04:02,250 --> 00:04:07,770
+The slave crest on her chest makes it impossible for her to defy you.
+
+39
+00:04:08,350 --> 00:04:09,640
+{\fad(398,183)}Acquired Slave A.
+
+40
+00:04:10,060 --> 00:04:11,930
+{\fad(1000,1)}SlaveCrest
+
+41
+00:04:10,060 --> 00:04:11,930
+{\fad(1000,1)}MonsterCrest
+
+42
+00:04:10,060 --> 00:04:11,930
+{\fad(1000,1)}Summon
+
+43
+00:04:10,060 --> 00:04:11,930
+{\fad(1000,1)}Violation Conditions{\c&HFEFCFF&}Refuse OrderAttack Master{\c&H61676F&}Attack [      ]Get [   ] Meters From MasterLie to MasterFleeItem Use
+
+44
+00:04:10,060 --> 00:04:11,930
+{\fad(1000,1)}PartyMember Settings{\c&HFEFCFF&}Violation Damage Lv.7Speech AllowedAuto Attack{\c&H61676F&}Magical SupportPrioritize SurvivalTankItem Recovery
+
+45
+00:04:12,260 --> 00:04:13,830
+"Party member settings"?
+
+46
+00:04:13,830 --> 00:04:17,050
+Now this girl is all yours.
+
+47
+00:04:17,460 --> 00:04:19,700
+Thirty silvers, right?
+
+48
+00:04:24,800 --> 00:04:26,870
+There's one extra in here.
+
+49
+00:04:26,870 --> 00:04:28,460
+That's your commission.
+
+50
+00:04:28,460 --> 00:04:30,980
+You were going to wring it out of me anyway, weren't you?
+
+51
+00:04:30,980 --> 00:04:32,610
+You certainly know your stuff.
+
+52
+00:04:33,120 --> 00:04:36,130
+Well, I guess I should know your name.
+
+53
+00:04:37,540 --> 00:04:39,340
+Tell me your name.
+
+54
+00:04:40,170 --> 00:04:41,420
+What's your name?
+
+55
+00:04:41,880 --> 00:04:44,170
+R-Raphtalia...
+
+56
+00:04:44,630 --> 00:04:46,220
+Raphtalia, huh?
+
+57
+00:04:48,010 --> 00:04:49,180
+Let's go.
+
+58
+00:04:51,310 --> 00:04:54,690
+I'm looking forward to your next visit.
+
+59
+00:04:58,150 --> 00:05:00,770
+So he really did choose her.
+
+60
+00:05:00,770 --> 00:05:03,990
+I'm getting goosebumps!
+
+61
+00:05:05,490 --> 00:05:06,990
+Welcome!
+
+62
+00:05:08,620 --> 00:05:10,490
+Oh, it's you, kid.
+
+63
+00:05:11,910 --> 00:05:14,370
+Hey, hey... What's with the girl?
+
+64
+00:05:16,750 --> 00:05:18,880
+Give me a weapon she can use.
+
+65
+00:05:19,340 --> 00:05:21,180
+Keep it under six silvers.
+
+66
+00:05:23,670 --> 00:05:25,050
+Took you long enough.
+
+67
+00:05:25,550 --> 00:05:27,340
+I-I'm sorry.
+
+68
+00:05:27,800 --> 00:05:28,840
+Whatever.
+
+69
+00:05:29,430 --> 00:05:31,590
+Raphtalia, draw your knife.
+
+70
+00:05:36,240 --> 00:05:38,310
+Let me see you stab and burst this thing.
+
+71
+00:05:38,310 --> 00:05:40,270
+N-No...
+
+72
+00:05:40,270 --> 00:05:41,190
+This is an order!
+
+73
+00:05:45,940 --> 00:05:48,360
+You only hurt yourself by refusing.
+
+74
+00:05:48,820 --> 00:05:49,690
+Do it!
+
+75
+00:05:55,330 --> 00:05:56,410
+Too weak!
+
+76
+00:05:56,410 --> 00:05:57,710
+Put more heart in it!
+
+77
+00:05:58,620 --> 00:05:59,630
+Do it!
+
+78
+00:06:07,260 --> 00:06:09,130
+Huh? I got EXP, too?
+
+79
+00:06:09,130 --> 00:06:13,350
+Probably because you set her as acompanion when forming the pact.
+
+80
+00:06:13,350 --> 00:06:16,930
+Wait, you didn't do thatwith the lady from before?
+
+81
+00:06:17,560 --> 00:06:19,020
+Damn that woman...
+
+82
+00:06:19,780 --> 00:06:20,480
+Listen up.
+
+83
+00:06:21,560 --> 00:06:25,780
+From here on out, I expect you to fight monsters for me.
+
+84
+00:06:27,110 --> 00:06:29,200
+I bought you with what little money I had.
+
+85
+00:06:29,200 --> 00:06:31,740
+You'd better help me recoup your cost, at least.
+
+86
+00:06:32,120 --> 00:06:35,120
+Kid, you're not going to die a painless death.
+
+87
+00:06:35,660 --> 00:06:37,870
+Thanks for the compliment.
+
+88
+00:06:39,160 --> 00:06:41,420
+Quit sitting around. Let's go.
+
+89
+00:06:41,420 --> 00:06:42,670
+Y-Yes!
+
+90
+00:06:45,090 --> 00:06:46,210
+Sheesh...
+
+91
+00:06:46,210 --> 00:06:50,760
+I don't know whether it's our country to blame, or if the kid's just been corrupted.
+
+92
+00:06:53,010 --> 00:06:55,100
+Three silvers left...
+
+93
+00:06:57,310 --> 00:06:59,350
+Get a move on!
+
+94
+00:07:00,390 --> 00:07:02,560
+We don't have all day, you little shits!
+
+95
+00:07:04,860 --> 00:07:07,320
+What's wrong with you, you moron?!
+
+96
+00:07:06,400 --> 00:07:07,740
+I'm sorry!
+
+97
+00:07:08,610 --> 00:07:10,110
+Are you hungry?
+
+98
+00:07:10,530 --> 00:07:11,200
+No.
+
+99
+00:07:11,470 --> 00:07:13,280
+You can't fight on an empty stomach.
+
+100
+00:07:13,780 --> 00:07:15,200
+Let's get some lunch.
+
+101
+00:07:19,710 --> 00:07:28,760
+We don't serve demi-humans.
+
+102
+00:07:20,910 --> 00:07:22,420
+U-Um...
+
+103
+00:07:22,420 --> 00:07:23,330
+What's wrong?
+
+104
+00:07:23,330 --> 00:07:24,250
+This place...
+
+105
+00:07:24,250 --> 00:07:25,130
+Hurry up!
+
+106
+00:07:28,740 --> 00:07:30,040
+Welcome!
+
+107
+00:07:30,470 --> 00:07:32,550
+Ack, it's the Shield Hero...
+
+108
+00:07:32,550 --> 00:07:34,140
+Is he the rapist?
+
+109
+00:07:34,140 --> 00:07:35,800
+Keep it down! He'll hear you!
+
+110
+00:07:35,350 --> 00:07:36,390
+Can I order?
+
+111
+00:07:36,660 --> 00:07:38,850
+Huh? I-I guess...
+
+112
+00:07:39,070 --> 00:07:40,750
+Look, it's a demi-human.
+
+113
+00:07:40,750 --> 00:07:42,440
+Why's a demi here?
+
+114
+00:07:41,020 --> 00:07:43,190
+The cheapest lunch set you have.
+
+115
+00:07:42,440 --> 00:07:44,060
+Someone kick her out!
+
+116
+00:07:44,060 --> 00:07:47,230
+And she'll have whatever that kid's having.
+
+117
+00:07:47,690 --> 00:07:49,740
+That'll be nine coppers.
+
+118
+00:07:49,740 --> 00:07:50,400
+Sure.
+
+119
+00:07:54,280 --> 00:07:55,410
+Why?
+
+120
+00:07:55,910 --> 00:07:57,490
+Did you want something else?
+
+121
+00:07:58,450 --> 00:08:01,330
+Why are you getting it for me?
+
+122
+00:08:01,960 --> 00:08:04,630
+Because you looked like you wanted to try it.
+
+123
+00:08:07,130 --> 00:08:09,000
+Here's your food.
+
+124
+00:08:13,430 --> 00:08:14,590
+Aren't you going to eat?
+
+125
+00:08:14,590 --> 00:08:15,550
+Can I really?
+
+126
+00:08:18,640 --> 00:08:20,060
+Yes, just eat up.
+
+127
+00:08:36,280 --> 00:08:37,280
+Drink this.
+
+128
+00:08:45,920 --> 00:08:46,540
+Is it good?
+
+129
+00:08:48,340 --> 00:08:49,250
+Yeah!
+
+130
+00:08:55,010 --> 00:08:56,890
+I still don't taste a thing.
+
+131
+00:08:59,430 --> 00:09:00,440
+Raphtalia!
+
+132
+00:09:00,800 --> 00:09:02,050
+Y-Yes!
+
+133
+00:09:07,560 --> 00:09:08,560
+Now!
+
+134
+00:09:17,780 --> 00:09:20,740
+{\fad(500,500)}SkillTree
+
+135
+00:09:17,780 --> 00:09:20,740
+{\fad(500,500)}MasteryBonus
+
+136
+00:09:17,780 --> 00:09:20,740
+{\fad(500,500)}Blue Mush Shield
+
+137
+00:09:17,780 --> 00:09:20,740
+{\fad(500,500)}ATT: 0MAG: 0P. DEF: +4M. DEF: +6DEX: 0
+
+138
+00:09:17,780 --> 00:09:20,740
+{\fad(500,500)}Fire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
+
+139
+00:09:17,780 --> 00:09:20,740
+{\fad(500,500)}ProficiencyUnlock ConditionsUnlock Mush ShieldBlue Mush Spores x3Spores of Blue Mush x2
+
+140
+00:09:17,780 --> 00:09:20,740
+{\fad(500,500)}Simple Blending Recipes 1
+
+141
+00:09:19,070 --> 00:09:20,780
+Blending ability, huh?
+
+142
+00:09:21,660 --> 00:09:23,660
+That might come in handy.
+
+143
+00:09:24,200 --> 00:09:25,620
+Master...
+
+144
+00:09:26,960 --> 00:09:29,710
+Who are you?
+
+145
+00:09:30,460 --> 00:09:32,920
+A hero. The shield one.
+
+146
+00:09:32,920 --> 00:09:36,130
+You mean... One of the Four Cardinal Heroes?
+
+147
+00:09:36,130 --> 00:09:36,670
+Yeah.
+
+148
+00:09:38,890 --> 00:09:40,390
+Raphtalia...
+
+149
+00:09:41,220 --> 00:09:43,850
+Do you know of the four legendary heroes?
+
+150
+00:09:43,850 --> 00:09:47,980
+Yep! The ones with the sword, the bow, and the spear...
+
+151
+00:09:47,980 --> 00:09:49,730
+And then, the one with the shield!
+
+152
+00:09:50,020 --> 00:09:50,940
+Correct.
+
+153
+00:09:50,940 --> 00:09:56,240
+The Shield Hero, in particular, treated us demi-humans very well.
+
+154
+00:09:56,240 --> 00:09:59,200
+Really? I'd like to meet him.
+
+155
+00:09:59,490 --> 00:10:02,830
+If you're a good girl, I'm sure you'll meet him one day.
+
+156
+00:10:09,380 --> 00:10:12,340
+The Shield Hero...
+
+157
+00:10:12,340 --> 00:10:14,760
+U-Um... What is your name?
+
+158
+00:10:15,260 --> 00:10:16,840
+Iwatani Naofumi.
+
+159
+00:10:17,170 --> 00:10:19,800
+Iwatani... Naofumi.
+
+160
+00:10:21,890 --> 00:10:23,300
+Drink this.
+
+161
+00:10:24,850 --> 00:10:26,730
+It's a medicine I blended.
+
+162
+00:10:26,730 --> 00:10:28,520
+Apparently, it can cure mild colds.
+
+163
+00:10:29,270 --> 00:10:30,350
+Drink it.
+
+164
+00:10:35,650 --> 00:10:36,690
+So bitter!
+
+165
+00:10:36,690 --> 00:10:38,950
+Good medicine tastes bitter.
+
+166
+00:10:38,950 --> 00:10:39,820
+Just drink it all.
+
+167
+00:11:03,640 --> 00:11:05,640
+We're sorry, Raphtalia.
+
+168
+00:11:06,720 --> 00:11:10,230
+We want you to live, Raphtalia.
+
+169
+00:11:10,230 --> 00:11:13,150
+Please forgive our selfishness.
+
+170
+00:11:19,530 --> 00:11:20,770
+No!
+
+171
+00:11:22,320 --> 00:11:24,620
+Dad! Mom!
+
+172
+00:11:24,620 --> 00:11:25,700
+What's wrong?
+
+173
+00:11:26,290 --> 00:11:27,410
+Calm down!
+
+174
+00:11:27,240 --> 00:11:30,040
+No... Help...
+
+175
+00:11:27,830 --> 00:11:29,120
+Just calm down.
+
+176
+00:11:30,500 --> 00:11:35,290
+No! Dad, Mom!
+
+177
+00:11:32,540 --> 00:11:33,580
+Don't cry.
+
+178
+00:11:35,920 --> 00:11:36,920
+It's okay.
+
+179
+00:11:39,010 --> 00:11:40,880
+It's all right.
+
+180
+00:11:45,350 --> 00:11:47,810
+The quality's not bad.
+
+181
+00:11:48,270 --> 00:11:51,100
+Are you well versed in making medicines, Sir Hero?
+
+182
+00:11:51,440 --> 00:11:53,400
+Yesterday was my first try.
+
+183
+00:11:53,400 --> 00:11:54,560
+Oh?
+
+184
+00:11:54,560 --> 00:11:57,520
+Which is more profitable, selling herbs or medicine?
+
+185
+00:11:57,940 --> 00:12:02,280
+Due to the Wave's impact, medicine is flying off the shelves lately,
+
+186
+00:12:02,280 --> 00:12:05,490
+so I'd pay more for medicine than for herbs.
+
+187
+00:12:05,490 --> 00:12:06,620
+I see.
+
+188
+00:12:08,290 --> 00:12:11,000
+In total, this is worth four silvers.
+
+189
+00:12:11,000 --> 00:12:14,250
+Say, do you have any tools you don't use anymore?
+
+190
+00:12:14,670 --> 00:12:15,750
+Here we go!
+
+191
+00:12:15,750 --> 00:12:16,460
+Okay!
+
+192
+00:12:16,460 --> 00:12:17,630
+One, two...
+
+193
+00:12:17,420 --> 00:12:18,670
+Raphtalia.
+
+194
+00:12:18,170 --> 00:12:18,670
+Hup!
+
+195
+00:12:20,050 --> 00:12:21,880
+Do you want one of those balls?
+
+196
+00:12:23,180 --> 00:12:24,800
+N-Not at all!
+
+197
+00:12:24,800 --> 00:12:27,350
+I don't want it at all!
+
+198
+00:12:29,100 --> 00:12:30,850
+So she wants one, huh?
+
+199
+00:12:34,440 --> 00:12:36,510
+You can play with it {\i1}after{\i0}we're done with work.
+
+200
+00:12:37,980 --> 00:12:38,820
+Thank you!
+
+201
+00:12:41,070 --> 00:12:42,240
+Coming!
+
+202
+00:12:42,240 --> 00:12:44,530
+Uh, the Shield Hero...
+
+203
+00:12:44,530 --> 00:12:46,070
+I'd like to rent a room.
+
+204
+00:12:46,070 --> 00:12:48,450
+My companion might scream at night, though.
+
+205
+00:12:50,370 --> 00:12:52,250
+You {\i1}will{\i0} let us stay, right?
+
+206
+00:12:53,120 --> 00:12:55,790
+O-Of course! I'll prepare a room at once!
+
+207
+00:12:59,420 --> 00:13:04,340
+I have to find a way to survive before the next Wave of Catastrophe hits.
+
+208
+00:13:37,790 --> 00:13:41,340
+All right. We can go a little deeper into the forest now...
+
+209
+00:13:45,340 --> 00:13:46,880
+A rabbit?
+
+210
+00:13:47,470 --> 00:13:48,220
+Watch out!
+
+211
+00:13:49,350 --> 00:13:51,390
+Now, Raphtalia! Stab it!
+
+212
+00:13:53,350 --> 00:13:55,430
+What's wrong? Get on with it!
+
+213
+00:13:55,430 --> 00:13:58,600
+B-But... It'll bleed if I do...
+
+214
+00:13:58,600 --> 00:13:59,650
+Hurry up!
+
+215
+00:13:59,650 --> 00:14:01,390
+I'm scared of blood!
+
+216
+00:14:05,150 --> 00:14:06,990
+Listen well.
+
+217
+00:14:07,280 --> 00:14:10,700
+If you can't fight, then I won't be able to look after you anymore.
+
+218
+00:14:12,790 --> 00:14:15,370
+A Wave that threatens the world's existence is coming soon.
+
+219
+00:14:15,370 --> 00:14:18,540
+I have to get as strong as I can before it does.
+
+220
+00:14:18,960 --> 00:14:21,880
+But defense is all I'm good for.
+
+221
+00:14:21,880 --> 00:14:24,340
+I need someone to fight for me.
+
+222
+00:14:25,050 --> 00:14:27,680
+If you can't do it, I'll get someone else.
+
+223
+00:14:29,390 --> 00:14:30,260
+So...
+
+224
+00:14:30,260 --> 00:14:32,890
+You're going to fight the Catastrophe?
+
+225
+00:14:32,890 --> 00:14:34,640
+That is my job.
+
+226
+00:14:36,140 --> 00:14:37,350
+Got it.
+
+227
+00:14:50,860 --> 00:14:54,830
+Master... I'll fight for you.
+
+228
+00:14:55,290 --> 00:14:58,000
+So please don't throw me away.
+
+229
+00:14:58,660 --> 00:14:59,580
+All right.
+
+230
+00:15:01,080 --> 00:15:02,580
+This is reality.
+
+231
+00:15:03,210 --> 00:15:04,460
+Not a game.
+
+232
+00:15:04,800 --> 00:15:08,010
+If I want to live, I have no choice but to fight!
+
+233
+00:15:10,590 --> 00:15:12,390
+Sell us a new weapon for this amount.
+
+234
+00:15:12,640 --> 00:15:16,600
+Time to get the little miss a sword, then.
+
+235
+00:15:18,350 --> 00:15:20,940
+One on the short side would be good to start off.
+
+236
+00:15:21,310 --> 00:15:22,730
+How about this?
+
+237
+00:15:22,730 --> 00:15:24,690
+It's a short sword made of iron.
+
+238
+00:15:25,190 --> 00:15:26,280
+Boss...
+
+239
+00:15:26,820 --> 00:15:30,200
+Is there a town or village nearby that we can travel to with our equipment?
+
+240
+00:15:30,610 --> 00:15:36,200
+Well, with your stuff, it'd have to be here.
+
+241
+00:15:35,660 --> 00:15:39,290
+{\fad(1114,1)}The Village of Lute
+
+242
+00:15:39,290 --> 00:15:40,540
+How much?
+
+243
+00:15:40,910 --> 00:15:45,170
+Around two silvers in all, I'd say.
+
+244
+00:15:45,170 --> 00:15:46,500
+Is that so?
+
+245
+00:15:46,500 --> 00:15:50,840
+Hey, do you know of any spots nearby when you can earn a lot of money quick?
+
+246
+00:15:50,840 --> 00:15:52,260
+Hmm...
+
+247
+00:15:52,760 --> 00:15:57,930
+The ores from that coal pit over there should fetch a decent amount, but...
+
+248
+00:15:58,600 --> 00:15:59,880
+Is there a catch?
+
+249
+00:16:00,430 --> 00:16:04,810
+Ever since the first Wave, it's become home to a bunch of dangerous monsters.
+
+250
+00:16:04,810 --> 00:16:07,400
+Nobody dares approach it anymore.
+
+251
+00:16:07,400 --> 00:16:08,690
+I see.
+
+252
+00:16:08,690 --> 00:16:13,200
+Sheesh! I don't know what our summoned "heroes" are even doing.
+
+253
+00:16:21,710 --> 00:16:23,210
+SkillTree
+
+254
+00:16:21,710 --> 00:16:23,210
+MasteryBonus
+
+255
+00:16:21,710 --> 00:16:23,210
+{\fad(500,1)}Rope Shield
+
+256
+00:16:21,710 --> 00:16:23,210
+{\fad(500,1)}ATT: 0MAG: 0P. DEF: +15M. DEF: +20DEX: 0
+
+257
+00:16:21,710 --> 00:16:23,210
+{\fad(500,1)}Fire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
+
+258
+00:16:21,710 --> 00:16:23,210
+{\fad(500,1)}ProficiencyUnlock ConditionsLv. 5 or HigherUnlock Magnet Shield
+
+259
+00:16:21,710 --> 00:16:23,210
+{\fad(500,1)}Air Strike Shield      Rope
+
+260
+00:16:23,210 --> 00:16:25,710
+It's got an exclusive effect and skill, huh?
+
+261
+00:16:30,380 --> 00:16:33,630
+Rope Shield... Not exactlywhat I'd call a creative name.
+
+262
+00:16:33,260 --> 00:16:34,720
+{\fad(524,1)}Skill{\fs16}Can be activated at the cost of SP.Can also be quick cast by shortening pronunciation or using crystals.
+
+263
+00:16:34,720 --> 00:16:36,050
+All right.
+
+264
+00:16:36,970 --> 00:16:38,680
+Air Strike Shield!
+
+265
+00:16:44,840 --> 00:16:46,480
+Master?
+
+266
+00:16:48,150 --> 00:16:50,400
+It's nothing. Let's go.
+
+267
+00:16:56,870 --> 00:16:59,030
+There are dangerous monsters here, apparently.
+
+268
+00:16:59,030 --> 00:17:01,040
+The moment things go south, we run.
+
+269
+00:17:01,040 --> 00:17:02,540
+You'd better keep up.
+
+270
+00:17:02,540 --> 00:17:03,210
+Okay!
+
+271
+00:17:04,830 --> 00:17:05,670
+U...
+
+272
+00:17:05,670 --> 00:17:06,750
+Um...
+
+273
+00:17:06,750 --> 00:17:07,630
+What is it?
+
+274
+00:17:08,130 --> 00:17:12,300
+How should I address you, Master?
+
+275
+00:17:12,300 --> 00:17:13,720
+Call me whatever.
+
+276
+00:17:13,720 --> 00:17:15,430
+Th-Then...
+
+277
+00:17:19,720 --> 00:17:21,100
+Is this the place?
+
+278
+00:17:22,730 --> 00:17:23,980
+All right.
+
+279
+00:17:29,110 --> 00:17:30,350
+Are those...
+
+280
+00:17:31,530 --> 00:17:33,900
+This will fetch a pretty penny.
+
+281
+00:17:33,900 --> 00:17:36,360
+Raphtalia, let's try over there next...
+
+282
+00:17:45,830 --> 00:17:47,540
+No!
+
+283
+00:18:01,680 --> 00:18:03,140
+You okay?
+
+284
+00:18:03,140 --> 00:18:05,390
+D-Dog monster...
+
+285
+00:18:05,890 --> 00:18:09,860
+Killed all the villagers, even Dad and Mom...
+
+286
+00:18:10,560 --> 00:18:12,650
+During the first Wave, huh?
+
+287
+00:18:13,980 --> 00:18:16,150
+So that's why she starts crying every night.
+
+288
+00:18:23,040 --> 00:18:25,790
+Is that the same dog that killed your parents?
+
+289
+00:18:26,410 --> 00:18:27,500
+No...
+
+290
+00:18:27,500 --> 00:18:28,620
+Listen, Raphtalia.
+
+291
+00:18:29,750 --> 00:18:32,500
+Take that thing out here and now.
+
+292
+00:18:33,800 --> 00:18:36,220
+If you fight and make me stronger,
+
+293
+00:18:36,220 --> 00:18:39,890
+we can fend off the Waves of Catastrophe and prevent that tragedy from reoccurring.
+
+294
+00:18:40,970 --> 00:18:43,010
+Your parents won't ever come back.
+
+295
+00:18:43,010 --> 00:18:47,850
+But we can prevent other kids from going through what you did.
+
+296
+00:18:47,850 --> 00:18:53,690
+And all I'm capable of is making sure you can fight as best you can!
+
+297
+00:18:59,240 --> 00:19:01,870
+Now, Raphtalia!
+
+298
+00:19:02,660 --> 00:19:04,540
+Stab it with your sword!
+
+299
+00:19:04,540 --> 00:19:05,450
+Now!
+
+300
+00:19:06,500 --> 00:19:07,450
+No...
+
+301
+00:19:09,290 --> 00:19:12,130
+If I die, so will you!
+
+302
+00:19:12,130 --> 00:19:12,960
+Please no!
+
+303
+00:19:12,960 --> 00:19:14,960
+Then hurry up and kill it!
+
+304
+00:19:15,300 --> 00:19:17,630
+This is an order!
+
+305
+00:19:32,270 --> 00:19:34,690
+Raphtalia, forget it.
+
+306
+00:19:35,650 --> 00:19:38,320
+If you can't fight, then get out of here.
+
+307
+00:19:39,240 --> 00:19:40,650
+But what about you?
+
+308
+00:19:40,650 --> 00:19:43,660
+I'll buy time for you to escape.
+
+309
+00:19:43,660 --> 00:19:44,910
+What?
+
+310
+00:19:46,040 --> 00:19:50,120
+That'd be just like then...
+
+311
+00:19:51,040 --> 00:19:52,580
+Hurry up and go!
+
+312
+00:19:52,580 --> 00:19:54,000
+Master!
+
+313
+00:19:55,920 --> 00:19:56,670
+No...
+
+314
+00:19:58,130 --> 00:19:58,760
+No!
+
+315
+00:20:03,470 --> 00:20:04,930
+Don't go!
+
+316
+00:20:06,970 --> 00:20:08,770
+Don't leave me!
+
+317
+00:20:14,860 --> 00:20:17,320
+Don't die!
+
+318
+00:20:25,620 --> 00:20:27,200
+Air Strike Shield!
+
+319
+00:20:28,990 --> 00:20:29,950
+Raphtalia!
+
+320
+00:20:41,130 --> 00:20:42,680
+Well done.
+
+321
+00:20:48,380 --> 00:20:50,350
+Naofumi-sama!
+
+322
+00:20:51,270 --> 00:20:55,850
+Hey, even with the shield's power, the wound still hurts!
+
+323
+00:20:55,850 --> 00:20:59,810
+Don't ever die! Please don't leave me alone!
+
+324
+00:20:59,810 --> 00:21:01,690
+Naofumi-sama!
+
+325
+00:21:01,690 --> 00:21:03,650
+She chose my name, huh?
+
+326
+00:21:04,910 --> 00:21:07,660
+You attack, and I defend.
+
+327
+00:21:08,080 --> 00:21:10,450
+That way, neither of us will die.
+
+328
+00:21:10,870 --> 00:21:11,790
+Right.
+
+329
+00:21:12,660 --> 00:21:15,670
+We're leaving once I feed this monster to my shield.
+
+330
+00:21:15,670 --> 00:21:18,090
+Okay, Naofumi-sama.
+
+331
+00:21:20,380 --> 00:21:21,550
+Get off already.
+
+332
+00:21:22,090 --> 00:21:23,510
+A bit longer...
+
+333
+00:23:00,650 --> 00:23:04,270
+The ore made us a lot of money, so you can eat all you want.
+
+334
+00:23:04,270 --> 00:23:05,160
+Thank you!
+
+335
+00:23:07,030 --> 00:23:08,150
+Is it good?
+
+336
+00:23:08,150 --> 00:23:09,070
+Yeah!
+
+337
+00:23:09,910 --> 00:23:10,910
+I see.
+
+338
+00:23:15,150 --> 00:23:16,150
+Naofumi-sama...
+
+339
+00:23:18,170 --> 00:23:20,570
+Let's survive, no matter what!
+
+340
+00:23:20,570 --> 00:23:22,210
+Of course.
+
+341
+00:23:25,300 --> 00:23:27,550
+Here. A kids' lunch...
+
+342
+00:23:28,840 --> 00:23:30,340
+isn't complete without this.
+
+343
+00:23:36,180 --> 00:23:39,930
+{\fad(356,1)}Wave of Catastrophe
+
