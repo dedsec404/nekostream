@@ -1,10 +1,10 @@
 1
 00:00:17,160 --> 00:00:19,330
-{\fad(750,645)}The Rising of the Shield Hero
+The Rising of the Shield Hero
 
 2
 00:01:30,940 --> 00:01:36,320
-{\fad(486,682)}The Savior of the Heavenly Fowl
+The Savior of the Heavenly Fowl
 
 3
 00:01:34,440 --> 00:01:38,200
@@ -188,7 +188,7 @@ I can't say for sure that I'll be able to heal them.
 
 48
 00:04:09,970 --> 00:04:11,600
-{\fad(104,1)}Potion Enhance
+Potion Enhance
 
 49
 00:04:21,570 --> 00:04:22,610
@@ -424,7 +424,7 @@ This is what the Shield Hero can do...
 
 107
 00:08:33,400 --> 00:08:34,360
-{\fad(104,1)}Potion Enhance
+Potion Enhance
 
 108
 00:08:43,160 --> 00:08:44,080
@@ -472,7 +472,7 @@ What am I gonna do with them?
 
 119
 00:09:25,790 --> 00:09:27,080
-{\fad(151,1)}Bio Plant Shield
+Bio Plant Shield
 
 120
 00:09:27,620 --> 00:09:29,340
@@ -540,11 +540,11 @@ U-Uh... right.
 
 136
 00:10:47,120 --> 00:10:48,040
-{\fad(194,1)}Plant Analysis Skill Unlocked
+Plant Analysis Skill Unlocked
 
 137
 00:10:50,710 --> 00:10:54,550
-{\fad(275,1)}Bio Plant Seed
+Bio Plant Seed
 
 138
 00:10:54,550 --> 00:10:56,210
@@ -616,7 +616,7 @@ you're giving us such a wonderful gift!
 
 155
 00:11:49,180 --> 00:11:51,140
-Who said anything about {\i1}giving{\i0} it to you?
+Who said anything about giving it to you?
 
 156
 00:11:51,850 --> 00:11:53,020
@@ -744,7 +744,7 @@ How about you, Raphtalia?
 
 187
 00:13:22,030 --> 00:13:25,030
-I'm not {\i1}that{\i0} interested.
+I'm not that interested.
 
 188
 00:13:25,610 --> 00:13:29,030
@@ -1272,7 +1272,7 @@ East.
 
 319
 00:23:36,180 --> 00:23:39,930
-{\fad(356,1)}Curse Shield
+Curse Shield
 
 320
 00:23:39,930 --> 00:23:41,930

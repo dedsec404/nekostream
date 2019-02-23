@@ -40,7 +40,7 @@ Enter
 
 11
 00:01:39,280 --> 00:01:44,120
-{\frx60\fscy200\fad(900,268)}Mob Psycho
+Mob Psycho
 
 12
 00:01:49,000 --> 00:01:54,000
@@ -112,11 +112,11 @@ The key to successfulwalk-in sales is a smile!
 
 29
 00:02:44,470 --> 00:02:45,550
-{\fad(608,1)}Spiritual Advice
+Spiritual Advice
 
 30
 00:02:46,930 --> 00:02:51,390
-{\move(590,127,575,130)}Spiritual Advice
+Spiritual Advice
 
 31
 00:02:48,340 --> 00:02:50,170
@@ -144,15 +144,15 @@ Who said you couldconduct your business here?
 
 37
 00:03:01,260 --> 00:03:03,560
-{\an8}You dare set up shop here knowing that I,
+You dare set up shop here knowing that I,
 
 38
 00:03:03,110 --> 00:03:07,240
-{\fad(194,1)\frx18\fry326\frz29.15}Rising Sun Spiritual Union{\fs24}Shinra Banshomaru
+Rising Sun Spiritual UnionShinra Banshomaru
 
 39
 00:03:03,560 --> 00:03:06,850
-{\an8}Shinra Banshomaru, the greatest psychic of this century, hold jurisdiction here?
+Shinra Banshomaru, the greatest psychic of this century, hold jurisdiction here?
 
 40
 00:03:07,240 --> 00:03:09,740
@@ -340,39 +340,39 @@ is because of the sudden spread of urban legends around this city.
 
 86
 00:05:04,940 --> 00:05:10,780
-{\fad(2500,1)}Cuticle City Urban Legends
+Cuticle City Urban Legends
 
 87
 00:05:04,940 --> 00:05:10,780
-{\fad(2500,1)}Human-Faced Dog
+Human-Faced Dog
 
 88
 00:05:04,940 --> 00:05:10,780
-{\fad(2500,1)\pos(22,190.333)}It's said that the vengeful spirit of a middle-agedman who committed suicide possessed a dog.It rummages through the trash downtown,and if you call it, it'll say, "Just leave me alone."
+It's said that the vengeful spirit of a middle-agedman who committed suicide possessed a dog.It rummages through the trash downtown,and if you call it, it'll say, "Just leave me alone."
 
 89
 00:05:04,940 --> 00:05:10,780
-{\fad(2500,1)}Dash Granny
+Dash Granny
 
 90
 00:05:04,940 --> 00:05:10,780
-{\fad(2500,1)\pos(256.666,182)}When you're driving on the freeway in themiddle of the night, you might hear a tappingon your window. You'll then see a grannyrunning alongside your car at the same speed.Apparently, if she outruns you, you'll get into a car accident.
+When you're driving on the freeway in themiddle of the night, you might hear a tappingon your window. You'll then see a grannyrunning alongside your car at the same speed.Apparently, if she outruns you, you'll get into a car accident.
 
 91
 00:05:04,940 --> 00:05:10,780
-{\fad(2500,1)\pos(46.667,266.667)}The Red Raincoat
+The Red Raincoat
 
 92
 00:05:04,940 --> 00:05:10,780
-{\fad(2500,1)\an1\pos(15.333,341.333)}It wanders endlessly through the city in the rain,dressed in all red. If someone sees the red raincoat,they will die. However, if you're wearing somethingred, your life will be spared.
+It wanders endlessly through the city in the rain,dressed in all red. If someone sees the red raincoat,they will die. However, if you're wearing somethingred, your life will be spared.
 
 93
 00:05:04,940 --> 00:05:10,780
-{\fad(2500,1)\pos(280.667,263)}The Dragger
+The Dragger
 
 94
 00:05:04,940 --> 00:05:10,780
-{\fad(2500,1)\an1\pos(261.334,341.333)}Dressed in torn white clothing, the Dragger dragspeople around until they are but lumps of meat.When she was human, she suffered from horrible bullying,and from that hatred, she'll capture children and drag them around.
+Dressed in torn white clothing, the Dragger dragspeople around until they are but lumps of meat.When she was human, she suffered from horrible bullying,and from that hatred, she'll capture children and drag them around.
 
 95
 00:05:05,130 --> 00:05:08,870
@@ -432,7 +432,7 @@ If I actually took on this request, it'd be more than 500,000—
 
 109
 00:05:45,590 --> 00:05:48,360
-{\an8}Well, you'll still be helping me with this.
+Well, you'll still be helping me with this.
 
 110
 00:05:48,360 --> 00:05:51,070
@@ -452,7 +452,7 @@ It's Shinra Banshomaru, and I'm not going to help you!
 
 114
 00:05:56,910 --> 00:06:02,500
-{\fad(193,1)}Shinra Banshomaru
+Shinra Banshomaru
 
 115
 00:06:00,070 --> 00:06:02,500
@@ -852,11 +852,11 @@ But damn, he's fast.
 
 214
 00:09:11,900 --> 00:09:13,150
-{\fad(1,227)}Terror
+Terror
 
 215
 00:09:13,910 --> 00:09:15,820
-{\i1}This{\i0} is the human-faced dog?
+This is the human-faced dog?
 
 216
 00:09:15,820 --> 00:09:19,310
@@ -1088,7 +1088,7 @@ Guess it's time to leave.
 
 273
 00:12:10,990 --> 00:12:14,450
-{\move(110,74,170,74)\frz276\t(862,2572,1 \c&H251925&\3c&H644B4B&)}No Trespassing
+No Trespassing
 
 274
 00:12:21,690 --> 00:12:24,590
@@ -1120,7 +1120,7 @@ I'll let you drink until you explode, then!
 
 281
 00:13:07,090 --> 00:13:10,090
-{\fad(192,1)}Spirit Hold
+Spirit Hold
 
 282
 00:13:07,280 --> 00:13:10,090
@@ -1140,19 +1140,19 @@ Where'd she go?!
 
 286
 00:13:35,460 --> 00:13:38,960
-{\frx40\fscy200\fs40\fnTimes New Roman\c&HF5FB63&\pos(150,43)}II
+II
 
 287
 00:13:35,460 --> 00:13:38,960
-{\frx40\fscy120\pos(150,53)\c&H67FFF6&}Mob Psycho100
+Mob Psycho100
 
 288
 00:13:38,960 --> 00:13:42,460
-{\frx40\fscy200\fs40\fnTimes New Roman\c&HF5FB63&\pos(320,275)}II
+II
 
 289
 00:13:38,960 --> 00:13:42,460
-{\frx40\fscy120\pos(320,285)\c&H53E2CF&}Mob Psycho100
+Mob Psycho100
 
 290
 00:13:56,970 --> 00:13:59,230
@@ -1192,7 +1192,7 @@ To think his manual would save him this way...
 
 299
 00:14:39,110 --> 00:14:41,820
-{\c&H211915&\3c&H120A06&}Spiritual Worldismfor Psychics
+Spiritual Worldismfor Psychics
 
 300
 00:14:49,440 --> 00:14:50,580
@@ -1464,7 +1464,7 @@ It's a ghost that appears on rainy days, right?
 
 367
 00:19:22,870 --> 00:19:24,770
-It's not exactly {\i1}not{\i0} scary.
+It's not exactly not scary.
 
 368
 00:19:24,770 --> 00:19:26,370
@@ -1656,11 +1656,11 @@ Dash Granny would become Mob's firsttraumatic experience with urban legends.
 
 415
 00:22:11,140 --> 00:22:14,150
-{\frx14\fry14\fad(780,1)\pos(347,106)}Some days later
+Some days later
 
 416
 00:22:11,140 --> 00:22:14,150
-{\fad(780,1)\frz266\pos(473.334,46.667)}Spirits and Such Consultation Office
+Spirits and Such Consultation Office
 
 417
 00:22:12,830 --> 00:22:14,140
@@ -1676,19 +1676,19 @@ Now we'll get even more jobs!
 
 420
 00:22:19,880 --> 00:22:21,020
-{\an8}What is this?
+What is this?
 
 421
 00:22:21,020 --> 00:22:24,990
-Spirits {\c&H9875D8&}and {\c&H53D2E8&}Such {\c&H54E9DD&}Consul{\c&H6CFED0&}tation {\c&HC3F456&}Office
+Spirits and Such Consultation Office
 
 422
 00:22:21,020 --> 00:22:24,990
-The star psychic of the 21st centurywho defeated {\c&H2A0CA8&}{\fs22}the Dragger
+The star psychic of the 21st centurywho defeated the Dragger
 
 423
 00:22:21,020 --> 00:22:24,990
-Welcome to{\fs20\b1\fnArial\c&H42FC92&\bord2\3c&H54B746&\4c&HE3FF40&\shad2}Rei{\c&HA6FF34&\3c&H87C45A&\4c&H2AF7DF&}gen {\c&HC6013B&\4c&HD500C6&}Ara{\c&H2000B4&\3c&H78748D&\4c&H30FF42&}taka's{\shad0\c&HD2D778&\b0\3c&HF0E1E4&\bord3\fs16\fnTrebuchet MS}homepage!
+Welcome toReigen Arataka'shomepage!
 
 424
 00:22:21,020 --> 00:22:24,990
@@ -1716,7 +1716,7 @@ What's wrong, Mob?
 
 430
 00:24:03,060 --> 00:24:05,440
-Next time on {\i1}Mob Psycho 100 II{\i0} Episode 3:
+Next time on Mob Psycho 100 II Episode 3:
 
 431
 00:24:05,440 --> 00:24:07,210
@@ -1724,9 +1724,9 @@ Next time on {\i1}Mob Psycho 100 II{\i0} Episode 3:
 
 432
 00:24:07,210 --> 00:24:10,050
-{\an8}Recording it? That's also a wise decision.
+Recording it? That's also a wise decision.
 
 433
 00:24:07,210 --> 00:24:10,210
-{\c&H08FF61&\4c&H770262&}One Danger After Another~Degeneration~
+One Danger After Another~Degeneration~
 

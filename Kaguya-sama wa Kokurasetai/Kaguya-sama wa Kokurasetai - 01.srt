@@ -1,6 +1,6 @@
 1
 00:00:00,520 --> 00:00:01,270
-{\an5}CONFESSION
+CONFESSION
 
 2
 00:00:01,730 --> 00:00:02,430
@@ -8,95 +8,95 @@ CONFESSION
 
 3
 00:00:03,730 --> 00:00:05,730
-{\i1}You fall in love with someone...{\i0}
+You fall in love with someone...
 
 4
 00:00:05,100 --> 00:00:08,110
-{\an8}P-Please be my girlfriend!
+P-Please be my girlfriend!
 
 5
 00:00:08,270 --> 00:00:09,480
-{\i1}confess that love...{\i0}
+confess that love...
 
 6
 00:00:12,650 --> 00:00:14,110
-{\i1}and become a couple.{\i0}
+and become a couple.
 
 7
 00:00:15,030 --> 00:00:19,120
-{\i1}Everyone would say that's a wonderful thing.{\i0}
+Everyone would say that's a wonderful thing.
 
 8
 00:00:20,660 --> 00:00:23,040
-{\i1}But they're wrong!{\i0}
+But they're wrong!
 
 9
 00:00:23,040 --> 00:00:26,960
-{\i1}Even among sweethearts,there exists a distinct power relationship!{\i0}
+Even among sweethearts,there exists a distinct power relationship!
 
 10
 00:00:26,960 --> 00:00:29,420
-{\i1}A side that exploitsand a side that's exploited,{\i0}
+A side that exploitsand a side that's exploited,
 
 11
 00:00:29,420 --> 00:00:31,590
-{\i1}a side that's devoted,a side receiving devotion,{\i0}
+a side that's devoted,a side receiving devotion,
 
 12
 00:00:31,590 --> 00:00:33,510
-{\i1}a winner and a loser!{\i0}
+a winner and a loser!
 
 13
 00:00:36,010 --> 00:00:41,020
-{\i1}If you're trying to live a noble life,then you mustn't become a loser.{\i0}
+If you're trying to live a noble life,then you mustn't become a loser.
 
 14
 00:00:41,520 --> 00:00:43,640
-{\i1}Love is war!{\i0}
+Love is war!
 
 15
 00:00:47,860 --> 00:00:52,820
-{\i1}The person who falls in love loses!{\i0}
+The person who falls in love loses!
 
 16
 00:00:50,520 --> 00:00:55,030
-{\an8}KAGUYA-SAMA: LOVE IS WAR
+KAGUYA-SAMA: LOVE IS WAR
 
 17
 00:02:26,750 --> 00:02:29,620
-{\i1}Shuchiin Academy!{\i0}
+Shuchiin Academy!
 
 18
 00:02:30,040 --> 00:02:32,750
-{\i1}It's a prestigious schoolwith an ancient and honorable origin,{\i0}
+It's a prestigious schoolwith an ancient and honorable origin,
 
 19
 00:02:32,750 --> 00:02:35,380
-{\i1}founded as a facilityto educate upper-crust children.{\i0}
+founded as a facilityto educate upper-crust children.
 
 20
 00:02:35,960 --> 00:02:38,260
-{\i1}The focus on the nobility is gone,{\i0}
+The focus on the nobility is gone,
 
 21
 00:02:38,260 --> 00:02:41,930
-{\i1}but many talented studentsborn into wealthy, distinguished families{\i0}
+but many talented studentsborn into wealthy, distinguished families
 
 22
 00:02:41,090 --> 00:02:42,220
-{\an8}How do you do?
+How do you do?
 
 23
 00:02:41,930 --> 00:02:43,930
-{\i1}and shouldering the futureattend the school.{\i0}
+and shouldering the futureattend the school.
 
 24
 00:02:43,010 --> 00:02:44,510
-{\an8}How do you do?
+How do you do?
 
 25
 00:02:45,760 --> 00:02:50,850
-{\i1}Naturally ordinary people wouldn't be permittedto lead and bring these students together!{\i0}
+Naturally ordinary people wouldn't be permittedto lead and bring these students together!
 
 26
 00:02:51,100 --> 00:02:52,610
@@ -108,87 +108,87 @@ The Student Council members!
 
 28
 00:02:55,730 --> 00:03:00,200
-{\i1}Kaguya Shinomiya, the vice-presidentof the Student Council at Shuchiin Academy.{\i0}
+Kaguya Shinomiya, the vice-presidentof the Student Council at Shuchiin Academy.
 
 29
 00:03:00,200 --> 00:03:01,860
-{\i1}Total assets: 200 trillion yen.{\i0}
+Total assets: 200 trillion yen.
 
 30
 00:03:01,860 --> 00:03:05,410
-{\i1}Her family owns the Shinomiya Group,{\i0}
+Her family owns the Shinomiya Group,
 
 31
 00:03:05,410 --> 00:03:09,790
-{\i1}one of the top four financial conglomeratesin Japan, with over 1,000 subsidiaries.{\i0}
+one of the top four financial conglomeratesin Japan, with over 1,000 subsidiaries.
 
 32
 00:03:07,950 --> 00:03:09,500
-{\an8}SHINOMIYA BANK
+SHINOMIYA BANK
 
 33
 00:03:10,250 --> 00:03:12,710
-{\i1}Befitting her superior lineage,she's a talented young woman{\i0}
+Befitting her superior lineage,she's a talented young woman
 
 34
 00:03:12,710 --> 00:03:15,250
-{\i1}who has attainedsplendid achievements in various fields,{\i0}
+who has attainedsplendid achievements in various fields,
 
 35
 00:03:15,250 --> 00:03:18,050
-{\i1}such as traditional performing arts,music, and martial arts.{\i0}
+such as traditional performing arts,music, and martial arts.
 
 36
 00:03:18,050 --> 00:03:20,420
-{\i1}That is Kaguya Shinomiya.{\i0}
+That is Kaguya Shinomiya.
 
 37
 00:03:20,420 --> 00:03:23,470
-{\i1}And the young man Shinomiya supports is...{\i0}
+And the young man Shinomiya supports is...
 
 38
 00:03:25,050 --> 00:03:28,640
-{\i1}Miyuki Shirogane, the presidentof the Student Council at Shuchiin Academy.{\i0}
+Miyuki Shirogane, the presidentof the Student Council at Shuchiin Academy.
 
 39
 00:03:28,810 --> 00:03:30,940
-{\i1}He's wise and intelligent,strong and silent.{\i0}
+He's wise and intelligent,strong and silent.
 
 40
 00:03:30,940 --> 00:03:32,770
-{\i1}He scores first placein the practice exams.{\i0}
+He scores first placein the practice exams.
 
 41
 00:03:33,100 --> 00:03:34,520
-{\i1}In contrast to talented Kaguya,{\i0}
+In contrast to talented Kaguya,
 
 42
 00:03:34,520 --> 00:03:37,400
-{\i1}his devotion to studyingcommands awe and fear,{\i0}
+his devotion to studyingcommands awe and fear,
 
 43
 00:03:37,400 --> 00:03:39,690
-{\i1}and because of that exemplary behavior,{\i0}
+and because of that exemplary behavior,
 
 44
 00:03:38,650 --> 00:03:44,410
-{\an8}PRESIDENT OF STUDENT COUNCIL
+PRESIDENT OF STUDENT COUNCIL
 
 45
 00:03:39,690 --> 00:03:42,240
-{\i1}he was selected to bethe Student Council president,{\i0}
+he was selected to bethe Student Council president,
 
 46
 00:03:42,240 --> 00:03:43,990
-{\i1}despite being relatively new to the school.{\i0}
+despite being relatively new to the school.
 
 47
 00:03:44,410 --> 00:03:47,740
-{\i1}The weight of a solid gold braided cordhas been passed down{\i0}
+The weight of a solid gold braided cordhas been passed down
 
 48
 00:03:47,740 --> 00:03:50,410
-{\i1}from president to presidentat Shuchiin Academy for 200 years!{\i0}
+from president to presidentat Shuchiin Academy for 200 years!
 
 49
 00:03:51,410 --> 00:03:54,170
@@ -208,7 +208,7 @@ Do you think they're dating?
 
 53
 00:04:03,180 --> 00:04:04,340
-{\an9}STUDENT COUNCIL ROOM
+STUDENT COUNCIL ROOM
 
 54
 00:04:03,510 --> 00:04:07,720
@@ -216,27 +216,27 @@ It would be presumptuous to even get closeto them, let alone ask such a question
 
 55
 00:04:21,690 --> 00:04:22,700
-{\an8}It seems...
+It seems...
 
 56
 00:04:23,740 --> 00:04:28,160
-{\an1}I WILL MAKE YOUINVITE ME TO A MOVIE
+I WILL MAKE YOUINVITE ME TO A MOVIE
 
 57
 00:04:23,950 --> 00:04:26,120
-{\an8}there's a rumor going around...
+there's a rumor going around...
 
 58
 00:04:26,780 --> 00:04:29,080
-{\an8}that we're in a relationship or some such.
+that we're in a relationship or some such.
 
 59
 00:04:29,450 --> 00:04:31,700
-{\an8}That's normal for their age.
+That's normal for their age.
 
 60
 00:04:31,700 --> 00:04:32,830
-{\an8}You should ignore it.
+You should ignore it.
 
 61
 00:04:34,710 --> 00:04:36,330
@@ -244,87 +244,87 @@ That's all it is?
 
 62
 00:04:36,830 --> 00:04:39,590
-{\i1}They think Shinomiya and I are dating?{\i0}
+They think Shinomiya and I are dating?
 
 63
 00:04:39,590 --> 00:04:44,340
-{\i1}The fools certainly do enjoytalking about nonsensical love affairs.{\i0}
+The fools certainly do enjoytalking about nonsensical love affairs.
 
 64
 00:04:45,090 --> 00:04:46,720
-{\i1}Although...{\i0}
+Although...
 
 65
 00:04:48,350 --> 00:04:52,730
-{\i1}if Shinomiya demanded that I go out with her,I suppose I would mull it over!{\i0}
+if Shinomiya demanded that I go out with her,I suppose I would mull it over!
 
 66
 00:04:54,390 --> 00:04:57,810
-{\i1}And I'm certain she has feelings for me.{\i0}
+And I'm certain she has feelings for me.
 
 67
 00:04:57,810 --> 00:04:59,570
-{\i1}Probably just a matter of time.{\i0}
+Probably just a matter of time.
 
 68
 00:05:00,900 --> 00:05:03,900
-{\i1}She should just take off the maskof a perfect, pampered young lady{\i0}
+She should just take off the maskof a perfect, pampered young lady
 
 69
 00:05:03,570 --> 00:05:06,570
-{\an8}{\i1}Shirogane, I need to talk to you.{\i0}
+Shirogane, I need to talk to you.
 
 70
 00:05:03,900 --> 00:05:06,610
-{\i1}and make her blushing appeal to me.{\i0}
+and make her blushing appeal to me.
 
 71
 00:05:08,240 --> 00:05:10,950
-{\i1}The ignorant children with their common talk.{\i0}
+The ignorant children with their common talk.
 
 72
 00:05:11,290 --> 00:05:13,580
-{\i1}Who do they think I am?{\i0}
+Who do they think I am?
 
 73
 00:05:14,080 --> 00:05:17,120
-{\i1}I'm a member of the Shinomiya family,the heart of this country.{\i0}
+I'm a member of the Shinomiya family,the heart of this country.
 
 74
 00:05:17,120 --> 00:05:21,590
-{\i1}How did they reach the conclusionthat I would be dating a commoner?{\i0}
+How did they reach the conclusionthat I would be dating a commoner?
 
 75
 00:05:22,840 --> 00:05:27,970
-{\i1}Well, I suppose there could bea very slight possibility.{\i0}
+Well, I suppose there could bea very slight possibility.
 
 76
 00:05:28,340 --> 00:05:32,770
-{\i1}If he got on his knees and offered uphis body, soul, and hometown,{\i0}
+If he got on his knees and offered uphis body, soul, and hometown,
 
 77
 00:05:32,770 --> 00:05:36,730
-{\i1}I suppose I could train himto be a man who measures up to me.{\i0}
+I suppose I could train himto be a man who measures up to me.
 
 78
 00:05:38,150 --> 00:05:41,690
-{\i1}Certainly, there's no manwho doesn't pine for me.{\i0}
+Certainly, there's no manwho doesn't pine for me.
 
 79
 00:05:41,940 --> 00:05:43,730
-{\i1}It's probably just a matter of time.{\i0}
+It's probably just a matter of time.
 
 80
 00:05:48,610 --> 00:05:51,240
-{\i1}While they were engagingin this kind of thing...{\i0}
+While they were engagingin this kind of thing...
 
 81
 00:05:53,580 --> 00:05:55,700
-{\i1}half a year passed!{\i0}
+half a year passed!
 
 82
 00:05:56,910 --> 00:06:00,420
-{\i1}Nothing of note happened during that period.{\i0}
+Nothing of note happened during that period.
 
 83
 00:06:05,130 --> 00:06:07,340
@@ -348,31 +348,31 @@ When you act according to emotions,nothing good results.
 
 88
 00:06:18,600 --> 00:06:20,600
-{\an8}{\i1}During this period of nothingness,{\i0}
+During this period of nothingness,
 
 89
 00:06:20,600 --> 00:06:22,900
-{\an8}{\i1}their thoughts shifted from,"I wouldn't mind dating him/her"{\i0}
+their thoughts shifted from,"I wouldn't mind dating him/her"
 
 90
 00:06:22,900 --> 00:06:26,820
-{\an8}{\i1}to "Maybe I'll make him/herconfess his/her love to me."{\i0}
+to "Maybe I'll make him/herconfess his/her love to me."
 
 91
 00:06:27,610 --> 00:06:31,660
-{\an8}{\i1}Meanwhile, one other person had no ideathat two super high school-level minds{\i0}
+Meanwhile, one other person had no ideathat two super high school-level minds
 
 92
 00:06:27,950 --> 00:06:28,700
-{\an1}STEAMED BUN
+STEAMED BUN
 
 93
 00:06:31,660 --> 00:06:33,870
-{\i1}were engaged in sophisticated strategizing!{\i0}
+were engaged in sophisticated strategizing!
 
 94
 00:06:33,200 --> 00:06:37,660
-{\an8}SHUCHIIN ACADEMYSTUDENT COUNCIL SECRETARY
+SHUCHIIN ACADEMYSTUDENT COUNCIL SECRETARY
 
 95
 00:06:34,790 --> 00:06:37,660
@@ -384,15 +384,15 @@ CHIKA FUJIWARA
 
 97
 00:06:38,000 --> 00:06:45,670
-{\an8}I won a pair of movie tickets, butmy parents won't let me see stuff like that,
+I won a pair of movie tickets, butmy parents won't let me see stuff like that,
 
 98
 00:06:41,880 --> 00:06:44,420
-{\an3}STEAMED BUN
+STEAMED BUN
 
 99
 00:06:45,670 --> 00:06:49,180
-{\an7}LOVE REFRAIN
+LOVE REFRAIN
 
 100
 00:06:46,510 --> 00:06:49,180
@@ -400,7 +400,7 @@ So are you two interested?
 
 101
 00:06:49,470 --> 00:06:50,930
-{\an8}NOTE: CHEAPSKATE
+NOTE: CHEAPSKATE
 
 102
 00:06:50,090 --> 00:06:50,930
@@ -448,23 +448,23 @@ Oh, dear, that sounds a lot like...
 
 113
 00:07:19,710 --> 00:07:23,710
-{\i1}Like I'm asking her out on a date!{\i0}
+Like I'm asking her out on a date!
 
 114
 00:07:24,080 --> 00:07:25,840
-{\i1}Shirogane's predicament was,in romance,{\i0}
+Shirogane's predicament was,in romance,
 
 115
 00:07:25,840 --> 00:07:27,920
-{\i1}"The person who falls in love loses"is the rule!{\i0}
+"The person who falls in love loses"is the rule!
 
 116
 00:07:27,920 --> 00:07:32,590
-{\i1}As they were both full of pride, neither onecould confess one iota of romantic interest!{\i0}
+As they were both full of pride, neither onecould confess one iota of romantic interest!
 
 117
 00:07:33,510 --> 00:07:37,100
-{\an8}{\i1}What should I do? It's blatant.The only thing I can do is smooth it over!{\i0}
+What should I do? It's blatant.The only thing I can do is smooth it over!
 
 118
 00:07:38,680 --> 00:07:40,600
@@ -480,11 +480,11 @@ It's cute.
 
 121
 00:07:58,370 --> 00:08:02,120
-{\i1}This is unacceptable! There is no escape routeon the path that Shirogane conquers!{\i0}
+This is unacceptable! There is no escape routeon the path that Shirogane conquers!
 
 122
 00:08:02,120 --> 00:08:04,420
-{\i1}You're the onewho's going to run, Shinomiya!{\i0}
+You're the onewho's going to run, Shinomiya!
 
 123
 00:08:04,420 --> 00:08:06,750
@@ -500,39 +500,39 @@ Do you want to see this movie with me?
 
 126
 00:08:14,510 --> 00:08:17,760
-{\an9}LOVE REFRAIN
+LOVE REFRAIN
 
 127
 00:08:15,850 --> 00:08:17,760
-{\i1}That moment, Shinomiya thought...{\i0}
+That moment, Shinomiya thought...
 
 128
 00:08:18,010 --> 00:08:20,350
-{\i1}After indicating the intent to invite me,{\i0}
+After indicating the intent to invite me,
 
 129
 00:08:20,350 --> 00:08:23,770
-{\i1}he assigned me the choiceof whether we see the movie or not.{\i0}
+he assigned me the choiceof whether we see the movie or not.
 
 130
 00:08:24,060 --> 00:08:25,650
-{\i1}Well played.{\i0}
+Well played.
 
 131
 00:08:26,860 --> 00:08:30,440
-{\an8}{\i1}I could choose to refuse,{\i0}
+I could choose to refuse,
 
 132
 00:08:30,440 --> 00:08:34,030
-{\an8}{\i1}but then all of my preliminary arrangementsup to now would become meaningless.{\i0}
+but then all of my preliminary arrangementsup to now would become meaningless.
 
 133
 00:08:34,030 --> 00:08:36,530
-{\an8}WINNER
+WINNER
 
 134
 00:08:34,570 --> 00:08:39,330
-{\i1}I went to all the trouble of fabricating a prizeand putting it in Chika's mailbox.{\i0}
+I went to all the trouble of fabricating a prizeand putting it in Chika's mailbox.
 
 135
 00:08:39,540 --> 00:08:40,540
@@ -540,27 +540,27 @@ All right!
 
 136
 00:08:40,910 --> 00:08:46,000
-{\i1}My plan to aim for one of Shirogane'srare free days would be for nothing!{\i0}
+My plan to aim for one of Shirogane'srare free days would be for nothing!
 
 137
 00:08:47,290 --> 00:08:49,550
-{\an9}LOVE REFRAIN
+LOVE REFRAIN
 
 138
 00:08:47,420 --> 00:08:49,550
-{\i1}And if I turn him down now,{\i0}
+And if I turn him down now,
 
 139
 00:08:49,550 --> 00:08:52,800
-{\i1}Shirogane may never invite meto anything again!{\i0}
+Shirogane may never invite meto anything again!
 
 140
 00:08:53,380 --> 00:08:57,050
-{\i1}From the viewpoint of a young lady, I say no!And I say no to that kind of choice!{\i0}
+From the viewpoint of a young lady, I say no!And I say no to that kind of choice!
 
 141
 00:08:57,050 --> 00:08:58,800
-{\an9}LOVE REFRAIN
+LOVE REFRAIN
 
 142
 00:08:57,550 --> 00:09:00,220
@@ -580,43 +580,43 @@ I'd like you to at least invite mewith more passion.
 
 146
 00:09:12,030 --> 00:09:14,450
-{\an7}MISS INNOCENT
+MISS INNOCENT
 
 147
 00:09:12,230 --> 00:09:14,780
-{\i1}"Miss Innocent" skill implemented!{\i0}
+"Miss Innocent" skill implemented!
 
 148
 00:09:15,030 --> 00:09:18,240
-{\i1}It's a negotiating skill passed onfrom father to child in the Shinomiya family.{\i0}
+It's a negotiating skill passed onfrom father to child in the Shinomiya family.
 
 149
 00:09:18,240 --> 00:09:23,790
-{\i1}It's said this calculated expression and voiceeven make the gods' hearts beat faster.{\i0}
+It's said this calculated expression and voiceeven make the gods' hearts beat faster.
 
 150
 00:09:23,950 --> 00:09:26,870
-{\an8}{\i1}In truth, Shirogane's thoughtswere also in disarray.{\i0}
+In truth, Shirogane's thoughtswere also in disarray.
 
 151
 00:09:26,870 --> 00:09:29,880
-{\an8}Well, I guess it's the man's dutyto ask a woman out.
+Well, I guess it's the man's dutyto ask a woman out.
 
 152
 00:09:29,880 --> 00:09:31,550
-{\an8}{\i1}That thought crossed his mind!{\i0}
+That thought crossed his mind!
 
 153
 00:09:31,550 --> 00:09:34,050
-{\an8}{\i1}Of course, Shinomiya didn'tlet that chance go by!{\i0}
+Of course, Shinomiya didn'tlet that chance go by!
 
 154
 00:09:34,050 --> 00:09:35,720
-{\i1}She pursued without a moment's delay!{\i0}
+She pursued without a moment's delay!
 
 155
 00:09:35,300 --> 00:09:36,930
-{\an8}LOVE REFRAIN
+LOVE REFRAIN
 
 156
 00:09:35,720 --> 00:09:40,510
@@ -624,35 +624,35 @@ I'm at the age where I'd like to trya little romance, too.
 
 157
 00:09:42,520 --> 00:09:45,890
-{\i1}This battle of thoughtsseemed to be like a chess problem.{\i0}
+This battle of thoughtsseemed to be like a chess problem.
 
 158
 00:09:46,100 --> 00:09:49,650
-{\i1}Shinomiya cornered Shirogane, who searchedfor an opportunity to turn it around.{\i0}
+Shinomiya cornered Shirogane, who searchedfor an opportunity to turn it around.
 
 159
 00:09:50,150 --> 00:09:52,610
-{\i1}The brains of these prodigiesraced two steps ahead,{\i0}
+The brains of these prodigiesraced two steps ahead,
 
 160
 00:09:52,610 --> 00:09:55,860
-{\i1}clashing with each other as wheelsturned faster than any ordinary mind!{\i0}
+clashing with each other as wheelsturned faster than any ordinary mind!
 
 161
 00:09:55,860 --> 00:09:57,530
-{\i1}Kaguya strengthened her defense.{\i0}
+Kaguya strengthened her defense.
 
 162
 00:09:57,530 --> 00:09:59,160
-{\i1}Shirogane tried to break through!{\i0}
+Shirogane tried to break through!
 
 163
 00:09:59,160 --> 00:10:02,660
-{\i1}They both constructed a theoryleading to a conclusion!{\i0}
+They both constructed a theoryleading to a conclusion!
 
 164
 00:10:02,660 --> 00:10:05,330
-{\an8}{\i1}The one who completed the theory firstwould be the winner!{\i0}
+The one who completed the theory firstwould be the winner!
 
 165
 00:10:06,410 --> 00:10:09,420
@@ -672,51 +672,51 @@ to go see the movie,"The Birdie from Tottori."
 
 169
 00:10:16,380 --> 00:10:18,180
-{\i1}Chaos theory.{\i0}
+Chaos theory.
 
 170
 00:10:18,430 --> 00:10:20,850
-{\i1}Secretary Fujiwara's casual remark{\i0}
+Secretary Fujiwara's casual remark
 
 171
 00:10:20,850 --> 00:10:25,140
-{\i1}added an element of chaosinto the theories that were all but completed!{\i0}
+added an element of chaosinto the theories that were all but completed!
 
 172
 00:10:25,310 --> 00:10:31,360
-{\i1}It was only one element, but like the Big Bang,the chaos increased the possibilities.{\i0}
+It was only one element, but like the Big Bang,the chaos increased the possibilities.
 
 173
 00:10:33,610 --> 00:10:36,320
-{\i1}In order to processthe vastly expanded choices,{\i0}
+In order to processthe vastly expanded choices,
 
 174
 00:10:35,940 --> 00:10:38,700
-{\an8}Um, is something wrong?
+Um, is something wrong?
 
 175
 00:10:36,320 --> 00:10:39,910
-{\i1}the wheels in their brains spun even faster,going beyond their limits!{\i0}
+the wheels in their brains spun even faster,going beyond their limits!
 
 176
 00:10:39,910 --> 00:10:43,280
-{\i1}As a result, their brainscraved a great deal of sugar!{\i0}
+As a result, their brainscraved a great deal of sugar!
 
 177
 00:10:42,280 --> 00:10:43,280
-{\an8}SUGAR
+SUGAR
 
 178
 00:10:43,620 --> 00:10:48,290
-{\i1}The only sugar in the Student Council officewas in a single steamed bun!{\i0}
+The only sugar in the Student Council officewas in a single steamed bun!
 
 179
 00:10:48,290 --> 00:10:52,420
-{\i1}Thus, whoever obtained the steamed bunwould be the winner!{\i0}
+Thus, whoever obtained the steamed bunwould be the winner!
 
 180
 00:10:54,250 --> 00:10:56,090
-{\an8}Afternoon classes are about to start.
+Afternoon classes are about to start.
 
 181
 00:10:59,050 --> 00:11:01,010
@@ -724,11 +724,11 @@ Well, see you again after school.
 
 182
 00:11:04,260 --> 00:11:06,600
-{\i1}It was a sophisticatedromantic battle of the brains,{\i0}
+It was a sophisticatedromantic battle of the brains,
 
 183
 00:11:06,600 --> 00:11:10,230
-{\i1}with the ingenuity and prideof these two geniuses on the line.{\i0}
+with the ingenuity and prideof these two geniuses on the line.
 
 184
 00:11:10,600 --> 00:11:16,980
@@ -740,11 +740,11 @@ BOTH SIDES DEFEATED
 
 186
 00:11:17,820 --> 00:11:21,030
-{\an8}{\i1}I repeat, it was a sophisticatedromantic battle of the brains,{\i0}
+I repeat, it was a sophisticatedromantic battle of the brains,
 
 187
 00:11:21,030 --> 00:11:25,240
-{\an8}{\i1}with the ingenuity and prideof these two geniuses on the line!{\i0}
+with the ingenuity and prideof these two geniuses on the line!
 
 188
 00:11:31,750 --> 00:11:32,500
@@ -752,15 +752,15 @@ Huh?
 
 189
 00:11:32,500 --> 00:11:36,960
-{\an3}KAGUYA WANTSTO BE STOPPED
+KAGUYA WANTSTO BE STOPPED
 
 190
 00:11:33,000 --> 00:11:34,500
-{\an8}Oh.
+Oh.
 
 191
 00:11:34,840 --> 00:11:36,960
-{\an8}Oh dear, huh?
+Oh dear, huh?
 
 192
 00:11:37,920 --> 00:11:39,300
@@ -780,35 +780,35 @@ In other words, he invited you out on a date?
 
 196
 00:11:47,770 --> 00:11:49,770
-{\i1}A love letter to Shinomiya?{\i0}
+A love letter to Shinomiya?
 
 197
 00:11:49,770 --> 00:11:51,520
-{\i1}Some men really are fools for love.{\i0}
+Some men really are fools for love.
 
 198
 00:11:52,850 --> 00:11:55,940
-{\i1}We're talking about Shinomiyawho usually passes the time looking at me.{\i0}
+We're talking about Shinomiyawho usually passes the time looking at me.
 
 199
 00:11:55,940 --> 00:11:58,820
-{\i1}Does this fellow know, next to me,any other male in the vicinity{\i0}
+Does this fellow know, next to me,any other male in the vicinity
 
 200
 00:11:58,820 --> 00:12:01,530
-{\i1}would only registeras a talking weed?{\i0}
+would only registeras a talking weed?
 
 201
 00:11:59,610 --> 00:12:01,530
-{\an5}MR. WEED
+MR. WEED
 
 202
 00:12:00,240 --> 00:12:01,530
-{\an8}{\i1}Hello!{\i0}
+Hello!
 
 203
 00:12:01,740 --> 00:12:03,660
-{\i1}There's no way Shinomiya would accept.{\i0}
+There's no way Shinomiya would accept.
 
 204
 00:12:03,660 --> 00:12:05,280
@@ -824,11 +824,11 @@ Crack!
 
 207
 00:12:08,040 --> 00:12:09,830
-{\i1}You've lost your mind, Shinomiya!{\i0}
+You've lost your mind, Shinomiya!
 
 208
 00:12:09,830 --> 00:12:12,540
-{\i1}Blindly accepting an invitationfrom someone you've never met!{\i0}
+Blindly accepting an invitationfrom someone you've never met!
 
 209
 00:12:13,040 --> 00:12:17,340
@@ -840,55 +840,55 @@ I'm sure I'll fall for him.
 
 211
 00:12:19,630 --> 00:12:20,550
-{\i1}Ridiculous!{\i0}
+Ridiculous!
 
 212
 00:12:20,550 --> 00:12:22,590
-{\i1}You think I'll just let this happen?{\i0}
+You think I'll just let this happen?
 
 213
 00:12:22,590 --> 00:12:24,890
-{\i1}Somehow, I have to stop Shinomiya!{\i0}
+Somehow, I have to stop Shinomiya!
 
 214
 00:12:25,720 --> 00:12:27,850
-{\an8}Don't go on a date with any man but me!
+Don't go on a date with any man but me!
 
 215
 00:12:28,760 --> 00:12:29,600
-{\i1}What's that?{\i0}
+What's that?
 
 216
 00:12:29,930 --> 00:12:35,100
-{\i1}Oh, my. Do you find the prospect of anotherperson taking me away really that unpleasant?{\i0}
+Oh, my. Do you find the prospect of anotherperson taking me away really that unpleasant?
 
 217
 00:12:39,230 --> 00:12:41,110
-{\an8}{\i1}That's cute.{\i0}
+That's cute.
 
 218
 00:12:42,360 --> 00:12:44,030
-{\an8}{\i1}This is as good as a confession of love!{\i0}
+This is as good as a confession of love!
 
 219
 00:12:44,030 --> 00:12:46,120
-{\an8}{\i1}It's like I'm saying,"Shinomiya, I love you!"{\i0}
+It's like I'm saying,"Shinomiya, I love you!"
 
 220
 00:12:46,660 --> 00:12:47,870
-{\i1}I have to...{\i0}
+I have to...
 
 221
 00:12:47,870 --> 00:12:50,120
-{\i1}I have to avoid that at all costs!{\i0}
+I have to avoid that at all costs!
 
 222
 00:12:48,780 --> 00:12:51,370
-{\an8}Kaguya, are you really going?
+Kaguya, are you really going?
 
 223
 00:12:51,370 --> 00:12:52,120
-{\an8}Yes.
+Yes.
 
 224
 00:12:52,580 --> 00:12:53,750
@@ -896,83 +896,83 @@ I'm really looking forward to it.
 
 225
 00:12:53,750 --> 00:12:58,460
-{\i1}At first glance, it seems Kaguya is thinkingonly romantically, without any principles.{\i0}
+At first glance, it seems Kaguya is thinkingonly romantically, without any principles.
 
 226
 00:12:58,460 --> 00:13:00,340
-{\i1}As if I would really go.{\i0}
+As if I would really go.
 
 227
 00:13:00,340 --> 00:13:02,630
-{\i1}Flowers must be bloominginside that boy's brain.{\i0}
+Flowers must be bloominginside that boy's brain.
 
 228
 00:13:02,630 --> 00:13:04,050
-{\i1}Of course it's a bluff!{\i0}
+Of course it's a bluff!
 
 229
 00:13:04,050 --> 00:13:07,760
-{\i1}If he wants to invite me out on a date,he'd better start by offering me a country{\i0}
+If he wants to invite me out on a date,he'd better start by offering me a country
 
 230
 00:13:07,760 --> 00:13:10,010
-{\i1}and then be worthy of my consideration.{\i0}
+and then be worthy of my consideration.
 
 231
 00:13:10,140 --> 00:13:13,480
-{\i1}Like I would just go out with himas an act of charity?{\i0}
+Like I would just go out with himas an act of charity?
 
 232
 00:13:13,480 --> 00:13:16,900
-{\i1}Shinomiya had no intentionsof going on a date with a talking weed.{\i0}
+Shinomiya had no intentionsof going on a date with a talking weed.
 
 233
 00:13:17,150 --> 00:13:21,400
-{\an8}{\i1}After all, it was only a strategyto get Shirogane to stop her.{\i0}
+After all, it was only a strategyto get Shirogane to stop her.
 
 234
 00:13:23,400 --> 00:13:25,240
-{\i1}A romantic battle of the brains!{\i0}
+A romantic battle of the brains!
 
 235
 00:13:25,490 --> 00:13:29,530
-{\i1}As they were both full of pride,neither one could confess romantic interest!{\i0}
+As they were both full of pride,neither one could confess romantic interest!
 
 236
 00:13:29,530 --> 00:13:31,990
-{\i1}The only thing to dowas use resourcefulness and skill{\i0}
+The only thing to dowas use resourcefulness and skill
 
 237
 00:13:31,990 --> 00:13:34,250
-{\i1}to make the other personconfess their love!{\i0}
+to make the other personconfess their love!
 
 238
 00:13:34,500 --> 00:13:37,790
-{\i1}Is there no way I can naturallykeep her from going? Think!{\i0}
+Is there no way I can naturallykeep her from going? Think!
 
 239
 00:13:37,790 --> 00:13:39,000
-{\i1}Intelligence put to the test!{\i0}
+Intelligence put to the test!
 
 240
 00:13:39,130 --> 00:13:43,130
-{\i1}It's pointless.Until Shirogane bows his head{\i0}
+It's pointless.Until Shirogane bows his head
 
 241
 00:13:43,130 --> 00:13:45,340
-{\i1}and honestly begs me not to go,I refuse to cancel.{\i0}
+and honestly begs me not to go,I refuse to cancel.
 
 242
 00:13:45,340 --> 00:13:46,510
-{\i1}A clever scheme!{\i0}
+A clever scheme!
 
 243
 00:13:46,510 --> 00:13:48,430
-{\i1}That's the romantic battle of the brains!{\i0}
+That's the romantic battle of the brains!
 
 244
 00:13:48,430 --> 00:13:51,760
-{\i1}The ongoing duel between them!{\i0}
+The ongoing duel between them!
 
 245
 00:13:52,930 --> 00:13:54,770
@@ -988,15 +988,15 @@ I can't endorseillicit activities with the opposite sex.
 
 248
 00:13:59,150 --> 00:14:00,270
-{\i1}The ace up his sleeve.{\i0}
+The ace up his sleeve.
 
 249
 00:14:00,440 --> 00:14:03,360
-{\i1}An ingenious approach.Giving his opinion not as himself,{\i0}
+An ingenious approach.Giving his opinion not as himself,
 
 250
 00:14:03,360 --> 00:14:06,030
-{\i1}but as the president of Student Council,doesn't do him any damage.{\i0}
+but as the president of Student Council,doesn't do him any damage.
 
 251
 00:14:06,030 --> 00:14:09,530
@@ -1016,7 +1016,7 @@ If you insist on going, well...
 
 255
 00:14:19,000 --> 00:14:21,790
-{\an8}TATTLE TO THE TEACHER!
+TATTLE TO THE TEACHER!
 
 256
 00:14:19,040 --> 00:14:21,790
@@ -1024,39 +1024,39 @@ I'll run it by the teacher!
 
 257
 00:14:23,210 --> 00:14:24,880
-{\i1}Tattling to the teacher!{\i0}
+Tattling to the teacher!
 
 258
 00:14:24,880 --> 00:14:27,420
-{\i1}It's tremendously effective,but it's a risky choice,{\i0}
+It's tremendously effective,but it's a risky choice,
 
 259
 00:14:24,880 --> 00:14:31,220
-{\an8}{\i1}Naughty, naughty!We're gonna tell the teacher!{\i0}
+Naughty, naughty!We're gonna tell the teacher!
 
 260
 00:14:27,420 --> 00:14:31,220
-{\i1}since the person who uses itis likely to be labeled a coward.{\i0}
+since the person who uses itis likely to be labeled a coward.
 
 261
 00:14:31,220 --> 00:14:36,230
-{\i1}But for Shirogane, preventing Shinomiya'sdate was more important than his honor.{\i0}
+But for Shirogane, preventing Shinomiya'sdate was more important than his honor.
 
 262
 00:14:36,230 --> 00:14:38,390
-{\i1}That determination had an effect on Kaguya.{\i0}
+That determination had an effect on Kaguya.
 
 263
 00:14:38,390 --> 00:14:41,230
-{\i1}I didn't think Shirogane would usea forbidden move like that.{\i0}
+I didn't think Shirogane would usea forbidden move like that.
 
 264
 00:14:38,390 --> 00:14:41,230
-{\an8}GRRR...
+GRRR...
 
 265
 00:14:41,230 --> 00:14:43,230
-{\i1}But I'm going to stick to my guns!{\i0}
+But I'm going to stick to my guns!
 
 266
 00:14:43,230 --> 00:14:44,230
@@ -1076,15 +1076,15 @@ I'm prepared to offer my body and soulfor true love.
 
 270
 00:14:57,160 --> 00:14:58,830
-{\i1}Body and soul?{\i0}
+Body and soul?
 
 271
 00:14:59,370 --> 00:15:01,130
-{\i1}Shirogane takes major damage!{\i0}
+Shirogane takes major damage!
 
 272
 00:15:00,040 --> 00:15:01,130
-{\an8}Th...
+Th...
 
 273
 00:15:01,500 --> 00:15:03,090
@@ -1120,7 +1120,7 @@ Just for argument,
 
 281
 00:15:22,230 --> 00:15:24,690
-{\an8}would you be able to forgetabout this boy then?
+would you be able to forgetabout this boy then?
 
 282
 00:15:28,570 --> 00:15:29,570
@@ -1148,11 +1148,11 @@ I just said there's a possibility!
 
 288
 00:15:51,090 --> 00:15:53,930
-{\an8}I see, I see. Then it's true love.
+I see, I see. Then it's true love.
 
 289
 00:15:53,930 --> 00:15:57,470
-{\an8}{\i1}If you're worried about me, you shouldstop me without regard to the way it looks!{\i0}
+If you're worried about me, you shouldstop me without regard to the way it looks!
 
 290
 00:15:57,720 --> 00:16:00,480
@@ -1160,15 +1160,15 @@ I don't care what you say!I'm really going!
 
 291
 00:16:01,140 --> 00:16:04,730
-{\i1}Unless I get a tearfully passionateconfession of love, I really am going!{\i0}
+Unless I get a tearfully passionateconfession of love, I really am going!
 
 292
 00:16:05,900 --> 00:16:07,230
-{\i1}Shirogane?{\i0}
+Shirogane?
 
 293
 00:16:08,650 --> 00:16:11,650
-{\an7}TEARY-EYED
+TEARY-EYED
 
 294
 00:16:11,860 --> 00:16:15,700
@@ -1180,7 +1180,7 @@ I don't want anyone to have you, Kaguya!
 
 296
 00:16:17,410 --> 00:16:21,790
-{\an7}WAAH
+WAAH
 
 297
 00:16:18,870 --> 00:16:20,000
@@ -1200,19 +1200,19 @@ I'm crazy about you!
 
 301
 00:16:28,710 --> 00:16:33,050
-{\i1}Kaguya lost today's battle.{\i0}
+Kaguya lost today's battle.
 
 302
 00:16:28,710 --> 00:16:33,050
-{\an8}TODAY'S BATTLE RESULT
+TODAY'S BATTLE RESULT
 
 303
 00:16:31,090 --> 00:16:33,050
-{\an5}KAGUYA DEFEATED
+KAGUYA DEFEATED
 
 304
 00:16:33,050 --> 00:16:35,260
-{\an8}A PASSIONATE LOVE LETTER ARRIVED...
+A PASSIONATE LOVE LETTER ARRIVED...
 
 305
 00:16:37,300 --> 00:16:38,060
@@ -1240,7 +1240,7 @@ Improper!
 
 311
 00:16:58,830 --> 00:17:00,540
-{\an8}Worth getting that angry about?
+Worth getting that angry about?
 
 312
 00:16:59,410 --> 00:17:03,830
@@ -1248,15 +1248,15 @@ KAGUYA WANTS IT
 
 313
 00:17:00,540 --> 00:17:02,120
-{\an8}They don't have enough self-awareness
+They don't have enough self-awareness
 
 314
 00:17:02,120 --> 00:17:04,330
-{\an8}about being studentsof traditional Shuchiin Academy.
+about being studentsof traditional Shuchiin Academy.
 
 315
 00:17:04,330 --> 00:17:08,340
-{\an8}Coaxing someone like that in public,it's despicable!
+Coaxing someone like that in public,it's despicable!
 
 316
 00:17:08,590 --> 00:17:10,340
@@ -1280,71 +1280,71 @@ It may not look great,but I have confidence in the taste.
 
 321
 00:17:23,140 --> 00:17:26,060
-{\an8}{\i1}Miyuki, eat it all up!{\i0}
+Miyuki, eat it all up!
 
 322
 00:17:28,650 --> 00:17:33,940
-{\i1}It was the first timeKaguya had seen such a lunch.{\i0}
+It was the first timeKaguya had seen such a lunch.
 
 323
 00:17:33,940 --> 00:17:36,860
-{\i1}Kaguya's own lunch was always preparedby a team of chefs{\i0}
+Kaguya's own lunch was always preparedby a team of chefs
 
 324
 00:17:36,860 --> 00:17:39,200
-{\i1}and delivered to herduring the lunch hour.{\i0}
+and delivered to herduring the lunch hour.
 
 325
 00:17:39,910 --> 00:17:42,240
-{\i1}Her lunch was nutritionally balanced,of course,{\i0}
+Her lunch was nutritionally balanced,of course,
 
 326
 00:17:42,240 --> 00:17:44,500
-{\i1}achieving harmonywith fresh ingredients as the foundation.{\i0}
+achieving harmonywith fresh ingredients as the foundation.
 
 327
 00:17:44,500 --> 00:17:47,710
-{\i1}That is the lunch that Kaguya knows.{\i0}
+That is the lunch that Kaguya knows.
 
 328
 00:17:48,000 --> 00:17:50,920
-{\i1}Boiled food! Red wieners! Rolled omelette!{\i0}
+Boiled food! Red wieners! Rolled omelette!
 
 329
 00:17:50,920 --> 00:17:53,380
-{\i1}Hamburger! Pickled dried plum! And...{\i0}
+Hamburger! Pickled dried plum! And...
 
 330
 00:17:52,710 --> 00:17:55,220
-{\an7}SEAWEED EGG
+SEAWEED EGG
 
 331
 00:17:54,010 --> 00:17:55,220
-{\i1}seasoning over rice!{\i0}
+seasoning over rice!
 
 332
 00:17:55,590 --> 00:17:57,550
-{\i1}All the food one could wantcrammed into a box.{\i0}
+All the food one could wantcrammed into a box.
 
 333
 00:17:57,550 --> 00:18:03,270
-{\i1}It struck Kaguya it was likethe freedom of a child's treasure chest.{\i0}
+It struck Kaguya it was likethe freedom of a child's treasure chest.
 
 334
 00:18:03,270 --> 00:18:06,690
-{\i1}Wieners sliced to looklike an octopus! They really exist!{\i0}
+Wieners sliced to looklike an octopus! They really exist!
 
 335
 00:18:07,270 --> 00:18:10,230
-{\i1}I want to try one, but...{\i0}
+I want to try one, but...
 
 336
 00:18:10,400 --> 00:18:13,230
-{\i1}Kaguya's pride wouldn't allow it!{\i0}
+Kaguya's pride wouldn't allow it!
 
 337
 00:18:11,730 --> 00:18:13,230
-{\an8}Lunch, lunch.
+Lunch, lunch.
 
 338
 00:18:13,980 --> 00:18:16,740
@@ -1376,15 +1376,15 @@ All right!
 
 345
 00:18:29,790 --> 00:18:31,250
-{\an8}{\i1}Hey! Chika?{\i0}
+Hey! Chika?
 
 346
 00:18:33,000 --> 00:18:34,760
-{\an8}DELICIOUS
+DELICIOUS
 
 347
 00:18:36,220 --> 00:18:38,760
-{\i1}It's out of this world!{\i0}
+It's out of this world!
 
 348
 00:18:40,090 --> 00:18:45,020
@@ -1400,15 +1400,15 @@ that's yummy at room temperaturewith all of the flavor locked in!
 
 351
 00:18:49,270 --> 00:18:53,020
-{\an5}FLAVOR
+FLAVOR
 
 352
 00:18:49,270 --> 00:18:53,020
-{\an5}YUMMY
+YUMMY
 
 353
 00:18:49,270 --> 00:18:53,020
-{\an9}MEAT JUICES LOCKED IN
+MEAT JUICES LOCKED IN
 
 354
 00:18:51,770 --> 00:18:54,440
@@ -1416,19 +1416,19 @@ that's yummy at room temperaturewith all of the flavor locked in!
 
 355
 00:18:57,070 --> 00:18:57,900
-{\i1}Chika...{\i0}
+Chika...
 
 356
 00:18:58,700 --> 00:19:01,410
-{\i1}I considered you a friend...{\i0}
+I considered you a friend...
 
 357
 00:19:02,240 --> 00:19:06,080
-{\i1}but if your life was in danger tomorrow,I wouldn't lift a finger to help you.{\i0}
+but if your life was in danger tomorrow,I wouldn't lift a finger to help you.
 
 358
 00:19:07,620 --> 00:19:10,540
-{\i1}What's that scornful stare about?{\i0}
+What's that scornful stare about?
 
 359
 00:19:12,130 --> 00:19:13,290
@@ -1436,15 +1436,15 @@ You...
 
 360
 00:19:13,590 --> 00:19:16,380
-{\i1}You think my lunch is that miserable?{\i0}
+You think my lunch is that miserable?
 
 361
 00:19:16,380 --> 00:19:17,630
-{\i1}Make fun of me?{\i0}
+Make fun of me?
 
 362
 00:19:17,630 --> 00:19:19,260
-{\i1}I'll teach you a lesson!{\i0}
+I'll teach you a lesson!
 
 363
 00:19:21,550 --> 00:19:23,390
@@ -1468,15 +1468,15 @@ Sure!
 
 368
 00:19:35,520 --> 00:19:38,490
-{\i1}Hey! Why did you take itfrom the part he already ate from?{\i0}
+Hey! Why did you take itfrom the part he already ate from?
 
 369
 00:19:38,490 --> 00:19:39,780
-{\i1}That's an indirect kiss!{\i0}
+That's an indirect kiss!
 
 370
 00:19:40,780 --> 00:19:42,240
-{\i1}That, too?{\i0}
+That, too?
 
 371
 00:19:46,700 --> 00:19:50,790
@@ -1488,11 +1488,11 @@ Yes, just as using cold ricefor cooked rice with green tea
 
 373
 00:19:52,290 --> 00:19:58,800
-{\an9}FROZEN RICE
+FROZEN RICE
 
 374
 00:19:53,330 --> 00:19:58,800
-{\an9}DOESN'T STICK TOGETHER
+DOESN'T STICK TOGETHER
 
 375
 00:19:53,880 --> 00:19:55,420
@@ -1500,7 +1500,7 @@ has been traditional for ages,
 
 376
 00:19:54,590 --> 00:19:58,800
-{\an6}MIX IT WITH SOUP
+MIX IT WITH SOUP
 
 377
 00:19:55,420 --> 00:19:58,800
@@ -1508,11 +1508,11 @@ there's marvelous compatibilitybetween warm soup and a cold lunch.
 
 378
 00:19:55,840 --> 00:19:58,800
-{\an6}BREAKS APART
+BREAKS APART
 
 379
 00:19:57,130 --> 00:19:58,800
-{\an4}DELICIOUS!!
+DELICIOUS!!
 
 380
 00:19:59,050 --> 00:20:01,550
@@ -1524,63 +1524,63 @@ Okay, enough praise!
 
 382
 00:20:03,840 --> 00:20:05,550
-{\an8}{\i1}How about that, Shinomiya?{\i0}
+How about that, Shinomiya?
 
 383
 00:20:05,550 --> 00:20:07,930
-{\an8}After all, this isn't secondhand knowledge!
+After all, this isn't secondhand knowledge!
 
 384
 00:20:05,550 --> 00:20:08,720
-{\i1}I bet you didn't knowhow good cold rice could be.{\i0}
+I bet you didn't knowhow good cold rice could be.
 
 385
 00:20:07,930 --> 00:20:11,140
-{\an8}It's a discovery basedon experimentation and inspiration!
+It's a discovery basedon experimentation and inspiration!
 
 386
 00:20:09,980 --> 00:20:14,560
-{\i1}Kaguya! Kaguya! Kaguya! Kaguya!{\i0}
+Kaguya! Kaguya! Kaguya! Kaguya!
 
 387
 00:20:11,140 --> 00:20:14,560
-{\an8}He's on the level of Newton,maybe even higher!
+He's on the level of Newton,maybe even higher!
 
 388
 00:20:14,560 --> 00:20:16,820
-{\i1}Kaguya, let's go home together!{\i0}
+Kaguya, let's go home together!
 
 389
 00:20:16,820 --> 00:20:19,490
-{\i1}I love getting to do a sleepover with you!{\i0}
+I love getting to do a sleepover with you!
 
 390
 00:20:19,990 --> 00:20:23,070
-{\i1}It doesn't hurt, but I'm crying!{\i0}
+It doesn't hurt, but I'm crying!
 
 391
 00:20:26,030 --> 00:20:29,580
-{\i1}Goodbye, Chika. We're no longer friends.{\i0}
+Goodbye, Chika. We're no longer friends.
 
 392
 00:20:31,040 --> 00:20:33,080
-{\i1}She looks even more contemptuous!{\i0}
+She looks even more contemptuous!
 
 393
 00:20:33,460 --> 00:20:34,790
-{\i1}But why?{\i0}
+But why?
 
 394
 00:20:35,000 --> 00:20:40,210
-{\i1}I see. If that's how you want to play it,then I have an idea, too.{\i0}
+I see. If that's how you want to play it,then I have an idea, too.
 
 395
 00:20:40,760 --> 00:20:43,130
-{\i1}Just wait until tomorrow.{\i0}
+Just wait until tomorrow.
 
 396
 00:20:43,470 --> 00:20:45,470
-{\an8}THE NEXT DAY
+THE NEXT DAY
 
 397
 00:20:48,310 --> 00:20:50,600
@@ -1596,15 +1596,15 @@ Huh. It actually looks good.
 
 400
 00:20:58,070 --> 00:21:01,320
-{\i1}I know it!Then you're going to ask me, aren't you?{\i0}
+I know it!Then you're going to ask me, aren't you?
 
 401
 00:21:01,320 --> 00:21:02,990
-{\i1}Ask me for a bite.{\i0}
+Ask me for a bite.
 
 402
 00:21:03,490 --> 00:21:05,990
-{\i1}Then I'll be magnanimous, and...{\i0}
+Then I'll be magnanimous, and...
 
 403
 00:21:06,780 --> 00:21:08,660
@@ -1616,11 +1616,11 @@ Good grief. Fine, Shirogane,we can exchange lunches.
 
 405
 00:21:12,410 --> 00:21:14,000
-{\i1}And that's how I'll accept it.{\i0}
+And that's how I'll accept it.
 
 406
 00:21:14,250 --> 00:21:16,500
-{\i1}So come over anytime.{\i0}
+So come over anytime.
 
 407
 00:21:18,420 --> 00:21:19,800
@@ -1664,15 +1664,15 @@ I recall you love oysters.
 
 417
 00:21:46,200 --> 00:21:49,120
-{\an8}{\i1}What is this disturbing aurashe's been giving off since yesterday?{\i0}
+What is this disturbing aurashe's been giving off since yesterday?
 
 418
 00:21:49,120 --> 00:21:52,290
-{\an8}{\i1}Why is she offering mea meaninglessly high-class dish?{\i0}
+Why is she offering mea meaninglessly high-class dish?
 
 419
 00:21:52,500 --> 00:21:55,830
-{\i1}She must be plotting something.Otherwise...{\i0}
+She must be plotting something.Otherwise...
 
 420
 00:21:55,830 --> 00:21:56,790
@@ -1684,23 +1684,23 @@ That's a cute lunch.
 
 422
 00:22:00,290 --> 00:22:03,840
-{\i1}I'll give you this out of charity, Shirogane,since I feel sorry for you.{\i0}
+I'll give you this out of charity, Shirogane,since I feel sorry for you.
 
 423
 00:22:03,840 --> 00:22:05,550
-{\i1}She feels sorry for me?{\i0}
+She feels sorry for me?
 
 424
 00:22:05,880 --> 00:22:07,720
-{\i1}Th-This is humiliating!{\i0}
+Th-This is humiliating!
 
 425
 00:22:08,340 --> 00:22:09,430
-{\i1}I can't take it.{\i0}
+I can't take it.
 
 426
 00:22:09,600 --> 00:22:11,180
-{\i1}I will not take it!{\i0}
+I will not take it!
 
 427
 00:22:11,680 --> 00:22:14,640
@@ -1708,7 +1708,7 @@ I have nothing to give youin exchange for this high-class dish!
 
 428
 00:22:14,930 --> 00:22:16,560
-{\i1}I'd be happy with octopus wieners!{\i0}
+I'd be happy with octopus wieners!
 
 429
 00:22:16,560 --> 00:22:18,230
@@ -1720,7 +1720,7 @@ Is your head okay?
 
 431
 00:22:20,060 --> 00:22:22,610
-{\i1}Darn it! That sounds like an insult!{\i0}
+Darn it! That sounds like an insult!
 
 432
 00:22:23,480 --> 00:22:26,610
@@ -1748,31 +1748,31 @@ Color is important to a lunch box, right?
 
 438
 00:22:42,250 --> 00:22:43,880
-{\an8}That's certainly true.
+That's certainly true.
 
 439
 00:22:42,590 --> 00:22:44,630
-{\i1}Cattle in human form.{\i0}
+Cattle in human form.
 
 440
 00:22:44,630 --> 00:22:47,720
-{\i1}Prideless parasite,relying on someone else to survive.{\i0}
+Prideless parasite,relying on someone else to survive.
 
 441
 00:22:47,720 --> 00:22:50,300
-{\i1}All that nutrition to your chest,nothing for your brain!{\i0}
+All that nutrition to your chest,nothing for your brain!
 
 442
 00:22:50,300 --> 00:22:51,850
-{\i1}Repulsive creature!{\i0}
+Repulsive creature!
 
 443
 00:22:52,180 --> 00:22:54,850
-{\an8}{\i1}I swear I'll never forgive you.{\i0}
+I swear I'll never forgive you.
 
 444
 00:22:55,140 --> 00:22:57,350
-{\i1}Shinomiya's eyes are like an assassin's!{\i0}
+Shinomiya's eyes are like an assassin's!
 
 445
 00:22:57,600 --> 00:23:01,690
@@ -1780,7 +1780,7 @@ Crap! I have the club meeting today!I'd better hurry and eat!
 
 446
 00:23:03,480 --> 00:23:05,730
-{\an8}{\i1}My octopus-shaped wiener!{\i0}
+My octopus-shaped wiener!
 
 447
 00:23:06,070 --> 00:23:07,110
@@ -1788,15 +1788,15 @@ I'll see you later!
 
 448
 00:23:11,870 --> 00:23:15,240
-{\i1}What am I doing?{\i0}
+What am I doing?
 
 449
 00:23:15,540 --> 00:23:16,870
-{\an8}{\i1}I feel like a fool.{\i0}
+I feel like a fool.
 
 450
 00:23:19,790 --> 00:23:21,000
-{\an8}Kaguya...
+Kaguya...
 
 451
 00:23:29,050 --> 00:23:30,510
@@ -1832,11 +1832,11 @@ Have confidence.
 
 459
 00:23:50,450 --> 00:23:59,410
-{\an5}TODAY'S BATTLE RESULT
+TODAY'S BATTLE RESULT
 
 460
 00:23:50,740 --> 00:23:52,740
-{\an8}{\i1}Today's battle.{\i0}
+Today's battle.
 
 461
 00:23:51,160 --> 00:23:54,490
@@ -1844,11 +1844,11 @@ I've never lacked confidence about that!
 
 462
 00:23:52,740 --> 00:23:59,410
-{\an8}DUE TO SHIROGANE'S ESCAPING,VICTORY FOR KAGUYA
+DUE TO SHIROGANE'S ESCAPING,VICTORY FOR KAGUYA
 
 463
 00:23:55,200 --> 00:23:57,200
-{\i1}Kaguya won.{\i0}
+Kaguya won.
 
 464
 00:24:02,710 --> 00:24:04,170
@@ -1860,67 +1860,67 @@ What a nuisance Shirogane is.
 
 466
 00:24:07,460 --> 00:24:11,760
-{\an8}After all that preparation,he still hasn't confessed his love to me.
+After all that preparation,he still hasn't confessed his love to me.
 
 467
 00:24:12,430 --> 00:24:13,680
-{\an8}Kaguya...
+Kaguya...
 
 468
 00:24:14,090 --> 00:24:18,140
-{\an8}purely hypothetically,if you truly fall in love someday,
+purely hypothetically,if you truly fall in love someday,
 
 469
 00:24:18,140 --> 00:24:20,850
-{\an8}would you wait for that personto confess their love, like now?
+would you wait for that personto confess their love, like now?
 
 470
 00:24:20,850 --> 00:24:22,440
-{\an8}Or would you confess your love?
+Or would you confess your love?
 
 471
 00:24:22,690 --> 00:24:24,650
-{\an8}{\i1}The romantic battle of the brains.{\i0}
+The romantic battle of the brains.
 
 472
 00:24:24,650 --> 00:24:28,440
-{\an8}{\i1}It's a duel between two souls,with their dignity on the line!{\i0}
+It's a duel between two souls,with their dignity on the line!
 
 473
 00:24:28,780 --> 00:24:32,570
-{\an8}If that time comes, I would considerthe risk of someone stealing him first
+If that time comes, I would considerthe risk of someone stealing him first
 
 474
 00:24:32,570 --> 00:24:34,450
-{\an8}and come to the onerational conclusion.
+and come to the onerational conclusion.
 
 475
 00:24:35,070 --> 00:24:37,200
-{\an8}Of course I would go.
+Of course I would go.
 
 476
 00:24:37,740 --> 00:24:39,250
-{\an8}I would go.
+I would go.
 
 477
 00:24:39,250 --> 00:24:40,790
-{\an8}{\i1}Please.{\i0}
+Please.
 
 478
 00:24:40,790 --> 00:24:43,710
-{\an8}Of course I... Of course.
+Of course I... Of course.
 
 479
 00:24:43,710 --> 00:24:48,460
-{\an8}{\i1}Please understand that she's nothaving trouble because of a silly reason{\i0}
+Please understand that she's nothaving trouble because of a silly reason
 
 480
 00:24:48,460 --> 00:24:50,630
-{\an8}{\i1}like "Confessing my lovewould be too embarrassing"{\i0}
+like "Confessing my lovewould be too embarrassing"
 
 481
 00:24:50,630 --> 00:24:52,970
-{\an8}{\i1}or "What if he turned me down?"{\i0}
+or "What if he turned me down?"
 
 482
 00:24:53,470 --> 00:24:55,470
@@ -1928,5 +1928,5 @@ CONFESSION
 
 483
 00:24:55,720 --> 00:24:59,060
-{\an8}Who cares? It doesn't even matter!
+Who cares? It doesn't even matter!
 

@@ -20,11 +20,11 @@ Nice to meet you.
 
 6
 00:01:30,270 --> 00:01:35,110
-{\frx60\fscy200\fad(900,268)}Mob Psycho
+Mob Psycho
 
 7
 00:01:39,990 --> 00:01:45,000
-{\c&H4C2AC0&\4c&H192009&}Di{\c&H6946C0&}s{\c&H8F79B8&}c{\c&HE1E092&}ord{\c&H4C2AC0&}~Ch{\c&H6946C0&}o{\c&H8F79B8&}i{\c&HE1E092&}ces~
+Discord~Choices~
 
 8
 00:01:45,230 --> 00:01:47,890
@@ -104,7 +104,7 @@ Don't give me that "I don't know" crap!
 
 27
 00:02:34,530 --> 00:02:36,550
-Are my lessons {\i1}that{\i0} boring?
+Are my lessons that boring?
 
 28
 00:02:36,550 --> 00:02:37,840
@@ -164,7 +164,7 @@ Bring it!
 
 42
 00:03:04,220 --> 00:03:06,980
-{\an8}Get 'im, Sugimoto!
+Get 'im, Sugimoto!
 
 43
 00:03:04,610 --> 00:03:06,370
@@ -204,15 +204,15 @@ If only I were stronger...
 
 52
 00:03:40,610 --> 00:03:41,280
-{\pos(173,115)}Nature
+Nature
 
 53
 00:03:40,610 --> 00:03:42,030
-{\pos(425,115)}Dream
+Dream
 
 54
 00:03:40,610 --> 00:03:43,490
-{\pos(506,115)}Friendship
+Friendship
 
 55
 00:03:40,610 --> 00:03:43,490
@@ -220,7 +220,7 @@ Darkness
 
 56
 00:03:41,650 --> 00:03:43,490
-{\pos(173,115)}Nature
+Nature
 
 57
 00:03:42,160 --> 00:03:43,490
@@ -344,7 +344,7 @@ by giving advice and solving various problems.
 
 87
 00:05:09,160 --> 00:05:10,910
-{\blur1\frx340\fry10}The Psychic of the CenturyMogami Keiji-san
+The Psychic of the CenturyMogami Keiji-san
 
 88
 00:05:11,140 --> 00:05:13,820
@@ -404,7 +404,7 @@ Suicide by Hanging
 
 102
 00:05:57,580 --> 00:06:02,090
-{\an8}Early yesterday, Mogami Keiji-san,the famous psychic, was discovered dead.
+Early yesterday, Mogami Keiji-san,the famous psychic, was discovered dead.
 
 103
 00:05:57,660 --> 00:05:59,540
@@ -416,7 +416,7 @@ I became an evil spirit and decided to use my powers for myself this time.
 
 105
 00:06:02,090 --> 00:06:05,010
-{\an8}According to the MPD, the cause of death was suicide.
+According to the MPD, the cause of death was suicide.
 
 106
 00:06:05,640 --> 00:06:07,470
@@ -444,7 +444,7 @@ You are allowed to use your powers for yourself...
 
 112
 00:06:27,680 --> 00:06:29,700
-No, you {\i1}should{\i0} be using your powers for yourself.
+No, you should be using your powers for yourself.
 
 113
 00:06:29,700 --> 00:06:32,100
@@ -488,7 +488,7 @@ Don't... I'll take it in. I'll take care of it!
 
 123
 00:07:00,480 --> 00:07:03,300
-{\an8}Quit scaring Asagiri-san, you punk!
+Quit scaring Asagiri-san, you punk!
 
 124
 00:07:09,210 --> 00:07:11,130
@@ -712,7 +712,7 @@ The snot's talking?!
 
 179
 00:10:13,340 --> 00:10:16,300
-{\move(202,214,226,214)}No trespassingSeasoning Realty
+No trespassingSeasoning Realty
 
 180
 00:10:13,720 --> 00:10:16,300
@@ -976,11 +976,11 @@ I still have that awful Asagiri-san to save.
 
 245
 00:13:36,460 --> 00:13:39,960
-{\frx60\fscy200\c&H1A1A1A&}Mob Psycho
+Mob Psycho
 
 246
 00:13:39,960 --> 00:13:43,460
-{\frx60\fscy200\c&H5DF1F3&\pos(320,5)}Mob Psycho
+Mob Psycho
 
 247
 00:13:49,390 --> 00:13:51,180
@@ -1128,7 +1128,7 @@ It's dangerous, so leave this to me and stay back.
 
 283
 00:16:23,260 --> 00:16:25,000
-Actually, yeah, who {\i0}are{\i1} you?
+Actually, yeah, who are you?
 
 284
 00:16:28,280 --> 00:16:33,010
@@ -1448,15 +1448,15 @@ Not to mention our beloved founder is still nowhere to be found.
 
 363
 00:23:06,240 --> 00:23:07,000
-{\an8}Ow.
+Ow.
 
 364
 00:23:08,200 --> 00:23:11,200
-{\frx16\fry24\b1}Current Balance:
+Current Balance:
 
 365
 00:23:09,200 --> 00:23:11,200
-{\frz354.8\frx20\fry16}Thank you for your continued business with us.\h\hThere has been a deposit of 500,000,000 JPY to your account.\h\h\hThank you\h\h\h\hCurrent available balance: 500,010,180 JPY
+Thank you for your continued business with us.\h\hThere has been a deposit of 500,000,000 JPY to your account.\h\h\hThank you\h\h\h\hCurrent available balance: 500,010,180 JPY
 
 366
 00:23:11,900 --> 00:23:15,360
@@ -1520,7 +1520,7 @@ Jeez. You never learn, do you?
 
 381
 00:24:03,450 --> 00:24:05,750
-Next time on {\i1}Mob Psycho 100 II{\i0} Episode 6:
+Next time on Mob Psycho 100 II Episode 6:
 
 382
 00:24:05,750 --> 00:24:06,840
@@ -1528,7 +1528,7 @@ Next time on {\i1}Mob Psycho 100 II{\i0} Episode 6:
 
 383
 00:24:06,840 --> 00:24:10,210
-{\c&HFFFFFF&\4c&H6F795B&}Poor, Lonely, Whitey
+Poor, Lonely, Whitey
 
 384
 00:24:07,270 --> 00:24:09,660

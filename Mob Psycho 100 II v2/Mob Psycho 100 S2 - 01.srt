@@ -1,6 +1,6 @@
 1
 00:00:00,840 --> 00:00:06,390
-{\fad(1321,1)}NamuAmidaButsu
+NamuAmidaButsu
 
 2
 00:00:02,120 --> 00:00:06,340
@@ -84,7 +84,7 @@ I only started farming to kill time,but this has been going on for three years.
 
 22
 00:01:05,870 --> 00:01:12,750
-{\fad(1315,1)}Amino Acid Fertilizer{\fs14\b1\c&H457EBC&\3c&H051217&\4c&HD4D3D7&\shad3}Potting Compost
+Amino Acid FertilizerPotting Compost
 
 23
 00:01:10,400 --> 00:01:12,750
@@ -136,7 +136,7 @@ Executing the Exorcism!!
 
 35
 00:01:40,400 --> 00:01:43,610
-We will do our best to reduce the spirit possessing you{\fs12}Option A — Trial Course\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hA Mere 2,000 yen {\fs9\b0}(Tax Excluded)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOutside Offer Period: 3,980 yen{\b1\fs12}Option B — Serious Course \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hA Mere 5,000 yen {\fs9\b0}(Tax Excluded)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOutside Offer Period: 8,980 yen{\fs12\b1}Option C — All-Out Course \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hA Mere 12,000 yen {\fs9\b0}(Tax Excluded)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOutside of Offer Period: 19,880 yen
+We will do our best to reduce the spirit possessing youOption A — Trial Course\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hA Mere 2,000 yen (Tax Excluded)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOutside Offer Period: 3,980 yenOption B — Serious Course \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hA Mere 5,000 yen (Tax Excluded)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOutside Offer Period: 8,980 yenOption C — All-Out Course \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hA Mere 12,000 yen (Tax Excluded)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOutside of Offer Period: 19,880 yen
 
 36
 00:01:40,400 --> 00:01:43,610
@@ -236,7 +236,7 @@ So the scarecrow was a decoy?!
 
 60
 00:03:04,230 --> 00:03:08,490
-{\fad(447,1)\fs18\an8\frz333\pos(243,139)\frx25\fry24}High-Level Spirit{\fs22}Wriggle Wriggle
+High-Level SpiritWriggle Wriggle
 
 61
 00:03:04,830 --> 00:03:08,490
@@ -272,7 +272,7 @@ I can absorb the lifeforce of all the cropsthat grow in these fields.
 
 69
 00:03:29,280 --> 00:03:32,230
-So don't worry. They're servingtheir purpose as {\i1}my{\i0} food.
+So don't worry. They're servingtheir purpose as my food.
 
 70
 00:03:33,800 --> 00:03:35,560
@@ -472,7 +472,7 @@ I smell a new business opportunity!
 
 119
 00:06:20,270 --> 00:06:26,990
-If you have 3 evil spirits,the exorcism fee on 1 of them will be on the house!!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\c&H5898CD&\3c&H4A38A9&}This Month Only
+If you have 3 evil spirits,the exorcism fee on 1 of them will be on the house!!\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hThis Month Only
 
 120
 00:06:21,150 --> 00:06:22,260
@@ -488,11 +488,11 @@ Umami 0%
 
 123
 00:06:28,320 --> 00:06:30,280
-{\an8}You can take these cherry tomatoes home with you.
+You can take these cherry tomatoes home with you.
 
 124
 00:06:30,280 --> 00:06:30,840
-{\an8}Huh?
+Huh?
 
 125
 00:06:32,700 --> 00:06:33,510
@@ -500,7 +500,7 @@ Huh?
 
 126
 00:07:55,240 --> 00:08:00,080
-{\frx60\fscy200\fad(900,268)}Mob Psycho
+Mob Psycho
 
 127
 00:08:07,020 --> 00:08:10,740
@@ -508,7 +508,7 @@ Welcome, my fellow upper echelon membersof the Psycho Helmet Religion.
 
 128
 00:08:08,710 --> 00:08:09,960
-{\fad(250,1)}We're Looking For Our God. The Psycho Helmet Religion
+We're Looking For Our God. The Psycho Helmet Religion
 
 129
 00:08:10,740 --> 00:08:13,320
@@ -656,7 +656,7 @@ And you're panicking too much.
 
 165
 00:10:10,110 --> 00:10:12,460
-So you {\i1}do{\i0} like Takane-san.
+So you do like Takane-san.
 
 166
 00:10:12,460 --> 00:10:14,590
@@ -748,7 +748,7 @@ This is the perfect opportunity to show people who you really are, Mob-kun!
 
 188
 00:11:17,650 --> 00:11:25,570
-{\fad(1,430)}Hardcore Training Montage
+Hardcore Training Montage
 
 189
 00:11:18,120 --> 00:11:21,780
@@ -760,7 +760,7 @@ Finally, a week later...
 
 191
 00:11:28,160 --> 00:11:35,750
-{\fad(526,433)\an8\fnTimes New Roman\fs18\c&H405C5A&\3c&HA2CDD2&\shad0\frx20}Student Council President Candidate Speech Competition
+Student Council President Candidate Speech Competition
 
 192
 00:11:29,110 --> 00:11:33,620
@@ -948,7 +948,7 @@ Please go out with me.
 
 238
 00:14:11,990 --> 00:14:12,320
-{\an8}Progress Toward
+Progress Toward
 
 239
 00:14:12,320 --> 00:14:12,700
@@ -956,23 +956,23 @@ Mob's Explosion
 
 240
 00:14:12,700 --> 00:14:15,450
-Progress Toward Mob's Explosion: {\c&HF6FF32&}21{\c&HFFFFFF&}%
+Progress Toward Mob's Explosion: 21%
 
 241
 00:14:15,450 --> 00:14:18,950
-{\frx40\fscy200\fs40\fnTimes New Roman\c&H71FFF6&\pos(150,43)}II
+II
 
 242
 00:14:15,450 --> 00:14:18,950
-{\frx40\fscy120\pos(150,53)}Mob Psycho100
+Mob Psycho100
 
 243
 00:14:18,950 --> 00:14:22,450
-{\frx40\fscy200\fs40\fnTimes New Roman\c&H71FFF6&\pos(507,43)}II
+II
 
 244
 00:14:18,950 --> 00:14:22,450
-{\frx40\fscy120\pos(507,53)}Mob Psycho100
+Mob Psycho100
 
 245
 00:14:22,450 --> 00:14:24,510
@@ -1236,7 +1236,7 @@ but I'm glad to see he's more than fine.
 
 310
 00:17:01,620 --> 00:17:05,710
-{\move(320,190,320,-17)}One Week Later
+One Week Later
 
 311
 00:17:06,150 --> 00:17:08,130
@@ -1416,7 +1416,7 @@ Instead of wasting your time writing this drivel, go to the arcade with us!
 
 355
 00:19:55,980 --> 00:19:57,960
-It's not like I spend {\i1}all{\i0} my time on it.
+It's not like I spend all my time on it.
 
 356
 00:19:57,960 --> 00:20:01,670
@@ -1440,7 +1440,7 @@ Kageyama-kun?
 
 361
 00:20:14,440 --> 00:20:16,070
-Oh, hey! It's {\i1}that{\i0} guy!
+Oh, hey! It's that guy!
 
 362
 00:20:16,070 --> 00:20:18,320
@@ -1556,7 +1556,7 @@ But... Thank you.
 
 390
 00:21:41,730 --> 00:21:44,150
-{\fad(750,1)}No going back...
+No going back...
 
 391
 00:21:44,750 --> 00:21:47,610
@@ -1584,7 +1584,7 @@ Smooth.
 
 397
 00:22:37,450 --> 00:22:42,460
-{\c&HF3FF2F&}Ripped Apart~Someone Is Watching~
+Ripped Apart~Someone Is Watching~
 
 398
 00:22:43,000 --> 00:22:45,020
@@ -1636,7 +1636,7 @@ Kageyama-kun sure is amazing.
 
 410
 00:23:24,650 --> 00:23:27,710
-{\an8}A middle school student... with psychic powers...
+A middle school student... with psychic powers...
 
 411
 00:23:32,670 --> 00:23:37,100
@@ -1664,19 +1664,19 @@ Progress Toward
 
 417
 00:23:51,820 --> 00:23:52,200
-{\an2}Mob's Explosion
+Mob's Explosion
 
 418
 00:23:52,200 --> 00:23:54,950
-Progress Toward Mob's Explosion: {\c&HBFFF43&}27{\c&H545958&}%
+Progress Toward Mob's Explosion: 27%
 
 419
 00:23:52,200 --> 00:23:54,950
-Improve Your Speech: {\c&H4D586F&\3c&HBABDE1&}Waterfall Meditation
+Improve Your Speech: Waterfall Meditation
 
 420
 00:23:52,200 --> 00:23:54,950
-{\pos(112,88)}Improve Your Speech: {\c&H616B83&\3c&HC5CFE7&}\h\h\h\h\h\h\hBears
+Improve Your Speech: \h\h\h\h\h\h\hBears
 
 421
 00:23:52,200 --> 00:23:54,950
@@ -1692,11 +1692,11 @@ Lifting Weights Is the Best Answer to Everything
 
 424
 00:23:52,200 --> 00:23:54,950
-{\frz251\pos(522.667,68)}How to Properly Read Novels{\c&H5774AD&\3c&H93CEEE&}(How to Properly Read Series)
+How to Properly Read Novels(How to Properly Read Series)
 
 425
 00:23:52,200 --> 00:23:54,950
-{\frz270\fs10\pos(585,56)}How to Properly Read Social Cues {\c&H5078B4&\3c&H8DCDEC&}(How to Properly Read Series)
+How to Properly Read Social Cues (How to Properly Read Series)
 
 426
 00:23:56,030 --> 00:23:57,970
@@ -1712,7 +1712,7 @@ I'm leaving the rest to you, Mob!
 
 429
 00:24:03,300 --> 00:24:05,190
-Next time on {\i1}Mob Psycho 100 II{\i0} Episode 2:
+Next time on Mob Psycho 100 II Episode 2:
 
 430
 00:24:05,190 --> 00:24:06,920
@@ -1720,9 +1720,9 @@ Next time on {\i1}Mob Psycho 100 II{\i0} Episode 2:
 
 431
 00:24:06,920 --> 00:24:10,260
-{\c&HB1697F&\4c&H312D2B&}Urban Legends~Encountering Rumors~
+Urban Legends~Encountering Rumors~
 
 432
 00:24:07,200 --> 00:24:09,460
-{\an8}Watching {\i1}II{\i0} in real time is also a wise decision.
+Watching II in real time is also a wise decision.
 

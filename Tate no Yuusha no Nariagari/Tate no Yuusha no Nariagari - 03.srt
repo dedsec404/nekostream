@@ -8,7 +8,7 @@ It's been a week since the battle in the coal pit,
 
 3
 00:00:07,030 --> 00:00:08,200
-{\an8}Get back here!
+Get back here!
 
 4
 00:00:13,420 --> 00:00:18,510
@@ -16,7 +16,7 @@ and my shield's gained so manyskills and abilities I lost count of them all.
 
 5
 00:00:13,990 --> 00:00:14,660
-{\fad(1,521)}Animal Needle Shield
+Animal Needle Shield
 
 6
 00:00:18,510 --> 00:00:22,270
@@ -48,11 +48,11 @@ I did it!
 
 13
 00:01:07,790 --> 00:01:10,340
-{\fad(750,645)}The Rising of the Shield Hero
+The Rising of the Shield Hero
 
 14
 00:02:21,530 --> 00:02:25,790
-{\fad(438,596)}Wave of Catastrophe
+Wave of Catastrophe
 
 15
 00:02:21,540 --> 00:02:24,510
@@ -164,7 +164,7 @@ What are you talking about?
 
 42
 00:03:31,730 --> 00:03:33,460
-We're here for {\i1}your{\i0} equipment.
+We're here for your equipment.
 
 43
 00:03:33,460 --> 00:03:34,890
@@ -564,7 +564,7 @@ nobody believes me, anyway.
 
 142
 00:09:07,820 --> 00:09:10,900
-{\fad(107,1)}The Day of the Wave of Catastrophe
+The Day of the Wave of Catastrophe
 
 143
 00:09:15,240 --> 00:09:16,860
@@ -1232,5 +1232,5 @@ Yeah.
 
 309
 00:23:36,220 --> 00:23:39,970
-{\fad(356,1)}Lullaby at Dawn
+Lullaby at Dawn
 

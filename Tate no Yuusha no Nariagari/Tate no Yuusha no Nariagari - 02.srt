@@ -128,7 +128,7 @@ I'll take this one.
 
 33
 00:03:35,650 --> 00:03:40,740
-{\fad(485,772)}The Slave Girl
+The Slave Girl
 
 34
 00:03:38,690 --> 00:03:39,850
@@ -152,27 +152,27 @@ The slave crest on her chest makes it impossible for her to defy you.
 
 39
 00:04:08,350 --> 00:04:09,640
-{\fad(398,183)}Acquired Slave A.
+Acquired Slave A.
 
 40
 00:04:10,060 --> 00:04:11,930
-{\fad(1000,1)}SlaveCrest
+SlaveCrest
 
 41
 00:04:10,060 --> 00:04:11,930
-{\fad(1000,1)}MonsterCrest
+MonsterCrest
 
 42
 00:04:10,060 --> 00:04:11,930
-{\fad(1000,1)}Summon
+Summon
 
 43
 00:04:10,060 --> 00:04:11,930
-{\fad(1000,1)}Violation Conditions{\c&HFEFCFF&}Refuse OrderAttack Master{\c&H61676F&}Attack [      ]Get [   ] Meters From MasterLie to MasterFleeItem Use
+Violation ConditionsRefuse OrderAttack MasterAttack [      ]Get [   ] Meters From MasterLie to MasterFleeItem Use
 
 44
 00:04:10,060 --> 00:04:11,930
-{\fad(1000,1)}PartyMember Settings{\c&HFEFCFF&}Violation Damage Lv.7Speech AllowedAuto Attack{\c&H61676F&}Magical SupportPrioritize SurvivalTankItem Recovery
+PartyMember SettingsViolation Damage Lv.7Speech AllowedAuto AttackMagical SupportPrioritize SurvivalTankItem Recovery
 
 45
 00:04:12,260 --> 00:04:13,830
@@ -532,31 +532,31 @@ Now!
 
 134
 00:09:17,780 --> 00:09:20,740
-{\fad(500,500)}SkillTree
+SkillTree
 
 135
 00:09:17,780 --> 00:09:20,740
-{\fad(500,500)}MasteryBonus
+MasteryBonus
 
 136
 00:09:17,780 --> 00:09:20,740
-{\fad(500,500)}Blue Mush Shield
+Blue Mush Shield
 
 137
 00:09:17,780 --> 00:09:20,740
-{\fad(500,500)}ATT: 0MAG: 0P. DEF: +4M. DEF: +6DEX: 0
+ATT: 0MAG: 0P. DEF: +4M. DEF: +6DEX: 0
 
 138
 00:09:17,780 --> 00:09:20,740
-{\fad(500,500)}Fire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
+Fire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
 
 139
 00:09:17,780 --> 00:09:20,740
-{\fad(500,500)}ProficiencyUnlock ConditionsUnlock Mush ShieldBlue Mush Spores x3Spores of Blue Mush x2
+ProficiencyUnlock ConditionsUnlock Mush ShieldBlue Mush Spores x3Spores of Blue Mush x2
 
 140
 00:09:17,780 --> 00:09:20,740
-{\fad(500,500)}Simple Blending Recipes 1
+Simple Blending Recipes 1
 
 141
 00:09:19,070 --> 00:09:20,780
@@ -792,7 +792,7 @@ So she wants one, huh?
 
 199
 00:12:34,440 --> 00:12:36,510
-You can play with it {\i1}after{\i0}we're done with work.
+You can play with it afterwe're done with work.
 
 200
 00:12:37,980 --> 00:12:38,820
@@ -816,7 +816,7 @@ My companion might scream at night, though.
 
 205
 00:12:50,370 --> 00:12:52,250
-You {\i1}will{\i0} let us stay, right?
+You will let us stay, right?
 
 206
 00:12:53,120 --> 00:12:55,790
@@ -960,7 +960,7 @@ Well, with your stuff, it'd have to be here.
 
 241
 00:15:35,660 --> 00:15:39,290
-{\fad(1114,1)}The Village of Lute
+The Village of Lute
 
 242
 00:15:39,290 --> 00:15:40,540
@@ -1016,23 +1016,23 @@ MasteryBonus
 
 255
 00:16:21,710 --> 00:16:23,210
-{\fad(500,1)}Rope Shield
+Rope Shield
 
 256
 00:16:21,710 --> 00:16:23,210
-{\fad(500,1)}ATT: 0MAG: 0P. DEF: +15M. DEF: +20DEX: 0
+ATT: 0MAG: 0P. DEF: +15M. DEF: +20DEX: 0
 
 257
 00:16:21,710 --> 00:16:23,210
-{\fad(500,1)}Fire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
+Fire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
 
 258
 00:16:21,710 --> 00:16:23,210
-{\fad(500,1)}ProficiencyUnlock ConditionsLv. 5 or HigherUnlock Magnet Shield
+ProficiencyUnlock ConditionsLv. 5 or HigherUnlock Magnet Shield
 
 259
 00:16:21,710 --> 00:16:23,210
-{\fad(500,1)}Air Strike Shield      Rope
+Air Strike Shield      Rope
 
 260
 00:16:23,210 --> 00:16:25,710
@@ -1044,7 +1044,7 @@ Rope Shield... Not exactlywhat I'd call a creative name.
 
 262
 00:16:33,260 --> 00:16:34,720
-{\fad(524,1)}Skill{\fs16}Can be activated at the cost of SP.Can also be quick cast by shortening pronunciation or using crystals.
+SkillCan be activated at the cost of SP.Can also be quick cast by shortening pronunciation or using crystals.
 
 263
 00:16:34,720 --> 00:16:36,050
@@ -1368,5 +1368,5 @@ isn't complete without this.
 
 343
 00:23:36,180 --> 00:23:39,930
-{\fad(356,1)}Wave of Catastrophe
+Wave of Catastrophe
 

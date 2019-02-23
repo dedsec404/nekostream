@@ -240,51 +240,51 @@ Wait.
 
 61
 00:05:17,410 --> 00:05:20,920
-{\an8}It's fine. I already have an ideaof who the targets are.
+It's fine. I already have an ideaof who the targets are.
 
 62
 00:05:21,170 --> 00:05:22,420
-{\an8}And that's...
+And that's...
 
 63
 00:05:22,420 --> 00:05:24,420
-{\an8}Two of the oldest children.
+Two of the oldest children.
 
 64
 00:05:24,840 --> 00:05:27,510
-{\an8}We just have to make surethey don't escape before shipment.
+We just have to make surethey don't escape before shipment.
 
 65
 00:05:27,840 --> 00:05:30,260
-{\an8}My children are special.
+My children are special.
 
 66
 00:05:30,420 --> 00:05:32,840
-{\an8}And this is beneficial for the plant.
+And this is beneficial for the plant.
 
 67
 00:05:33,010 --> 00:05:35,180
-{\an8}So you're not reporting it?
+So you're not reporting it?
 
 68
 00:05:35,180 --> 00:05:38,970
-{\an8}No. I will take care of the targetsin a proper manner.
+No. I will take care of the targetsin a proper manner.
 
 69
 00:05:38,970 --> 00:05:40,600
-{\an8}You are a guard.
+You are a guard.
 
 70
 00:05:41,060 --> 00:05:43,650
-{\an8}You don't need to think.Just watch the children.
+You don't need to think.Just watch the children.
 
 71
 00:05:45,060 --> 00:05:47,270
-{\an8}I am the Mom of this House.
+I am the Mom of this House.
 
 72
 00:05:47,820 --> 00:05:49,860
-{\an8}And you are my assistant.
+And you are my assistant.
 
 73
 00:05:50,440 --> 00:05:52,740
@@ -504,23 +504,23 @@ That night...
 
 127
 00:09:25,120 --> 00:09:27,370
-{\an8}What's that? A bug bite?
+What's that? A bug bite?
 
 128
 00:09:27,790 --> 00:09:33,580
-{\an8}Mom told me a while ago that this wasfrom when blood was drawn to test for diseases.
+Mom told me a while ago that this wasfrom when blood was drawn to test for diseases.
 
 129
 00:09:36,380 --> 00:09:39,840
-{\an8}Naila, Phil, Mark, and Conny all had it.
+Naila, Phil, Mark, and Conny all had it.
 
 130
 00:09:40,340 --> 00:09:41,800
-{\an8}On everyone's ear...
+On everyone's ear...
 
 131
 00:09:41,930 --> 00:09:42,970
-{\an8}Mine too?
+Mine too?
 
 132
 00:09:45,470 --> 00:09:47,100
@@ -568,7 +568,7 @@ Now ending transmission.
 
 143
 00:10:33,440 --> 00:10:34,690
-{\i1}Isabella?{\i0}
+Isabella?
 
 144
 00:10:34,690 --> 00:10:35,770
@@ -576,23 +576,23 @@ Grandma!
 
 145
 00:10:35,940 --> 00:10:38,440
-{\i1}I have a message from the Boss.{\i0}
+I have a message from the Boss.
 
 146
 00:10:38,820 --> 00:10:42,110
-{\i1}"Those three can be shipped outas scheduled, right?"{\i0}
+"Those three can be shipped outas scheduled, right?"
 
 147
 00:10:43,700 --> 00:10:45,030
-{\i1}Listen, Isabella.{\i0}
+Listen, Isabella.
 
 148
 00:10:45,820 --> 00:10:49,200
-{\i1}This year, the other plantshave overall been bearing poor fruit.{\i0}
+This year, the other plantshave overall been bearing poor fruit.
 
 149
 00:10:49,700 --> 00:10:56,000
-{\i1}Only your plant can deliver the supreme goodsthat will be offered at the Tifari.{\i0}
+Only your plant can deliver the supreme goodsthat will be offered at the Tifari.
 
 150
 00:10:56,170 --> 00:10:58,960

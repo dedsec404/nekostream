@@ -56,11 +56,11 @@ That was so-so, I guess.
 
 15
 00:01:07,210 --> 00:01:09,340
-{\fad(750,645)}The Rising of the Shield Hero
+The Rising of the Shield Hero
 
 16
 00:02:20,610 --> 00:02:24,830
-{\fad(438,1)}A New Comrade
+A New Comrade
 
 17
 00:02:22,740 --> 00:02:24,830
@@ -452,7 +452,7 @@ Relax. I won't charge you.
 
 114
 00:07:31,050 --> 00:07:32,800
-{\fad(107,1)}Potion Enhance
+Potion Enhance
 
 115
 00:07:43,270 --> 00:07:45,310
@@ -1116,7 +1116,7 @@ I don't think this will come in handy.
 
 280
 00:17:33,070 --> 00:17:34,860
-{\fad(237,1)}Voice Gengar Shield (Bat Form)
+Voice Gengar Shield (Bat Form)
 
 281
 00:17:35,990 --> 00:17:37,240
@@ -1416,7 +1416,7 @@ Don't ask me!
 
 355
 00:23:36,310 --> 00:23:40,050
-{\fad(356,1)}The Savior of the Heavenly Fowl
+The Savior of the Heavenly Fowl
 
 356
 00:23:40,050 --> 00:23:42,050

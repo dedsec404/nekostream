@@ -204,15 +204,15 @@ Yes.
 
 52
 00:05:03,400 --> 00:05:05,610
-{\i1}Age 11, type 1.{\i0}
+Age 11, type 1.
 
 53
 00:05:05,900 --> 00:05:08,610
-{\i1}Answer each question within nine seconds.{\i0}
+Answer each question within nine seconds.
 
 54
 00:05:08,780 --> 00:05:10,950
-{\i1}We will now begin.{\i0}
+We will now begin.
 
 55
 00:05:36,310 --> 00:05:38,470

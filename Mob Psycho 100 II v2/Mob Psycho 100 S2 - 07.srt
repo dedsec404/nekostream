@@ -16,19 +16,19 @@ All right. Let's do this.
 
 5
 00:00:17,240 --> 00:00:19,990
-{\pos(317.333,289.333)\fnArial\b1\c&H001700&\3c&H0D2E13&\shad0}Tea
+Tea
 
 6
 00:00:17,240 --> 00:00:19,990
-{\frx26\fry354}Supernatural Detective!Do Spiritual Powers Actually Exist!?Special
+Supernatural Detective!Do Spiritual Powers Actually Exist!?Special
 
 7
 00:01:40,280 --> 00:01:45,120
-{\frx60\fscy200\fad(900,268)}Mob Psycho
+Mob Psycho
 
 8
 00:01:50,000 --> 00:01:52,000
-{\b1\c&H8F5F75&\bord0\pos(36,250)}______________________________________________________________
+______________________________________________________________
 
 9
 00:01:50,000 --> 00:01:52,000
@@ -48,7 +48,7 @@ What the heck is he doing?
 
 13
 00:02:01,740 --> 00:02:04,500
-{\an8}And now... Will we be able to save the poor,
+And now... Will we be able to save the poor,
 
 14
 00:02:03,970 --> 00:02:07,480
@@ -56,11 +56,11 @@ Host
 
 15
 00:02:03,970 --> 00:02:07,480
-{\fad(195,1)}Ebihara Morizo
+Ebihara Morizo
 
 16
 00:02:04,500 --> 00:02:07,480
-{\an8}unfortunate young man that's been possessed?
+unfortunate young man that's been possessed?
 
 17
 00:02:07,850 --> 00:02:12,200
@@ -104,7 +104,7 @@ Do Spiritual Powers Actually Exist!?
 
 27
 00:02:36,130 --> 00:02:40,590
-{\pos(542,233)\frz359.1}Special!
+Special!
 
 28
 00:02:36,390 --> 00:02:40,590
@@ -120,7 +120,7 @@ Oh, but I did defeat the Dragger.
 
 31
 00:02:45,970 --> 00:02:48,270
-{\pos(160,280)}Mogi Tatsuya
+Mogi Tatsuya
 
 32
 00:02:46,710 --> 00:02:48,270
@@ -136,7 +136,7 @@ And now, let's bring out the boy.
 
 35
 00:02:51,480 --> 00:02:57,940
-{\bord1\3c&H296187&\shad0\fs18\pos(304.667,163.333)\frz8.681}Spooky
+Spooky
 
 36
 00:02:54,010 --> 00:02:57,490
@@ -148,11 +148,11 @@ we have him securely bound.
 
 38
 00:03:05,370 --> 00:03:06,330
-{\pos(450,315)}Go to Reigen-sensei!
+Go to Reigen-sensei!
 
 39
 00:03:06,330 --> 00:03:07,370
-{\move(450, 315, 435, 315)}Go to Reigen-sensei!
+Go to Reigen-sensei!
 
 40
 00:03:07,370 --> 00:03:09,550
@@ -268,7 +268,7 @@ We're coming back from commercial!
 
 68
 00:04:30,790 --> 00:04:33,750
-{\frz24.77\frx18\fry318\pos(289.334,147.334)}Supernatural DetectiveSpecial!!
+Supernatural DetectiveSpecial!!
 
 69
 00:04:32,160 --> 00:04:37,040
@@ -288,7 +288,7 @@ Reigen Arataka-sensei! Are you ready?
 
 73
 00:04:43,720 --> 00:04:46,300
-{\frx16\fry308\frz22.51}Karaoke
+Karaoke
 
 74
 00:04:46,600 --> 00:04:51,090
@@ -384,7 +384,7 @@ Talk about resilient.
 
 97
 00:06:02,290 --> 00:06:04,120
-{\an8}Evil Spirit Detox Acupressure!
+Evil Spirit Detox Acupressure!
 
 98
 00:06:04,120 --> 00:06:05,340
@@ -400,23 +400,23 @@ I've already used up all my special moves
 
 101
 00:06:07,550 --> 00:06:11,760
-{\blur5\move(695,70,-90,70)\clip(m 0 360 l 190 358 198 350 205 342 210 337 222 325 234 312 244 302 247 299 228 284 222 282 218 287 211 296 206 300 196 304 188 306 180 304 170 297 166 290 158 276 152 271 146 268 140 268 138 257 136 250 125 248 129 243 129 238 119 234 100 231 92 232 104 187 104 176 102 169 92 168 86 162 78 152 77 162 77 167 66 155 62 146 55 152 41 163 36 164 41 157 45 138 44 126 44 114 40 108 36 105 16 112 26 105 34 94 42 77 42 68 24 76 19 75 28 66 39 60 57 41 77 19 96 1 295 2 300 8 304 18 308 26 310 34 314 42 318 52 324 59 324 62 320 62 322 67 324 80 319 82 320 88 322 110 320 115 324 127 326 140 330 154 332 160 334 168 336 170 342 172 339 176 345 182 354 190 364 195 368 190 380 198 390 192 402 202 416 213 426 220 440 226 454 231 473 237 483 243 490 247 502 258 514 264 524 270 534 278 548 289 550 299 549 310 546 318 547 326 552 335 552 340 551 346 558 359 638 358 640 0 0 0)}Sorcery Crush
+Sorcery Crush
 
 102
 00:06:07,550 --> 00:06:11,760
-{\an1\move(75,230,-885,230)\clip(m 0 360 l 190 358 198 350 205 342 210 337 222 325 234 312 244 302 247 299 228 284 222 282 218 287 211 296 206 300 196 304 188 306 180 304 170 297 166 290 158 276 152 271 146 268 140 268 138 257 136 250 125 248 129 243 129 238 119 234 100 231 92 232 104 187 104 176 102 169 92 168 86 162 78 152 77 162 77 167 66 155 62 146 55 152 41 163 36 164 41 157 45 138 44 126 44 114 40 108 36 105 16 112 26 105 34 94 42 77 42 68 24 76 19 75 28 66 39 60 57 41 77 19 96 1 295 2 300 8 304 18 308 26 310 34 314 42 318 52 324 59 324 62 320 62 322 67 324 80 319 82 320 88 322 110 320 115 324 127 326 140 330 154 332 160 334 168 336 170 342 172 339 176 345 182 354 190 364 195 368 190 380 198 390 192 402 202 416 213 426 220 440 226 454 231 473 237 483 243 490 247 502 258 514 264 524 270 534 278 548 289 550 299 549 310 546 318 547 326 552 335 552 340 551 346 558 359 638 358 640 0 0 0)}Aroma Runway Express
+Aroma Runway Express
 
 103
 00:06:07,550 --> 00:06:11,760
-{\move(364,110,-1030,110)\clip(m 0 360 l 190 358 198 350 205 342 210 337 222 325 234 312 244 302 247 299 228 284 222 282 218 287 211 296 206 300 196 304 188 306 180 304 170 297 166 290 158 276 152 271 146 268 140 268 138 257 136 250 125 248 129 243 129 238 119 234 100 231 92 232 104 187 104 176 102 169 92 168 86 162 78 152 77 162 77 167 66 155 62 146 55 152 41 163 36 164 41 157 45 138 44 126 44 114 40 108 36 105 16 112 26 105 34 94 42 77 42 68 24 76 19 75 28 66 39 60 57 41 77 19 96 1 295 2 300 8 304 18 308 26 310 34 314 42 318 52 324 59 324 62 320 62 322 67 324 80 319 82 320 88 322 110 320 115 324 127 326 140 330 154 332 160 334 168 336 170 342 172 339 176 345 182 354 190 364 195 368 190 380 198 390 192 402 202 416 213 426 220 440 226 454 231 473 237 483 243 490 247 502 258 514 264 524 270 534 278 548 289 550 299 549 310 546 318 547 326 552 335 552 340 551 346 558 359 638 358 640 0 0 0)}Salt Splash
+Salt Splash
 
 104
 00:06:07,550 --> 00:06:11,760
-{\fs20\move(410,194,-400,194)\clip(m 0 360 l 190 358 198 350 205 342 210 337 222 325 234 312 244 302 247 299 228 284 222 282 218 287 211 296 206 300 196 304 188 306 180 304 170 297 166 290 158 276 152 271 146 268 140 268 138 257 136 250 125 248 129 243 129 238 119 234 100 231 92 232 104 187 104 176 102 169 92 168 86 162 78 152 77 162 77 167 66 155 62 146 55 152 41 163 36 164 41 157 45 138 44 126 44 114 40 108 36 105 16 112 26 105 34 94 42 77 42 68 24 76 19 75 28 66 39 60 57 41 77 19 96 1 295 2 300 8 304 18 308 26 310 34 314 42 318 52 324 59 324 62 320 62 322 67 324 80 319 82 320 88 322 110 320 115 324 127 326 140 330 154 332 160 334 168 336 170 342 172 339 176 345 182 354 190 364 195 368 190 380 198 390 192 402 202 416 213 426 220 440 226 454 231 473 237 483 243 490 247 502 258 514 264 524 270 534 278 548 289 550 299 549 310 546 318 547 326 552 335 552 340 551 346 558 359 638 358 640 0 0 0)}Graphic Exorcism
+Graphic Exorcism
 
 105
 00:06:07,880 --> 00:06:11,760
-{\move(801,100,152,100)\clip(m 0 360 l 190 358 198 350 205 342 210 337 222 325 234 312 244 302 247 299 228 284 222 282 218 287 211 296 206 300 196 304 188 306 180 304 170 297 166 290 158 276 152 271 146 268 140 268 138 257 136 250 125 248 129 243 129 238 119 234 100 231 92 232 104 187 104 176 102 169 92 168 86 162 78 152 77 162 77 167 66 155 62 146 55 152 41 163 36 164 41 157 45 138 44 126 44 114 40 108 36 105 16 112 26 105 34 94 42 77 42 68 24 76 19 75 28 66 39 60 57 41 77 19 96 1 295 2 300 8 304 18 308 26 310 34 314 42 318 52 324 59 324 62 320 62 322 67 324 80 319 82 320 88 322 110 320 115 324 127 326 140 330 154 332 160 334 168 336 170 342 172 339 176 345 182 354 190 364 195 368 190 380 198 390 192 402 202 416 213 426 220 440 226 454 231 473 237 483 243 490 247 502 258 514 264 524 270 534 278 548 289 550 299 549 310 546 318 547 326 552 335 552 340 551 346 558 359 638 358 640 0 0 0)}Hypnosis Punch
+Hypnosis Punch
 
 106
 00:06:09,600 --> 00:06:11,760
@@ -424,15 +424,15 @@ and now I'm trying to keep things going with ad-libs!
 
 107
 00:06:09,760 --> 00:06:11,760
-{\fs20\move(760,210,435,210)\clip(m 0 360 l 190 358 198 350 205 342 210 337 222 325 234 312 244 302 247 299 228 284 222 282 218 287 211 296 206 300 196 304 188 306 180 304 170 297 166 290 158 276 152 271 146 268 140 268 138 257 136 250 125 248 129 243 129 238 119 234 100 231 92 232 104 187 104 176 102 169 92 168 86 162 78 152 77 162 77 167 66 155 62 146 55 152 41 163 36 164 41 157 45 138 44 126 44 114 40 108 36 105 16 112 26 105 34 94 42 77 42 68 24 76 19 75 28 66 39 60 57 41 77 19 96 1 295 2 300 8 304 18 308 26 310 34 314 42 318 52 324 59 324 62 320 62 322 67 324 80 319 82 320 88 322 110 320 115 324 127 326 140 330 154 332 160 334 168 336 170 342 172 339 176 345 182 354 190 364 195 368 190 380 198 390 192 402 202 416 213 426 220 440 226 454 231 473 237 483 243 490 247 502 258 514 264 524 270 534 278 548 289 550 299 549 310 546 318 547 326 552 335 552 340 551 346 558 359 638 358 640 0 0 0)}Banishing Salt Punch
+Banishing Salt Punch
 
 108
 00:06:10,090 --> 00:06:11,760
-{\move(931,110,229,110)\clip(m 0 360 l 190 358 198 350 205 342 210 337 222 325 234 312 244 302 247 299 228 284 222 282 218 287 211 296 206 300 196 304 188 306 180 304 170 297 166 290 158 276 152 271 146 268 140 268 138 257 136 250 125 248 129 243 129 238 119 234 100 231 92 232 104 187 104 176 102 169 92 168 86 162 78 152 77 162 77 167 66 155 62 146 55 152 41 163 36 164 41 157 45 138 44 126 44 114 40 108 36 105 16 112 26 105 34 94 42 77 42 68 24 76 19 75 28 66 39 60 57 41 77 19 96 1 295 2 300 8 304 18 308 26 310 34 314 42 318 52 324 59 324 62 320 62 322 67 324 80 319 82 320 88 322 110 320 115 324 127 326 140 330 154 332 160 334 168 336 170 342 172 339 176 345 182 354 190 364 195 368 190 380 198 390 192 402 202 416 213 426 220 440 226 454 231 473 237 483 243 490 247 502 258 514 264 524 270 534 278 548 289 550 299 549 310 546 318 547 326 552 335 552 340 551 346 558 359 638 358 640 0 0 0)}Cheeseburger Tornado
+Cheeseburger Tornado
 
 109
 00:06:11,010 --> 00:06:11,760
-{\fs18\move(743,105,575,105)\clip(m 0 360 l 190 358 198 350 205 342 210 337 222 325 234 312 244 302 247 299 228 284 222 282 218 287 211 296 206 300 196 304 188 306 180 304 170 297 166 290 158 276 152 271 146 268 140 268 138 257 136 250 125 248 129 243 129 238 119 234 100 231 92 232 104 187 104 176 102 169 92 168 86 162 78 152 77 162 77 167 66 155 62 146 55 152 41 163 36 164 41 157 45 138 44 126 44 114 40 108 36 105 16 112 26 105 34 94 42 77 42 68 24 76 19 75 28 66 39 60 57 41 77 19 96 1 295 2 300 8 304 18 308 26 310 34 314 42 318 52 324 59 324 62 320 62 322 67 324 80 319 82 320 88 322 110 320 115 324 127 326 140 330 154 332 160 334 168 336 170 342 172 339 176 345 182 354 190 364 195 368 190 380 198 390 192 402 202 416 213 426 220 440 226 454 231 473 237 483 243 490 247 502 258 514 264 524 270 534 278 548 289 550 299 549 310 546 318 547 326 552 335 552 340 551 346 558 359 638 358 640 0 0 0)}Anti-Possession Jumping Knee Strike
+Anti-Possession Jumping Knee Strike
 
 110
 00:06:11,900 --> 00:06:14,520
@@ -496,7 +496,7 @@ Huh?
 
 125
 00:06:50,970 --> 00:06:51,990
-{\fad(149,1)}Saywha?
+Saywha?
 
 126
 00:06:53,800 --> 00:06:56,890
@@ -668,11 +668,11 @@ Du-du-du-dunnn!
 
 168
 00:09:08,860 --> 00:09:11,440
-{\fad(730,1)}n
+n
 
 169
 00:09:12,420 --> 00:09:14,440
-Did you watch yesterday's ep of {\i1}Supernatural Detective{\i0}?
+Did you watch yesterday's ep of Supernatural Detective?
 
 170
 00:09:14,440 --> 00:09:16,410
@@ -680,35 +680,35 @@ I did! I laughed so hard!
 
 171
 00:09:14,450 --> 00:09:16,410
-{\move(40,30,-192,30)}Views
+Views
 
 172
 00:09:14,450 --> 00:09:16,410
-{\move(240,-10,6,-10)}Comments
+Comments
 
 173
 00:09:14,450 --> 00:09:16,410
-{\move(174,148,-60,148)}That one thing
+That one thing
 
 174
 00:09:14,450 --> 00:09:16,410
-{\move(506,68,272,68)}Reigen Arataka
+Reigen Arataka
 
 175
 00:09:14,450 --> 00:09:16,410
-{\fs20\move(310,200,76,200)}A psychic who's an expert on fraud
+A psychic who's an expert on fraud
 
 176
 00:09:14,450 --> 00:09:16,410
-{\move(722,112,488,112)}Salt
+Salt
 
 177
 00:09:14,450 --> 00:09:16,410
-{\move(240,308,6,308)}On-air incident
+On-air incident
 
 178
 00:09:14,450 --> 00:09:16,410
-{\move(574,230,340,230)}Psychic fraud
+Psychic fraud
 
 179
 00:09:16,410 --> 00:09:18,010
@@ -716,23 +716,23 @@ That was basically a public execution.
 
 180
 00:09:16,410 --> 00:09:18,370
-{\move(380,5,462,-345)\frz347}[Fraud] Reigen Arataka is crazy
+[Fraud] Reigen Arataka is crazy
 
 181
 00:09:16,410 --> 00:09:18,370
-{\move(290,103,372,-247)\c&H0E8129&\frz347}Anonymous Table Salt
+Anonymous Table Salt
 
 182
 00:09:16,410 --> 00:09:18,370
-{\c&H0E8129&\move(264,224,346,-130)\frz347}Anonymous Table Salt{\c&H000000&}\h\h\h\h\h\h\h\h\h\h\h\h\h\hIf that were me, I'd end myself
+Anonymous Table Salt\h\h\h\h\h\h\h\h\h\h\h\h\h\hIf that were me, I'd end myself
 
 183
 00:09:16,410 --> 00:09:18,370
-{\c&H0E8129&\frz347\move(230,368,312,15)}Anonymous Table Salt{\c&H000000&}\h\h\h\h\h\hSalt Splash
+Anonymous Table Salt\h\h\h\h\h\hSalt Splash
 
 184
 00:09:16,410 --> 00:09:18,370
-{\c&H0E8129&\frz347\move(192,530,274,180)}Anonymous Table Salt
+Anonymous Table Salt
 
 185
 00:09:18,010 --> 00:09:20,110
@@ -740,51 +740,51 @@ That Reigen guy is hilarious!
 
 186
 00:09:18,370 --> 00:09:19,410
-{\move(170,116,-12,116)\an8\fscy90\clip(26,19,611,343)}Herf lol
+Herf lol
 
 187
 00:09:18,370 --> 00:09:19,660
-{\an2\fscy90\move(225,200,-32,200)\clip(26,19,611,343)}What is this?
+What is this?
 
 188
 00:09:18,370 --> 00:09:19,870
-{\move(243,288,-57,288)\fscy90\an8\clip(26,19,611,343)}Crazy Salt Splash
+Crazy Salt Splash
 
 189
 00:09:18,370 --> 00:09:20,160
-{\an2\fscy90\move(324,220,-20,220)\clip(26,19,611,343)}Hilarious
+Hilarious
 
 190
 00:09:18,370 --> 00:09:20,370
-{\move(359,93,-15,93)\an8\fscy90\clip(26,19,611,343)}Con Man
+Con Man
 
 191
 00:09:18,370 --> 00:09:20,830
-{\fscy90\move(619,190,-91,190)\an8\clip(26,19,611,343)}lolololololololololololololol
+lolololololololololololololol
 
 192
 00:09:18,370 --> 00:09:20,830
-{\an8\fscy90\move(640,142,162,142)\clip(26,19,611,343)}Exorcism dance
+Exorcism dance
 
 193
 00:09:18,370 --> 00:09:20,830
-{\an8\fscy90\move(569,230,80,230)\clip(26,19,611,343)}He's finished lololol
+He's finished lololol
 
 194
 00:09:18,370 --> 00:09:20,830
-{\move(505,270,60,270)\an8\fscy90\clip(26,19,611,343)}Desperate lololol
+Desperate lololol
 
 195
 00:09:18,370 --> 00:09:20,830
-{\move(275,50,-210,50)\fscy90\clip(26,19,611,343)}S-lol-A-lol-L-lol-T S-lol-P-lol-L-lol-A-lol-S-lol-H
+S-lol-A-lol-L-lol-T S-lol-P-lol-L-lol-A-lol-S-lol-H
 
 196
 00:09:18,370 --> 00:09:20,830
-{\fscy90\an8\move(380,143,-71,143)\clip(26,19,611,343)}Who is this?
+Who is this?
 
 197
 00:09:19,280 --> 00:09:20,830
-{\an8\move(695,90,299,90)\fscy90\clip(26,19,611,343)}Oh shit lololololol
+Oh shit lololololol
 
 198
 00:09:21,060 --> 00:09:23,910
@@ -868,15 +868,15 @@ We're getting a lot more actual jobs now.
 
 218
 00:10:15,800 --> 00:10:17,430
-Spirits {\c&H9875D8&}and {\c&H53D2E8&}Such {\c&H54E9DD&}Consul{\c&H6CFED0&}tation {\c&HC3F456&}Office
+Spirits and Such Consultation Office
 
 219
 00:10:15,800 --> 00:10:17,430
-The star psychic of the 21st centurywho defeated {\c&H2A0CA8&}{\fs22}Ohiki-san
+The star psychic of the 21st centurywho defeated Ohiki-san
 
 220
 00:10:15,800 --> 00:10:17,430
-Welcome to{\fs20\b1\fnArial\c&H42FC92&\bord2\3c&H54B746&\4c&HE3FF40&\shad2}Rei{\c&HA6FF34&\3c&H87C45A&\4c&H2AF7DF&}gen {\c&HC6013B&\4c&HD500C6&}Ara{\c&H2000B4&\3c&H78748D&\4c&H30FF42&}taka's{\shad0\c&HD2D778&\b0\3c&HF0E1E4&\bord3\fs16\fnTrebuchet MS}homepage!
+Welcome toReigen Arataka'shomepage!
 
 221
 00:10:15,800 --> 00:10:20,130
@@ -908,7 +908,7 @@ I've actually been a victim of spiritual fraud myself.
 
 228
 00:10:35,440 --> 00:10:38,280
-The {\c&H8C95C2&}"{\c&H9458C0&}Self-Proclaimed{\c&H8786B7&}" {\c&H4F645C&}Psychic. {\c&H80737D&}Isn't He a Fraud?
+The "Self-Proclaimed" Psychic. Isn't He a Fraud?
 
 229
 00:10:35,720 --> 00:10:38,280
@@ -936,15 +936,15 @@ For now, I need to contain this and ensureI don't become an even bigger meme.
 
 235
 00:10:55,920 --> 00:10:57,920
-Anonymous Table Salt{\c&H000000&}\h\h\h\hDat name tho lololololololololololol
+Anonymous Table Salt\h\h\h\hDat name tho lololololololololololol
 
 236
 00:10:55,920 --> 00:10:57,920
-{\pos(90,166)\bord4\shad4\3c&HE7F4EB&\4c&HEEF2E2&}Anonymous Table Salt\h\h\h\h{\c&H000000&}Reigen's the real deal.\h\h\h\hHe's actually performed an exorcism on me, and my\h\h\h\hshoulders and back feel so much lighter now.\h\h\h\hI felt better immediately.
+Anonymous Table Salt\h\h\h\hReigen's the real deal.\h\h\h\hHe's actually performed an exorcism on me, and my\h\h\h\hshoulders and back feel so much lighter now.\h\h\h\hI felt better immediately.
 
 237
 00:10:58,010 --> 00:10:58,880
-{\pos(40,265)\fs26}Anonymous Table Salt\h\h\h\h{\c&H000000&}I bet that's Reigen, isn't it?
+Anonymous Table Salt\h\h\h\hI bet that's Reigen, isn't it?
 
 238
 00:10:58,880 --> 00:11:00,870
@@ -956,7 +956,7 @@ Return to archive           All posts
 
 240
 00:11:01,430 --> 00:11:03,470
-{\pos(98,127.334)\c&H000000&}Name:
+Name:
 
 241
 00:11:01,430 --> 00:11:03,470
@@ -964,7 +964,7 @@ Wha? Of course I'm not. I'm trying to be objective here...
 
 242
 00:11:01,430 --> 00:11:04,390
-{\pos(247.334,177.334)\c&H000000&}Sent
+Sent
 
 243
 00:11:03,470 --> 00:11:04,390
@@ -972,15 +972,15 @@ Return to archive           All posts
 
 244
 00:11:04,470 --> 00:11:05,600
-Criminal{\c&H147E21&}Anonymous Table Salt
+CriminalAnonymous Table Salt
 
 245
 00:11:04,470 --> 00:11:05,600
-{\pos(86,254)}Okay, Rüppell's fox
+Okay, Rüppell's fox
 
 246
 00:11:05,720 --> 00:11:06,850
-{\pos(224,162.667)\frz5}Get lost, you fraud{\c&H0E7E21&}Anonymous Table Salt
+Get lost, you fraudAnonymous Table Salt
 
 247
 00:11:05,720 --> 00:11:06,850
@@ -988,7 +988,7 @@ Do you even realize you're a criminal?
 
 248
 00:11:06,970 --> 00:11:08,100
-{\an5\pos(320,180)\frz20}Reigen's watching~
+Reigen's watching~
 
 249
 00:11:08,230 --> 00:11:09,480
@@ -1028,7 +1028,7 @@ How dare they spread these lies about me?
 
 258
 00:11:35,630 --> 00:11:38,130
-Self-Proclaimed New Star of the Psychic World{\fs16\b1\c&H606060&\3c&H000000&}Reigen: The Scam Artist Psychic{\fs18\c&H25282C&}His Unbelievably Bold Tricks!!!
+Self-Proclaimed New Star of the Psychic WorldReigen: The Scam Artist PsychicHis Unbelievably Bold Tricks!!!
 
 259
 00:11:41,010 --> 00:11:42,890
@@ -1132,7 +1132,7 @@ Everyone has their eye on you!
 
 284
 00:12:38,210 --> 00:12:39,150
-{\an8}Yeah!
+Yeah!
 
 285
 00:12:38,590 --> 00:12:40,050
@@ -1140,7 +1140,7 @@ You can't run from this!
 
 286
 00:12:39,150 --> 00:12:40,350
-{\an8}A press conference!
+A press conference!
 
 287
 00:12:39,470 --> 00:12:41,340
@@ -1208,15 +1208,15 @@ You seem to be in a lot of trouble. I prepared an apology for you to say at the 
 
 303
 00:13:12,980 --> 00:13:14,390
-{\fad(1,97)}Apology
+Apology
 
 304
 00:13:14,310 --> 00:13:15,440
-{\pos(25,30)\fad(150,1)}Thank you all for gathering here today.I'm sorry that you all had to take the timeto show up today over my own personal actions.First of all, I'd like to apologize to all the people I've troubled,as well as to all of their friends and family members I may have burdened.I'd like to take this opportunity to formally apologize to everyone.I'm so terribly sorry for everything I've done.(Now, bow. Hold for 2 minutes.)
+Thank you all for gathering here today.I'm sorry that you all had to take the timeto show up today over my own personal actions.First of all, I'd like to apologize to all the people I've troubled,as well as to all of their friends and family members I may have burdened.I'd like to take this opportunity to formally apologize to everyone.I'm so terribly sorry for everything I've done.(Now, bow. Hold for 2 minutes.)
 
 305
 00:13:15,440 --> 00:13:17,810
-{\pos(55.334,144)}(1 day ago)
+(1 day ago)
 
 306
 00:13:18,320 --> 00:13:21,580
@@ -1364,7 +1364,7 @@ No comment.
 
 342
 00:15:05,630 --> 00:15:07,420
-{\frx350\fry54\pos(220.667,204.667)\frz65\fad(358,1)}Recording
+Recording
 
 343
 00:15:05,850 --> 00:15:07,420
@@ -1424,7 +1424,7 @@ TekeTekeFanClub@gakkokaidan  –7 minutes ago
 
 357
 00:15:35,490 --> 00:15:36,280
-{\an7\pos(115.333,227.999)\c&H72746D&}Mic test                                 {\c&HB8DD67&}#PressConference
+Mic test                                 #PressConference
 
 358
 00:15:35,490 --> 00:15:38,790
@@ -1432,7 +1432,7 @@ Press Conference
 
 359
 00:15:35,490 --> 00:15:38,790
-{\c&H575C50&\an7\pos(8,107.334)}Popular               {\c&HB8DD67&}All tweets                        {\c&H575C50&}Users        Pictures      Videos           News
+Popular               All tweets                        Users        Pictures      Videos           News
 
 360
 00:15:35,920 --> 00:15:38,790
@@ -1440,15 +1440,15 @@ When did you start this psychic business of yours?
 
 361
 00:15:36,490 --> 00:15:37,790
-{\fad(696,1)}Level of sorry: 0What's the criminal getting all pissy for? Lololol{\c&HB8DD68&}#PressConference
+Level of sorry: 0What's the criminal getting all pissy for? Lololol#PressConference
 
 362
 00:15:38,040 --> 00:15:38,790
-{\fad(647,1)\pos(118,233)\frz3.5\an7\c&H6E716C&}Mic test lolololol                                         {\c&HB8DD67&}#PressConference
+Mic test lolololol                                         #PressConference
 
 363
 00:15:38,080 --> 00:15:38,790
-{\fad(647,1)}IDrinkPufferfish@usotsuki_usouso  –20 seconds ago
+IDrinkPufferfish@usotsuki_usouso  –20 seconds ago
 
 364
 00:15:39,100 --> 00:15:40,720
@@ -1576,19 +1576,19 @@ Thinking back,
 
 395
 00:17:01,410 --> 00:17:02,700
-{\move(417,-10,417,24)}Clincity
+Clincity
 
 396
 00:17:01,410 --> 00:17:02,700
-{\frz350\move(335,-3,335,31)}Super delicious!The next generation
+Super delicious!The next generation
 
 397
 00:17:01,410 --> 00:17:02,700
-{\move(328,76,328,110)}water dispenser
+water dispenser
 
 398
 00:17:01,410 --> 00:17:02,700
-{\move(400,148,400,182)}The ultimatenatural springwater to keepyou healthy
+The ultimatenatural springwater to keepyou healthy
 
 399
 00:17:02,180 --> 00:17:04,330
@@ -1612,7 +1612,7 @@ Power Stone
 
 404
 00:17:13,670 --> 00:17:15,130
-You can become a {\c&H3404BC&}millionaire, too!!
+You can become a millionaire, too!!
 
 405
 00:17:18,110 --> 00:17:21,740
@@ -1620,11 +1620,11 @@ That's right... I actually meant to quit a long time ago.
 
 406
 00:17:22,100 --> 00:17:25,350
-{\fad(775,1)\bord0\an8\shad3\4c&H337432&\fs30\frz33.29\pos(572.667,18)\frx12\fry302}3YearsAgo
+3YearsAgo
 
 407
 00:17:22,100 --> 00:17:25,350
-{\fad(775,1)\frz266)\fs14\pos(413.333,162.666)}Spirits and Such Consultation Office
+Spirits and Such Consultation Office
 
 408
 00:17:23,380 --> 00:17:25,350
@@ -1872,11 +1872,11 @@ Hey, Mob... Are you watching?
 
 469
 00:20:39,460 --> 00:20:40,710
-{\3c&H565EC7&\4c&H465CB1&}Karaoke
+Karaoke
 
 470
 00:20:42,220 --> 00:20:44,010
-# Reigen Arataka{\c&H757E6E&}58,699 tweets
+# Reigen Arataka58,699 tweets
 
 471
 00:20:50,730 --> 00:20:53,410
@@ -1916,7 +1916,7 @@ We are experiencing an extremely powerful earthquake!
 
 480
 00:21:11,000 --> 00:21:11,490
-Psychics exist.Says the psychic {\c&HB8DE57&}#Press
+Psychics exist.Says the psychic #Press
 
 481
 00:21:11,000 --> 00:21:11,490
@@ -1924,31 +1924,31 @@ FlyingNightingale @uguisu5987  –57 seconds ago
 
 482
 00:21:11,000 --> 00:21:11,490
-So cool                  {\c&HB6CE56&}#PressConference
+So cool                  #PressConference
 
 483
 00:21:11,540 --> 00:21:12,250
-{\fad(147,1)\pos(112,14)\frz352.3}Tsuchi @tsutiku0 –35 seconds ago
+Tsuchi @tsutiku0 –35 seconds ago
 
 484
 00:21:11,540 --> 00:21:12,250
-{\fad(147,1)}Anacatesthesia FTW {\c&HCAE470&}#PressConference
+Anacatesthesia FTW #PressConference
 
 485
 00:21:11,540 --> 00:21:12,250
-{\fad(147,1)\pos(50.667,149.667)\frz352.1}ThrowAway303 @nagee566 –41 seconds ago
+ThrowAway303 @nagee566 –41 seconds ago
 
 486
 00:21:11,540 --> 00:21:12,250
-{\fad(147,1)\pos(21.334,228)}I feel the power    {\c&HAACD44&}#PressConference
+I feel the power    #PressConference
 
 487
 00:21:12,330 --> 00:21:12,960
-{\pos(62.667,119)\frz354.1}Che @0015putfesee –23 seconds ago
+Che @0015putfesee –23 seconds ago
 
 488
 00:21:12,330 --> 00:21:12,960
-CG technology is getting incredible lately  {\c&HB2D644&}#Press
+CG technology is getting incredible lately  #Press
 
 489
 00:21:13,140 --> 00:21:15,060
@@ -2052,7 +2052,7 @@ One moment please
 
 514
 00:22:14,890 --> 00:22:18,600
-{\pos(287.333,178)}Cola
+Cola
 
 515
 00:22:15,200 --> 00:22:17,760
@@ -2060,7 +2060,7 @@ What the hell was that? Such bullshit.
 
 516
 00:22:18,600 --> 00:22:21,730
-{\c&H5A5F5E&\4c&H3B5B6C&}Cornered~True Identity~
+Cornered~True Identity~
 
 517
 00:22:35,100 --> 00:22:37,920
@@ -2132,7 +2132,7 @@ Welp, looks like he's going to need my help.
 
 534
 00:24:03,310 --> 00:24:05,540
-Next time on {\i1}Mob Psycho 100 II{\i0} Episode 8:
+Next time on Mob Psycho 100 II Episode 8:
 
 535
 00:24:05,540 --> 00:24:06,920
@@ -2144,5 +2144,5 @@ First-press limited edition? That is the absolute best decision.
 
 537
 00:24:06,920 --> 00:24:10,210
-{\c&HC8FFB7&\4c&H9F4308&}Even Then~Continue Forward~
+Even Then~Continue Forward~
 

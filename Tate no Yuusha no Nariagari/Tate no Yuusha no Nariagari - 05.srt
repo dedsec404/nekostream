@@ -164,11 +164,11 @@ We're leaving, Raphtalia.
 
 42
 00:03:26,970 --> 00:03:29,270
-{\fad(750,645)}The Rising of the Shield Hero
+The Rising of the Shield Hero
 
 43
 00:04:41,210 --> 00:04:45,930
-{\fad(438,596)}Filo
+Filo
 
 44
 00:04:50,100 --> 00:04:50,910
@@ -208,7 +208,7 @@ What is it?
 
 53
 00:05:18,830 --> 00:05:21,380
-{\fad(1,268)}Slave User's Shield
+Slave User's Shield
 
 54
 00:05:19,460 --> 00:05:21,460
@@ -228,7 +228,7 @@ Even if she's not a virgin, she's guaranteed to fetch you twenty gold pieces.
 
 58
 00:05:31,010 --> 00:05:32,600
-I {\i1}am{\i0} a virgin!
+I am a virgin!
 
 59
 00:05:32,600 --> 00:05:34,100
@@ -1216,7 +1216,7 @@ I'm hungry!
 
 305
 00:23:36,270 --> 00:23:40,010
-{\fad(356,1)}A New Comrade
+A New Comrade
 
 306
 00:23:40,010 --> 00:23:42,010

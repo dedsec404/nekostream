@@ -1,6 +1,6 @@
 1
 00:00:00,430 --> 00:00:03,690
-{\fad(1029,1)\move(345,100,345,230)\frx24\fry10\frz354.1}4 Years Ago
+4 Years Ago
 
 2
 00:00:03,810 --> 00:00:06,690
@@ -8,19 +8,19 @@ Ah, thanks for always...
 
 3
 00:00:08,690 --> 00:00:10,650
-{\move(417,-10,417,46)}Clincity
+Clincity
 
 4
 00:00:08,690 --> 00:00:10,650
-{\frz350\move(335,-3,335,53)}Super delicious!The next generation
+Super delicious!The next generation
 
 5
 00:00:08,690 --> 00:00:10,650
-{\move(328,76,328,132)}water dispenser
+water dispenser
 
 6
 00:00:08,690 --> 00:00:10,650
-{\move(400,148,400,204)}The ultimatenatural springwater to keepyou healthy
+The ultimatenatural springwater to keepyou healthy
 
 7
 00:00:10,650 --> 00:00:12,240
@@ -32,7 +32,7 @@ The secret to successful
 
 9
 00:00:10,650 --> 00:00:12,240
-walk-in sales is a smile{\c&H3F37B8&}!!
+walk-in sales is a smile!!
 
 10
 00:00:11,970 --> 00:00:15,200
@@ -48,7 +48,7 @@ Oh, no. No, no, no, no!
 
 13
 00:00:20,650 --> 00:00:23,120
-It's all thanks to {\i1}you{\i0}!
+It's all thanks to you!
 
 14
 00:00:23,550 --> 00:00:24,410
@@ -56,11 +56,11 @@ Yes.
 
 15
 00:00:26,080 --> 00:00:26,790
-{\fad(1,514)}Clincity {\fs12\c&H000000&\3c&HDDDBD2&}Inc.
+Clincity Inc.
 
 16
 00:00:30,590 --> 00:00:32,800
-{\fad(315,1)}Clincity {\fs12\c&H000000&\3c&HDDDBD2&}Inc.
+Clincity Inc.
 
 17
 00:00:37,790 --> 00:00:39,280
@@ -72,23 +72,23 @@ Thank you so much!
 
 19
 00:00:40,970 --> 00:00:42,140
-{\fad(1,307)}Saturdays onlyJust 2 hours in the morning!!
+Saturdays onlyJust 2 hours in the morning!!
 
 20
 00:00:40,970 --> 00:00:42,140
-{\fad(1,307)}Working with a fun staff dailyto make every day exciting!Make quick and easy money
+Working with a fun staff dailyto make every day exciting!Make quick and easy money
 
 21
 00:00:41,810 --> 00:00:44,520
-{\frz1\pos(163,10)\fad(899,435)}Only weekdays and only until 5 PMHourly pay of 1,800 yenPick your location! Seeking staff for all 4 locations!!We welcome newcomers with no experience!!
+Only weekdays and only until 5 PMHourly pay of 1,800 yenPick your location! Seeking staff for all 4 locations!!We welcome newcomers with no experience!!
 
 22
 00:00:42,220 --> 00:00:44,520
-{\frz1\fad(656,435)\pos(331,151)}Working at a sushi shop!Just packing sushi into containers or working the register!!Applicants with no experience welcome!!Once or twice a week, 4 hour shifts are perfectly OK!
+Working at a sushi shop!Just packing sushi into containers or working the register!!Applicants with no experience welcome!!Once or twice a week, 4 hour shifts are perfectly OK!
 
 23
 00:00:42,390 --> 00:00:44,520
-{\fad(569,435)\pos(229,259)}A location in front of the stationis opening this month!![Seeking new staff]Won't you try being a security guard?
+A location in front of the stationis opening this month!![Seeking new staff]Won't you try being a security guard?
 
 24
 00:00:43,600 --> 00:00:45,740
@@ -96,11 +96,11 @@ I wonder what I should do now.
 
 25
 00:00:44,640 --> 00:00:46,020
-{\fs14\frz0\pos(244,106)\fad(613,1)}I got 20,000 just forgetting hired!My hourly wage went upa lot, too.
+I got 20,000 just forgetting hired!My hourly wage went upa lot, too.
 
 26
 00:00:44,640 --> 00:00:46,020
-{\fad(613,1)}A hole-in-the-wall-place for adultsA place with a homey atmospherewith plenty of other fellow part-timers!Make plenty of friends!
+A hole-in-the-wall-place for adultsA place with a homey atmospherewith plenty of other fellow part-timers!Make plenty of friends!
 
 27
 00:00:47,080 --> 00:00:49,980
@@ -112,19 +112,19 @@ Power Stone
 
 29
 00:00:54,070 --> 00:00:57,030
-You can become a {\c&H3404BC&}millionaire, too!!
+You can become a millionaire, too!!
 
 30
 00:00:54,070 --> 00:00:57,030
-Your life will change just by wearing it{\fs14\c&H4B2BB1&\b1}It brings you good luck!
+Your life will change just by wearing itIt brings you good luck!
 
 31
 00:02:17,320 --> 00:02:22,160
-{\frx60\fscy200\fad(900,268)}Mob Psycho
+Mob Psycho
 
 32
 00:02:27,000 --> 00:02:32,000
-{\c&HFFFFFE&\4c&H818565&\fs26}Poor, Lonely, Whitey
+Poor, Lonely, Whitey
 
 33
 00:02:32,000 --> 00:02:34,460
@@ -168,7 +168,7 @@ Your muscles are evolving!
 
 43
 00:02:53,810 --> 00:02:58,280
-{\an8}Heave-ho! Heave-ho! Heave-ho! Heave-ho!
+Heave-ho! Heave-ho! Heave-ho! Heave-ho!
 
 44
 00:02:55,900 --> 00:02:58,280
@@ -180,7 +180,7 @@ Body improvement!!
 
 46
 00:02:58,280 --> 00:03:02,030
-{\an7\frz1\bord4\pos(26.001,211.334)}1: Squats 30x52: Planks 1 minx53: Side Planks 104: Leg Up Lifts 10x35: Leg Raise 10x5
+1: Squats 30x52: Planks 1 minx53: Side Planks 104: Leg Up Lifts 10x35: Leg Raise 10x5
 
 47
 00:02:58,880 --> 00:03:02,030
@@ -196,7 +196,7 @@ He even looks bolder.
 
 50
 00:03:11,920 --> 00:03:20,130
-{\pos(210,290)}Potato{\c&H152614&}Demons
+PotatoDemons
 
 51
 00:03:12,280 --> 00:03:14,790
@@ -228,7 +228,7 @@ Y-Yeah...
 
 58
 00:03:26,100 --> 00:03:33,770
-{\an8}Heave-ho! Heave-ho! Heave-ho! Heave-ho!
+Heave-ho! Heave-ho! Heave-ho! Heave-ho!
 
 59
 00:03:26,640 --> 00:03:29,450
@@ -256,7 +256,7 @@ What a nice idea, Saruta!
 
 65
 00:03:41,240 --> 00:03:43,570
-{\frz267)\fs16\move(480,170,452,170)}Spirits and Such Consultation Office
+Spirits and Such Consultation Office
 
 66
 00:03:43,570 --> 00:03:45,070
@@ -296,7 +296,7 @@ I'm getting one job after another lately...
 
 75
 00:04:04,890 --> 00:04:07,850
-{\move(448,47,428,47)}Guspo{\c&H82E3EC&\b0\3c&H74B754&\fs15}Restaurant
+GuspoRestaurant
 
 76
 00:04:04,890 --> 00:04:10,310
@@ -376,7 +376,7 @@ More importantly, why don't we all go to karaoke?
 
 95
 00:05:08,470 --> 00:05:09,580
-{\an8}"More importantly"?!
+"More importantly"?!
 
 96
 00:05:11,380 --> 00:05:13,080
@@ -420,15 +420,15 @@ I-It's so much fun...
 
 106
 00:05:39,690 --> 00:05:41,110
-{\fad(399,1)}Incoming call
+Incoming call
 
 107
 00:05:39,690 --> 00:05:41,110
-{\fad(399,1)}Master Reigen
+Master Reigen
 
 108
 00:05:39,690 --> 00:05:41,110
-{\fad(399,1)}Menu
+Menu
 
 109
 00:05:43,140 --> 00:05:44,100
@@ -660,11 +660,11 @@ Reception
 
 166
 00:08:59,930 --> 00:09:01,970
-The New Star ofthe 21st Century{\c&H4059C8&}Reigen Arataka's{\c&H2B2E2D&\fs12}Spirits and Such Consultation Office
+The New Star ofthe 21st CenturyReigen Arataka'sSpirits and Such Consultation Office
 
 167
 00:09:00,390 --> 00:09:01,970
-{\an8}Damn it, Mob...
+Damn it, Mob...
 
 168
 00:09:02,140 --> 00:09:04,880
@@ -776,7 +776,7 @@ Thank goodness it wasn't a real spirit.
 
 195
 00:10:32,860 --> 00:10:34,820
-{\pos(320,210)\frx30}4 Years Ago
+4 Years Ago
 
 196
 00:10:33,940 --> 00:10:35,860
@@ -788,7 +788,7 @@ Spirits and Such Consultation Office
 
 198
 00:10:34,820 --> 00:10:36,780
-{\3c&HE3E4E2&\frx20\fry8\pos(492,99)\frz286}Spirits Consultation Office
+Spirits Consultation Office
 
 199
 00:10:36,190 --> 00:10:40,200
@@ -796,19 +796,19 @@ I basically built this businessfrom the ground up all by myself.
 
 200
 00:10:36,780 --> 00:10:39,240
-{\an7\fs10\b1\pos(96,26)\c&H4A5852&\3c&HFEFEFE&\shad0}Option A — Trial CourseA Mere 2,000 yen {\fs6\b0}(Tax Excluded)Outside of Offer Period: 3,980 yen.
+Option A — Trial CourseA Mere 2,000 yen (Tax Excluded)Outside of Offer Period: 3,980 yen.
 
 201
 00:10:36,780 --> 00:10:39,240
-{\an7\fs10\b1\c&H4A5852&\3c&HFEFEFE&\shad0\pos(104,78)}Option B — Serious CourseA Mere 5,000 yen {\fs6\b0}(Tax Excluded)Outside of Offer Period: 8,980 yen
+Option B — Serious CourseA Mere 5,000 yen (Tax Excluded)Outside of Offer Period: 8,980 yen
 
 202
 00:10:36,780 --> 00:10:39,240
-{\an7\fs10\b1\c&H526DE2&\3c&HFEFEFE&\shad0\pos(111.333,128.667)}Recommended{\c&H405447&}Option C — All-Out CourseA Mere 12,000 yen {\fs6\b0}(Tax Excluded)Outside of Offer Period: 19,880 yen
+RecommendedOption C — All-Out CourseA Mere 12,000 yen (Tax Excluded)Outside of Offer Period: 19,880 yen
 
 203
 00:10:36,780 --> 00:10:39,240
-{\an7\b1\fs10\c&H8A8EE3&\3c&HFEFEFE&\shad0\bord4\pos(123.334,171.333)}Refer us to a friend now and get an extra 5% reduction!! Also get an add-on exorcism for 20% off!!
+Refer us to a friend now and get an extra 5% reduction!! Also get an add-on exorcism for 20% off!!
 
 204
 00:10:40,200 --> 00:10:42,660
@@ -852,7 +852,7 @@ but I'm not sad about this at all.
 
 214
 00:11:13,520 --> 00:11:19,490
-{\frz267)\fs14\3c&H242522&\pos(406,167.333)}Spirits and Such Consultation Office
+Spirits and Such Consultation Office
 
 215
 00:11:13,770 --> 00:11:16,470
@@ -860,7 +860,7 @@ I'm sure you're probably feeling pretty lonely right about now.
 
 216
 00:11:19,490 --> 00:11:26,490
-{\fscy200\fs14\frz347.1\frx20\fry6\pos(238,132.666)\c&H403E41&}Mob Psycho
+Mob Psycho
 
 217
 00:11:29,040 --> 00:11:31,210
@@ -880,7 +880,7 @@ I'm mature enough to understand, so it's not like I'd even care.
 
 221
 00:11:55,730 --> 00:11:57,480
-{\fad(1,350)}Super popular!!
+Super popular!!
 
 222
 00:12:02,370 --> 00:12:05,490
@@ -960,11 +960,11 @@ Pork roast
 
 241
 00:12:45,160 --> 00:12:51,040
-{\fs18\c&H1B2227&\pos(240.333,353.333)}Paella{\fs10}comes with a salad
+Paellacomes with a salad
 
 242
 00:12:46,100 --> 00:12:51,040
-{\an8}I think you wanted to use Mob's powers to do something, but sucks to be you.
+I think you wanted to use Mob's powers to do something, but sucks to be you.
 
 243
 00:12:51,260 --> 00:12:54,430
@@ -1020,7 +1020,7 @@ We're here anyway, so let's go.
 
 256
 00:13:50,050 --> 00:13:58,190
-{\pos(321,37)\fs20}Karaoke
+Karaoke
 
 257
 00:13:50,250 --> 00:13:54,330
@@ -1072,7 +1072,7 @@ Search
 
 269
 00:14:21,840 --> 00:14:24,800
-{\pos(85,210)\c&H888360&}Story
+Story
 
 270
 00:14:21,840 --> 00:14:24,800
@@ -1080,23 +1080,23 @@ Archive | Settings
 
 271
 00:14:22,160 --> 00:14:25,310
-{\an8}Who could it be? Maybe it's the one I met at the mixer...
+Who could it be? Maybe it's the one I met at the mixer...
 
 272
 00:14:24,800 --> 00:14:26,300
-{\fad(731,1)}Notification\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMark all as read | Settings
+Notification\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMark all as read | Settings
 
 273
 00:14:24,800 --> 00:14:26,300
-{\fad(731,1)}Congratulations!It's your birthday today.
+Congratulations!It's your birthday today.
 
 274
 00:14:25,300 --> 00:14:26,300
-{\fad(731,1)}People you might know
+People you might know
 
 275
 00:14:25,300 --> 00:14:26,300
-{\fad(731,1)}Upload a photo or video, or post something
+Upload a photo or video, or post something
 
 276
 00:14:26,300 --> 00:14:28,760
@@ -1108,15 +1108,15 @@ I totally forgot.
 
 278
 00:14:31,140 --> 00:14:32,100
-{\pos(115,131.333)}Congratulations!It's your birthday today.
+Congratulations!It's your birthday today.
 
 279
 00:14:31,140 --> 00:14:33,600
-{\pos(104.333,86)}Notification\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMark all as read | Settings
+Notification\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMark all as read | Settings
 
 280
 00:14:32,100 --> 00:14:33,600
-{\pos(115,131.333)\3c&HE5E8E5&}Congratulations!It's your birthday today.
+Congratulations!It's your birthday today.
 
 281
 00:14:32,100 --> 00:14:33,600
@@ -1136,7 +1136,7 @@ To Arataka – From Mom
 
 285
 00:14:38,810 --> 00:14:40,770
-{\an1\pos(64,340.667)}Save me! Kokkuri-san won't leave my house!
+Save me! Kokkuri-san won't leave my house!
 
 286
 00:14:42,560 --> 00:14:44,570
@@ -1144,39 +1144,39 @@ Main
 
 287
 00:14:42,560 --> 00:14:44,570
-{\fs14\pos(452,30)\c&HAAACA9&}Social
+Social
 
 288
 00:14:42,560 --> 00:14:44,570
-{\fs16\pos(120,84)}To Arataka – From Mom
+To Arataka – From Mom
 
 289
 00:14:42,560 --> 00:14:44,570
-{\pos(120,136)\fs14}Save me! Kokkuri-san won't leave my house! Save me, please! Please come to...
+Save me! Kokkuri-san won't leave my house! Save me, please! Please come to...
 
 290
 00:14:42,560 --> 00:14:44,570
-{\pos(120,182)\fs14}Exorcism request – Hello? Are you a psychic? My body feels so heavy lately...
+Exorcism request – Hello? Are you a psychic? My body feels so heavy lately...
 
 291
 00:14:42,560 --> 00:14:44,570
-{\pos(120,229)\fs14}Perv Master – We got a fresh batch of pervy videos for you! Now you can be a perv master...
+Perv Master – We got a fresh batch of pervy videos for you! Now you can be a perv master...
 
 292
 00:14:42,560 --> 00:14:44,570
-{\pos(120,276)\fs14}You're a fake – I'll curse you... CurseCurseCurseCurseCurseCurseCurseCurse
+You're a fake – I'll curse you... CurseCurseCurseCurseCurseCurseCurseCurse
 
 293
 00:14:42,560 --> 00:14:44,570
-{\pos(120,323)\fs14}Spirit photo – I ended up taking one. Could you do something about it?
+Spirit photo – I ended up taking one. Could you do something about it?
 
 294
 00:14:45,900 --> 00:14:49,860
-To Reigen Arataka{\fs20\c&H292626&}Happy birthday. How are you doing? How's work? Are you still in that shady business?Remember our neighbors, the Kobayashis?I heard their oldest son got married just last month.You should hurry up and find a secure job.You still have a chance. You're still only 28.If you want another chance at life,you should probably make a decision fast...
+To Reigen AratakaHappy birthday. How are you doing? How's work? Are you still in that shady business?Remember our neighbors, the Kobayashis?I heard their oldest son got married just last month.You should hurry up and find a secure job.You still have a chance. You're still only 28.If you want another chance at life,you should probably make a decision fast...
 
 295
 00:14:52,830 --> 00:14:54,790
-{\fad(437,1)}Make sure you take care of yourself. Here's my gift to you.Open file attachment
+Make sure you take care of yourself. Here's my gift to you.Open file attachment
 
 296
 00:15:04,800 --> 00:15:07,670
@@ -1204,7 +1204,7 @@ If you haven't, let me tell you all about our company.It's not a difficult job, 
 
 302
 00:15:04,800 --> 00:15:07,670
-{\c&HE8EEEC&\3c&H150F0D&\bord2\pos(388.667,274)}Contact us 24 hours a day!
+Contact us 24 hours a day!
 
 303
 00:15:04,800 --> 00:15:07,670
@@ -1220,11 +1220,11 @@ Please make sure you includethis information when you apply.
 
 306
 00:15:13,640 --> 00:15:16,880
-{\an8}Melt, melt, melt your brain with electronic waves
+Melt, melt, melt your brain with electronic waves
 
 307
 00:15:16,880 --> 00:15:20,000
-{\an8}Still training to get a real feel of it
+Still training to get a real feel of it
 
 308
 00:15:20,000 --> 00:15:21,270
@@ -1232,7 +1232,7 @@ Are you having fun?
 
 309
 00:15:20,000 --> 00:15:22,650
-{\an8}So all together now
+So all together now
 
 310
 00:15:22,260 --> 00:15:23,270
@@ -1240,7 +1240,7 @@ I think so?
 
 311
 00:15:22,650 --> 00:15:25,350
-{\an8}Melancholy!
+Melancholy!
 
 312
 00:15:25,890 --> 00:15:27,830
@@ -1260,7 +1260,7 @@ Reunion
 
 316
 00:15:37,080 --> 00:15:38,830
-{\fad(398,1)}Happy Trails
+Happy Trails
 
 317
 00:15:40,870 --> 00:15:43,150
@@ -1464,7 +1464,7 @@ I, Reigen Arataka, shall accept this job!
 
 367
 00:18:50,190 --> 00:18:52,310
-{\fad(189,1)}New {\fs24}Reigen Arataka
+New Reigen Arataka
 
 368
 00:18:52,310 --> 00:18:55,110
@@ -1492,7 +1492,7 @@ broadening his field of work.
 
 374
 00:19:01,410 --> 00:19:02,490
-Noritama{\fs12}-san's Review
+Noritama-san's Review
 
 375
 00:19:01,410 --> 00:19:02,490
@@ -1504,7 +1504,7 @@ Post a review
 
 377
 00:19:02,740 --> 00:19:03,990
-Flat Tire{\fs12}-san's Review
+Flat Tire-san's Review
 
 378
 00:19:02,740 --> 00:19:03,990
@@ -1520,7 +1520,7 @@ However, he continued to execute his usual exorcism jobs with vigor.
 
 381
 00:19:04,240 --> 00:19:05,240
-Stray Cat of the Dawn{\fs12}'s Review
+Stray Cat of the Dawn's Review
 
 382
 00:19:04,240 --> 00:19:05,240
@@ -1540,11 +1540,11 @@ Among his most recent jobs, there was a rumor that the Player Killer
 
 386
 00:19:11,580 --> 00:19:15,750
-{\fad(571,1)}Fantasy Hell
+Fantasy Hell
 
 387
 00:19:12,110 --> 00:19:16,410
-from the super-popular online game, {\i0}Fantasy Hell{\i1}, was actually a ghost.
+from the super-popular online game, Fantasy Hell, was actually a ghost.
 
 388
 00:19:16,410 --> 00:19:20,220
@@ -1552,7 +1552,7 @@ It was a difficult job that many other psychics declined to take.
 
 389
 00:19:20,220 --> 00:19:22,430
-{\fad(1,687)}We asked Shinra Banshomaruwhat he thought
+We asked Shinra Banshomaruwhat he thought
 
 390
 00:19:22,330 --> 00:19:24,960
@@ -1624,11 +1624,11 @@ Popularity
 
 407
 00:20:11,890 --> 00:20:13,900
-I Love Online Games{\c&H878787&\b0}@netgman{\c&H000000&}Reigen Arataka is the real deal!He exorcised the online ghost!{\c&HD5BE55&}#FantasyHell#SpiritsandSuchConsultationOffice
+I Love Online Games@netgmanReigen Arataka is the real deal!He exorcised the online ghost!#FantasyHell#SpiritsandSuchConsultationOffice
 
 408
 00:20:13,900 --> 00:20:14,650
-{\pos(218.667,88.333)}Popularity
+Popularity
 
 409
 00:20:14,650 --> 00:20:16,520
@@ -1648,7 +1648,7 @@ Someone eventually started
 
 413
 00:20:16,520 --> 00:20:17,270
-{\pos(210.667,84.333)}Popularity
+Popularity
 
 414
 00:20:17,180 --> 00:20:19,860
@@ -1656,15 +1656,15 @@ calling Reigen "the Bro of Seasoning City,"
 
 415
 00:20:17,270 --> 00:20:19,110
-Reigen Arataka Fansite{\b0\fs18}A Blog About the "Bro of Seasoning City"This site is about the "Spirits and Such Consultation Office"...
+Reigen Arataka FansiteA Blog About the "Bro of Seasoning City"This site is about the "Spirits and Such Consultation Office"...
 
 416
 00:20:19,110 --> 00:20:19,860
-{\pos(207.333,71.667)}Popularity
+Popularity
 
 417
 00:20:19,860 --> 00:20:21,570
-{\3c&HEAEAEA&\b0}Reigen Arataka... There's no doubt about it...The man might seriously be a god.{\c&HD67263&}59 reactions
+Reigen Arataka... There's no doubt about it...The man might seriously be a god.59 reactions
 
 418
 00:20:19,860 --> 00:20:22,200
@@ -1672,7 +1672,7 @@ and his popularity skyrocketed so much,
 
 419
 00:20:21,570 --> 00:20:22,200
-{\pos(199.333,75)}Popularity
+Popularity
 
 420
 00:20:22,560 --> 00:20:26,280
@@ -1680,11 +1680,11 @@ he even got interviewed for a magazine.
 
 421
 00:20:26,280 --> 00:20:28,540
-{\pos(196,63.667)}Popularity
+Popularity
 
 422
 00:20:28,540 --> 00:20:31,620
-{\frz267)\fs16\move(480,170,442,170)}Spirits and Such Consultation Office
+Spirits and Such Consultation Office
 
 423
 00:20:28,860 --> 00:20:31,230
@@ -1728,11 +1728,11 @@ you'll immediately shoot to the top of the psychic world.
 
 433
 00:20:54,060 --> 00:20:57,020
-{\frx30\fry310\frz33.25\move(153,190,153,240)}One week later
+One week later
 
 434
 00:21:00,730 --> 00:21:03,950
-{\i1}Supernatural Detective{\i0}...
+Supernatural Detective...
 
 435
 00:21:04,650 --> 00:21:08,620
@@ -1744,11 +1744,11 @@ Supernatural Detective Special!!
 
 437
 00:21:08,620 --> 00:21:11,080
-{\an8}We are live tonight!
+We are live tonight!
 
 438
 00:21:11,080 --> 00:21:14,040
-{\an8}I, Ebihara Morizo, am your host,
+I, Ebihara Morizo, am your host,
 
 439
 00:21:11,080 --> 00:21:14,040
@@ -1760,39 +1760,39 @@ Ebihara Morizo
 
 441
 00:21:14,040 --> 00:21:21,010
-{\pos(177,355)}Mogi Tatsuya
+Mogi Tatsuya
 
 442
 00:21:14,480 --> 00:21:18,970
-{\an8}joined by our guests, sci-fi researcherMogi Tatsuya-san and idol SATAKE-san.
+joined by our guests, sci-fi researcherMogi Tatsuya-san and idol SATAKE-san.
 
 443
 00:21:19,340 --> 00:21:21,010
-{\an8}Thanks for having me.
+Thanks for having me.
 
 444
 00:21:19,340 --> 00:21:21,010
-{\an8}Hello!
+Hello!
 
 445
 00:21:21,010 --> 00:21:29,470
-{\pos(177,355)}Jodo Kirin
+Jodo Kirin
 
 446
 00:21:21,010 --> 00:21:29,470
-{\pos(450,355)}Reigen Arataka
+Reigen Arataka
 
 447
 00:21:21,200 --> 00:21:24,600
-{\an8}We also have some psychics with us here today.
+We also have some psychics with us here today.
 
 448
 00:21:24,600 --> 00:21:27,110
-{\an8}It's a pleasure to have you on the program.
+It's a pleasure to have you on the program.
 
 449
 00:21:27,110 --> 00:21:28,890
-{\an8}The pleasure's all mine.
+The pleasure's all mine.
 
 450
 00:21:29,880 --> 00:21:32,940
@@ -1808,7 +1808,7 @@ Today, we've invited someone who claims to be possessed by an evil spirit.
 
 453
 00:21:36,900 --> 00:21:46,360
-{\frx8\fry12}Do Spiritual Powers Actually Exist!?Special!!
+Do Spiritual Powers Actually Exist!?Special!!
 
 454
 00:21:42,100 --> 00:21:46,360
@@ -1832,7 +1832,7 @@ All right. I'm nervous, but I'm going to show them what I've got!
 
 459
 00:21:54,480 --> 00:21:59,600
-{\an8}"...nervous, but I'm going to show them what I've got!" is what you're thinking, isn't it?
+"...nervous, but I'm going to show them what I've got!" is what you're thinking, isn't it?
 
 460
 00:21:59,600 --> 00:22:03,340
@@ -1848,7 +1848,7 @@ My disciples told me about what happened that day!
 
 463
 00:22:11,810 --> 00:22:16,060
-{\fad(324,1)}Anti-Possession Jumping Knee Strike
+Anti-Possession Jumping Knee Strike
 
 464
 00:22:11,910 --> 00:22:16,060
@@ -1880,7 +1880,7 @@ I've finally come this far. Just you watch, Mob!
 
 471
 00:24:03,380 --> 00:24:05,570
-Next time on {\i1}Mob Psycho 100 II{\i0} Episode 7:
+Next time on Mob Psycho 100 II Episode 7:
 
 472
 00:24:05,570 --> 00:24:06,880
@@ -1892,5 +1892,5 @@ The blu-rays? An even better decision.
 
 474
 00:24:06,880 --> 00:24:10,210
-{\c&H5B5D61&\3c&H287297&}Cornered~True Identity~
+Cornered~True Identity~
 

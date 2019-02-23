@@ -152,11 +152,11 @@ A shield?
 
 39
 00:03:24,050 --> 00:03:28,970
-{\fad(500,1)}The Rising of the Shield Hero
+The Rising of the Shield Hero
 
 40
 00:03:30,020 --> 00:03:34,400
-{\fad(481,740)}The Shield Hero
+The Shield Hero
 
 41
 00:03:30,480 --> 00:03:34,650
@@ -288,7 +288,7 @@ this place probably has your standard Mediterranean climate.
 
 73
 00:05:22,000 --> 00:05:26,260
-Yeah, yeah. {\i1}Excuse{\i0} me for my lack of knowledge and vocabulary.
+Yeah, yeah. Excuse me for my lack of knowledge and vocabulary.
 
 74
 00:05:34,310 --> 00:05:38,940
@@ -460,7 +460,7 @@ Wait a sec.
 
 116
 00:07:58,870 --> 00:08:01,580
-{\fad(500,500)}The Records of the Four Cardinal Weapons
+The Records of the Four Cardinal Weapons
 
 117
 00:07:59,160 --> 00:08:02,120
@@ -556,7 +556,7 @@ Like this?
 
 140
 00:09:05,270 --> 00:09:05,520
-Affinity{\c&HE5F6FF&\fs12}Fire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
+AffinityFire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
 
 141
 00:09:05,270 --> 00:09:07,520
@@ -564,11 +564,11 @@ The Bow Hero
 
 142
 00:09:05,270 --> 00:09:07,520
-Status{\c&HE5F6FF&\fs12}ATT: 17MAG: 13P. DEF: 10M. DEF: 14DEX:  15
+StatusATT: 17MAG: 13P. DEF: 10M. DEF: 14DEX:  15
 
 143
 00:09:05,270 --> 00:09:07,520
-Equipment{\c&HE5F6FF&\fs12}Small BowOtherworld Clothes
+EquipmentSmall BowOtherworld Clothes
 
 144
 00:09:05,980 --> 00:09:07,520
@@ -648,7 +648,7 @@ It is said that the legendary weapons repel one another by nature.
 
 163
 00:10:02,450 --> 00:10:11,630
-{\fad(500,1)}When two more wielders of the legendary weapons operate together, it causes an adverse reaction in the weapons. Working separately is highly advised.
+When two more wielders of the legendary weapons operate together, it causes an adverse reaction in the weapons. Working separately is highly advised.
 
 164
 00:10:07,080 --> 00:10:11,290
@@ -712,7 +712,7 @@ And our dinner was sumptuous, though it did taste unusual.
 
 179
 00:10:54,340 --> 00:10:57,090
-{\fad(1,250)}Small Shield
+Small Shield
 
 180
 00:10:54,340 --> 00:10:57,090
@@ -736,11 +736,11 @@ HeatUnlock Requirements:None
 
 185
 00:10:57,460 --> 00:10:59,470
-You mean it {\i1}is{\i0} one.
+You mean it is one.
 
 186
 00:10:59,470 --> 00:11:01,800
-It's exactly like {\i1}Emerald Online.{\i0}
+It's exactly like Emerald Online.
 
 187
 00:11:01,800 --> 00:11:03,600
@@ -760,7 +760,7 @@ This isn't some online game. It's a world out of a console game.
 
 191
 00:11:11,560 --> 00:11:13,400
-It's called {\i1}Dimension Web.{\i0}
+It's called Dimension Web.
 
 192
 00:11:13,400 --> 00:11:16,150
@@ -768,7 +768,7 @@ You're wrong. It's a VRMMO.
 
 193
 00:11:16,150 --> 00:11:18,990
-It's pretty much the exact same as {\i1}Brave Star Online.{\i0}
+It's pretty much the exact same as Brave Star Online.
 
 194
 00:11:20,070 --> 00:11:21,450
@@ -1020,7 +1020,7 @@ Time to begin your journey!
 
 256
 00:14:29,550 --> 00:14:32,100
-What? {\i0}They're{\i1} the ones choosing?!
+What? They're the ones choosing?!
 
 257
 00:14:38,980 --> 00:14:41,860
@@ -1120,7 +1120,7 @@ I'm a Shielder, you know!
 
 281
 00:15:53,930 --> 00:15:56,470
-The class {\i0}you{\i1} guys said was for losers!
+The class you guys said was for losers!
 
 282
 00:15:56,850 --> 00:15:59,930
@@ -1436,7 +1436,7 @@ What?
 
 360
 00:20:16,400 --> 00:20:20,240
-{\fad(500,500)}Legendary Weapon Rule Violation:Holding non-assigned weapon
+Legendary Weapon Rule Violation:Holding non-assigned weapon
 
 361
 00:20:18,780 --> 00:20:20,740
@@ -1444,7 +1444,7 @@ What?
 
 362
 00:20:20,320 --> 00:20:22,030
-{\fad(500,1)}A hero may not hold, with intent to fight,any weapon other than their assigned legendary weapon
+A hero may not hold, with intent to fight,any weapon other than their assigned legendary weapon
 
 363
 00:20:20,740 --> 00:20:22,030
@@ -1512,23 +1512,23 @@ Thanks.
 
 379
 00:21:06,410 --> 00:21:08,990
-{\fad(500,1)}Chain Mail
+Chain Mail
 
 380
 00:21:06,410 --> 00:21:08,990
-{\fad(500,1)}ATT: 0MAG: 0P. DEF: +21M. DEF: +15DEX:  0
+ATT: 0MAG: 0P. DEF: +21M. DEF: +15DEX:  0
 
 381
 00:21:06,410 --> 00:21:08,990
-{\fad(500,1)}Slash Resistance (Small)
+Slash Resistance (Small)
 
 382
 00:21:06,410 --> 00:21:08,990
-{\fad(500,1)}Fire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
+Fire: 0Water: 0Ice: 0Wind: 0Earth: 0Lightning: 0Light: 0Dark: 0
 
 383
 00:21:06,410 --> 00:21:08,990
-{\fad(500,1)}DurabilityWeight: 11Quality: *Unlock Requirements:Humanoid Lv. 1
+DurabilityWeight: 11Quality: *Unlock Requirements:Humanoid Lv. 1
 
 384
 00:21:09,240 --> 00:21:11,040
@@ -1592,7 +1592,7 @@ Wow. There's no limit to how much it can absorb.
 
 399
 00:22:55,600 --> 00:22:56,930
-{\fad(232,138)}Absorbed Orange Balloon x1
+Absorbed Orange Balloon x1
 
 400
 00:22:58,730 --> 00:23:02,060
@@ -1920,7 +1920,7 @@ I'll head up after I drink some more...
 
 481
 00:27:02,100 --> 00:27:04,560
-Although I feel {\i1}so{\i0} lonely drinking alone.
+Although I feel so lonely drinking alone.
 
 482
 00:27:04,560 --> 00:27:06,520
@@ -2628,11 +2628,11 @@ Don't die, kid.
 
 658
 00:37:18,960 --> 00:37:22,380
-{\fad(735,1)}Max HP: 167    {\c&HBBB7BD&}ATK: 1        M.DEF: 29{\c&H5C9631&}MAX MP: 47     {\c&HBBB7BD&}MAG: 16      DEX: 13{\c&H856B36&}MAX SP: 50      {\c&HBBB7BD&}P.DEF: 39
+Max HP: 167    ATK: 1        M.DEF: 29MAX MP: 47     MAG: 16      DEX: 13MAX SP: 50      P.DEF: 39
 
 659
 00:37:18,960 --> 00:37:22,380
-{\fad(735,1)}Battle: {\c&HBBB7BD&}Orange Balloon Defeated{\c&H5C9631&}Exp: {\c&HBBB7BD&}Naofumi +1{\c&H3883D7&}Battle: {\c&HBBB7BD&}Orange Balloon Defeated{\c&H5C9631&}Exp: {\c&HBBB7BD&}Naofumi +1{\c&H5C9631&}Level Up: {\c&HBBB7BD&}Naofumi Lv.1 -> 2
+Battle: Orange Balloon DefeatedExp: Naofumi +1Battle: Orange Balloon DefeatedExp: Naofumi +1Level Up: Naofumi Lv.1 -> 2
 
 660
 00:37:25,380 --> 00:37:28,890
@@ -2788,15 +2788,15 @@ Aren't these...
 
 698
 00:39:54,660 --> 00:39:55,980
-{\fad(500,500)}New Shields Unlocked
+New Shields Unlocked
 
 699
 00:39:59,870 --> 00:40:01,380
-{\fad(486,190)}There are shields with available skill unlocks.
+There are shields with available skill unlocks.
 
 700
 00:40:03,130 --> 00:40:04,090
-{\fad(479,1)}Mastery Bonus{\fs12}When a shield is used for a while to achieve a certain level of proficiency, it will grant its wielder permanent bonuses.
+Mastery BonusWhen a shield is used for a while to achieve a certain level of proficiency, it will grant its wielder permanent bonuses.
 
 701
 00:40:04,090 --> 00:40:10,380
@@ -2812,7 +2812,7 @@ This really is like a game, through and through.
 
 704
 00:40:26,060 --> 00:40:28,480
-{\fad(1448,1)}Foraging Skill 1 ActivatedAero: *
+Foraging Skill 1 ActivatedAero: *
 
 705
 00:40:28,790 --> 00:40:30,700
@@ -2904,7 +2904,7 @@ I promise to pay you if you do your job.
 
 727
 00:41:47,620 --> 00:41:49,290
-{\i1}If{\i0} you can do your job.
+If you can do your job.
 
 728
 00:41:50,710 --> 00:41:53,250

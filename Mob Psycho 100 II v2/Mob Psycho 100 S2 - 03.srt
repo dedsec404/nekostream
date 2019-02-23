@@ -1,6 +1,6 @@
 1
 00:00:02,230 --> 00:00:04,730
-{\fad(1440,1)}Psychics
+Psychics
 
 2
 00:00:02,230 --> 00:00:04,730
@@ -12,55 +12,55 @@ The Spirits and Such Consultation Office's official homepage....
 
 4
 00:00:04,730 --> 00:00:05,480
-{\pos(71,46)\fad(483,1)}Spiritual power-Mobpedian
+Spiritual power-Mobpedian
 
 5
 00:00:04,730 --> 00:00:05,480
-{\pos(71,123)\fad(483,1)}100 ways to tell if a psychic is real or not
+100 ways to tell if a psychic is real or not
 
 6
 00:00:04,730 --> 00:00:05,480
-{\pos(71,226)\fad(483,1)}A psychic's advice to those living with the gift
+A psychic's advice to those living with the gift
 
 7
 00:00:05,480 --> 00:00:06,560
-{\pos(71,24)\fs13\fad(442,1)}[Psychics] Spirits and Such Consultation Office Homepage: Reigen Arataka [Exorcisms & Seances]
+[Psychics] Spirits and Such Consultation Office Homepage: Reigen Arataka [Exorcisms & Seances]
 
 8
 00:00:05,480 --> 00:00:06,560
-{\pos(71,151)\fad(442,1)}Psychic Jet | A relaxing spiritual life | Seasoning City Center
+Psychic Jet | A relaxing spiritual life | Seasoning City Center
 
 9
 00:00:05,480 --> 00:00:06,560
-{\pos(71,274)\fad(442,1)}Let us introduce you to the best psychics | Rei Rei Hotline
+Let us introduce you to the best psychics | Rei Rei Hotline
 
 10
 00:00:06,560 --> 00:00:07,730
-{\pos(71,5)\fad(280,1)}Available 24 hours! ~SpiSpi Call Center~
+Available 24 hours! ~SpiSpi Call Center~
 
 11
 00:00:06,560 --> 00:00:07,730
-{\pos(71,142)\fs13\fad(280,1)}[Psychics] Spirits and Such Consultation Office Homepage: Reigen Arataka [Exorcisms & Seances]
+[Psychics] Spirits and Such Consultation Office Homepage: Reigen Arataka [Exorcisms & Seances]
 
 12
 00:00:06,560 --> 00:00:07,730
-{\pos(71,270)\fad(280,1)}Psychic Jet | A relaxing spiritual life | Seasoning City Center
+Psychic Jet | A relaxing spiritual life | Seasoning City Center
 
 13
 00:00:07,920 --> 00:00:10,240
-{\an8}To much surprise, it became quite popular,
+To much surprise, it became quite popular,
 
 14
 00:00:08,190 --> 00:00:09,820
-Spirits {\c&H9875D8&}and {\c&H53D2E8&}Such {\c&H54E9DD&}Consul{\c&H6CFED0&}tation {\c&HC3F456&}Office
+Spirits and Such Consultation Office
 
 15
 00:00:08,190 --> 00:00:09,820
-The star psychic of the 21st centurywho defeated {\c&H2A0CA8&}{\fs22}The Dragger
+The star psychic of the 21st centurywho defeated The Dragger
 
 16
 00:00:08,190 --> 00:00:09,820
-Welcome to{\fs20\b1\fnArial\c&H42FC92&\bord2\3c&H54B746&\4c&HE3FF40&\shad2}Rei{\c&HA6FF34&\3c&H87C45A&\4c&H2AF7DF&}gen {\c&HC6013B&\4c&HD500C6&}Ara{\c&H2000B4&\3c&H78748D&\4c&H30FF42&}taka's{\shad0\c&HD2D778&\b0\3c&HF0E1E4&\bord3\fs16\fnTrebuchet MS}homepage!
+Welcome toReigen Arataka'shomepage!
 
 17
 00:00:08,190 --> 00:00:09,820
@@ -72,83 +72,83 @@ visitor here.
 
 19
 00:00:10,150 --> 00:00:11,360
-{\pos(213,165)}Hello, I'm {\c&HAB3250&\3c&H000000&\4c&H000000&}Rei{\c&H7739B6&}gen {\c&H4EC178&}Ara{\c&HAF8045&}taka{\c&H6D5E6C&\3c&HFFFFFF&\4c&HFFFFFF&},the new star of the psychic world!Don't try to do it alone. Come talk to me ! !Honest billing and various courses available ! ! !
+Hello, I'm Reigen Arataka,the new star of the psychic world!Don't try to do it alone. Come talk to me ! !Honest billing and various courses available ! ! !
 
 20
 00:00:10,190 --> 00:00:11,360
-{\fad(1,99)\pos(320,90)}Spirits {\3c&H2A13AA&}and {\3c&H1F4AAC&}Such {\3c&H28C4A7&}Consul{\3c&H31D950&}tation {\3c&H88D254&}Office {\3c&HADA03D&}Official {\3c&HA90E6D&}HP
+Spirits and Such Consultation Office Official HP
 
 21
 00:00:10,240 --> 00:00:14,530
-{\an8}and a lot of requests for actual exorcismsstarted coming in.
+and a lot of requests for actual exorcismsstarted coming in.
 
 22
 00:00:11,190 --> 00:00:11,650
-{\fad(321,1)\pos(444,214)\3c&H27EEDE&\c&H2C1580&}Do you want to hearthe voice of your loved one again...?Those able to do "seances" {\c&H17BA77&}are considered modern-day necromancers.Why not put an end tothose pesky inheritance battles?
+Do you want to hearthe voice of your loved one again...?Those able to do "seances" are considered modern-day necromancers.Why not put an end tothose pesky inheritance battles?
 
 23
 00:00:11,190 --> 00:00:11,780
-{\fad(321,1)\pos(212,218)}Those of you troubled with "spiritual harm,"{\c&HA9533D&}are they causing you trouble with your neighbors ! ? {\c&H73C3D3&}"Rapping sounds"{\c&H45BB7C&}"Paralyzed" {\c&HB15337&}when you're trying to sleep {\c&H679FCF&}"Poltergeists," {\c&HB15337&}etc..
+Those of you troubled with "spiritual harm,"are they causing you trouble with your neighbors ! ? "Rapping sounds""Paralyzed" when you're trying to sleep "Poltergeists," etc..
 
 24
 00:00:11,360 --> 00:00:11,690
-{\pos(213,70)}Hello, I'm {\c&HAB3250&\3c&H000000&\4c&H000000&}Rei{\c&H7739B6&}gen {\c&H4EC178&}Ara{\c&HAF8045&}taka{\c&H6D5E6C&\3c&HFFFFFF&\4c&HFFFFFF&},the new star of the psychic world!Don't try to do it alone. Come talk to me ! !Honest billing and various courses available ! ! !
+Hello, I'm Reigen Arataka,the new star of the psychic world!Don't try to do it alone. Come talk to me ! !Honest billing and various courses available ! ! !
 
 25
 00:00:11,650 --> 00:00:12,240
-{\pos(444,115)\3c&HD51321&\c&H4243BB&}Do you want to hearthe voice of your loved one again...?Those able to do "seances" {\c&H17BA77&}are consideredmodern-day necromancers.Why not put an end tothose pesky inheritance battles?
+Do you want to hearthe voice of your loved one again...?Those able to do "seances" are consideredmodern-day necromancers.Why not put an end tothose pesky inheritance battles?
 
 26
 00:00:11,780 --> 00:00:12,490
-{\pos(212,117)}Those of you troubled with "spiritual harm,"{\c&HA9533D&}are they causing you trouble with your neighbors ! ? {\c&H73C3D3&}"Rapping sounds"{\c&H45BB7C&}"Paralyzed" {\c&HB15337&}when you're trying to sleep {\c&H679FCF&}"Poltergeists," {\c&HB15337&}etc..
+Those of you troubled with "spiritual harm,"are they causing you trouble with your neighbors ! ? "Rapping sounds""Paralyzed" when you're trying to sleep "Poltergeists," etc..
 
 27
 00:00:12,240 --> 00:00:12,490
-{\pos(444,115)\3c&H27EEDE&\c&H2C1580&}Do you want to hearthe voice of your loved one again...?Those able to do "seances" {\c&H17BA77&}are consideredmodern-day necromancers.Why not put an end tothose pesky inheritance battles?
+Do you want to hearthe voice of your loved one again...?Those able to do "seances" are consideredmodern-day necromancers.Why not put an end tothose pesky inheritance battles?
 
 28
 00:00:12,530 --> 00:00:12,860
-{\fad(274,1)\3c&HECD1AB&\c&H694DB4&\fs16\pos(207,220)}Your stiff shoulders maybe due to a spirit on your back...{\fs12}{\c&HDA8067&}See us when you're not feeling wellor for modern sicknesses
+Your stiff shoulders maybe due to a spirit on your back...See us when you're not feeling wellor for modern sicknesses
 
 29
 00:00:12,530 --> 00:00:13,490
-{\fad(274,1)\pos(213,125)}Spirit Photography Evaluation{\fs14\c&H91733D&}I will also evaluateany other possible cursed itemsyou have and exorcise them!
+Spirit Photography EvaluationI will also evaluateany other possible cursed itemsyou have and exorcise them!
 
 30
 00:00:12,530 --> 00:00:13,490
-{\fad(274,1)\3c&H535653&\c&HF1F1F1&\pos(439,128)\fs15}Advice About Stigmatized Properties{\fs12\c&H1F0F5B&}Deal with "psychological defects" {\c&HF1F1F1&}before you move...{\c&H1F0F5B&}In order to avoid real estate troubles{\c&HF1F1F1&}and protect the value of your property
+Advice About Stigmatized PropertiesDeal with "psychological defects" before you move...In order to avoid real estate troublesand protect the value of your property
 
 31
 00:00:12,530 --> 00:00:13,490
-{\pos(430,220)}Modern "Urban Legends"{\b0\fs13\c&H87B84F&}The Dragger, {\c&HFFFFFF&}Hanako-san,Kashima Reiko, {\c&H745B56&}Red Raincoat...{\fs12\c&HFFFFFF&}Net lore: the modern form of urban legends
+Modern "Urban Legends"The Dragger, Hanako-san,Kashima Reiko, Red Raincoat...Net lore: the modern form of urban legends
 
 32
 00:00:12,860 --> 00:00:13,030
-{\3c&HEC9AC7&\c&H7049BA&\fs16\pos(207,220)}Your stiff shoulders maybe due to a spirit on your back...{\fs12\c&HCA5B72&}{\c&HDA8067&}See us when you're not feeling wellor for modern sicknesses
+Your stiff shoulders maybe due to a spirit on your back...See us when you're not feeling wellor for modern sicknesses
 
 33
 00:00:13,030 --> 00:00:13,200
-{\3c&HCC9EE0&\c&H5A48B8&\fs16\pos(207,220)}Your stiff shoulders maybe due to a spirit on your back...{\fs12\c&HCA5B72&}{\c&HDA8067&}See us when you're not feeling wellor for modern sicknesses
+Your stiff shoulders maybe due to a spirit on your back...See us when you're not feeling wellor for modern sicknesses
 
 34
 00:00:13,200 --> 00:00:13,360
-{\3c&HAACCEF&\c&H7B5CBA&\fs16\pos(207,220)}Your stiff shoulders maybe due to a spirit on your back...{\fs12\c&HCA5B72&}{\c&HDA8067&}See us when you're not feeling wellor for modern sicknesses
+Your stiff shoulders maybe due to a spirit on your back...See us when you're not feeling wellor for modern sicknesses
 
 35
 00:00:13,360 --> 00:00:13,490
-{\3c&HA3F7CA&\c&H7B5CBA&\fs16\pos(207,220)}Your stiff shoulders maybe due to a spirit on your back...{\fs12\c&HCA5B72&}{\c&HDA8067&}See us when you're not feeling wellor for modern sicknesses
+Your stiff shoulders maybe due to a spirit on your back...See us when you're not feeling wellor for modern sicknesses
 
 36
 00:00:13,530 --> 00:00:15,200
-{\fad(692,1)\pos(45,88)\an7\c&H4CDD3D&\3c&HC2F0ED&\bord4\shad4\4c&HBDF0ED&}Executing the Exorcism ! !{\fs16\c&H394745&}We will do our best to reduce the spirit possessing youOption A —  Trial Course  A Mere {\c&HC481C8&}2,000 yen {\fs9\b0\c&H394745&}(Tax Excluded) Outside Offer Period: 3,980 yen{\fs16}Option B —  Serious Course  A Mere {\c&HC481C8&}5,000 yen {\fs9\b0\c&H394745&}(Tax Excluded) Outside of Offer Period: 8,980{\c&H42D98C&\fs16}Recommended{\fs16\c&H000000&}Option C — All-Out Course  A Mere {\c&HC481C8&}12,000 yen {\fs9\b0\c&H394745&}(Tax Excluded) Outside of Offer Period: 19,880 yen{\fs12\c&H261B8F&}Refer us to a {\c&H8E2494&}friend now and get {\c&H952430&}an extra 5% reduc{\c&HADC55B&}tion!! Also get an {\c&H329B4E&}add-on exorcism for {\c&H46B2AB&}20% off!!
+Executing the Exorcism ! !We will do our best to reduce the spirit possessing youOption A —  Trial Course  A Mere 2,000 yen (Tax Excluded) Outside Offer Period: 3,980 yenOption B —  Serious Course  A Mere 5,000 yen (Tax Excluded) Outside of Offer Period: 8,980RecommendedOption C — All-Out Course  A Mere 12,000 yen (Tax Excluded) Outside of Offer Period: 19,880 yenRefer us to a friend now and get an extra 5% reduction!! Also get an add-on exorcism for 20% off!!
 
 37
 00:00:14,530 --> 00:00:15,200
-{\fad(318,1)\pos(320,350)}Behold, Reigen Arataka's elegant special moves!{\fs16}Salt SplashBanishing Salt PunchAroma Runaway Express
+Behold, Reigen Arataka's elegant special moves!Salt SplashBanishing Salt PunchAroma Runaway Express
 
 38
 00:00:15,200 --> 00:00:17,160
-Essence of Life{\fs18}Draft
+Essence of LifeDraft
 
 39
 00:00:15,200 --> 00:00:17,160
@@ -156,23 +156,23 @@ LowCarbs
 
 40
 00:00:15,450 --> 00:00:17,160
-{\an8}But that also meant
+But that also meant
 
 41
 00:00:17,160 --> 00:00:19,870
-{\an8}that some of the requests coming in
+that some of the requests coming in
 
 42
 00:00:20,230 --> 00:00:22,230
-{\an8}were the kind that could never be taken on.
+were the kind that could never be taken on.
 
 43
 00:01:44,290 --> 00:01:49,130
-{\frx60\fscy200\fad(900,268)}Mob Psycho
+Mob Psycho
 
 44
 00:01:54,000 --> 00:01:59,010
-{\c&H03FF6B&\4c&H9C007E&}One Danger After Another~Degeneration~
+One Danger After Another~Degeneration~
 
 45
 00:01:59,600 --> 00:02:00,970
@@ -220,7 +220,7 @@ All right, all right! Fine, I'll do it.
 
 56
 00:02:27,830 --> 00:02:30,540
-{\frz353\frx2\fry350}If there are{\c&H2C3835&}\h3 evil spirits,\hthe exorcism\h\hfee on 1 of \h\hthem will be\h\hon the house!!
+If there are\h3 evil spirits,\hthe exorcism\h\hfee on 1 of \h\hthem will be\h\hon the house!!
 
 57
 00:02:28,130 --> 00:02:30,540
@@ -228,15 +228,15 @@ Really?! I knew it'd be worth the trip!
 
 58
 00:02:30,540 --> 00:02:31,460
-{\fad(1,226)\frz263\fs12\c&H052013&\3c&HBACDD3&\shad0\an7\pos(144,92)}The Spiritual Compendium  17th Edition
+The Spiritual Compendium  17th Edition
 
 59
 00:02:30,540 --> 00:02:31,710
-{\fad(1,268)\an9\frz267\fs8\c&H081404&\3c&HD6D7D9&\shad0\pos(178,356)}~The Miraculous Unknown Psychic~
+~The Miraculous Unknown Psychic~
 
 60
 00:02:30,540 --> 00:02:32,760
-{\an8}But this is the only time I'm doing it.
+But this is the only time I'm doing it.
 
 61
 00:02:32,760 --> 00:02:34,920
@@ -356,7 +356,7 @@ First in the world!
 
 90
 00:03:51,750 --> 00:03:53,750
-- Goku NERO -{\b0\fs10}0 Purine0 CarbsAlcohol 4%
+- Goku NERO -0 Purine0 CarbsAlcohol 4%
 
 91
 00:03:51,750 --> 00:03:53,750
@@ -388,7 +388,7 @@ The New Star of the 21st Century
 
 98
 00:04:04,870 --> 00:04:09,390
-{\an8}That's rare... He's actually voicing his own opinion.
+That's rare... He's actually voicing his own opinion.
 
 99
 00:04:09,620 --> 00:04:13,480
@@ -548,11 +548,11 @@ He's in the next apartment.
 
 138
 00:06:25,230 --> 00:06:27,180
-{\fs12}Who are these people? Why are they here?
+Who are these people? Why are they here?
 
 139
 00:06:27,180 --> 00:06:29,300
-{\fs12}It's not like I did anything wrong.
+It's not like I did anything wrong.
 
 140
 00:06:29,300 --> 00:06:33,410
@@ -624,7 +624,7 @@ You're seriously insanely creepy!
 
 157
 00:07:26,130 --> 00:07:28,080
-I can't believe I was scared of {\i1}that{\i0}.
+I can't believe I was scared of that.
 
 158
 00:07:28,080 --> 00:07:31,740
@@ -892,11 +892,11 @@ No soba tonight.
 
 224
 00:10:40,240 --> 00:10:42,070
-{\frx60\fscy200\fad(942,1)\fs24\pos(370,14)\c&HB5705A&}Mob Psycho 100
+Mob Psycho 100
 
 225
 00:10:42,070 --> 00:10:45,580
-{\frx60\fscy200\fs22\c&HDADA83&\pos(150,165)}Mob Psycho 100
+Mob Psycho 100
 
 226
 00:10:51,710 --> 00:10:52,720
@@ -1112,7 +1112,7 @@ You've got the power to do it.
 
 279
 00:13:20,730 --> 00:13:22,940
-{\an7\frz266\fs14\3c&H282725&\pos(419,60)}Spirits and Such Consultation Office
+Spirits and Such Consultation Office
 
 280
 00:13:24,010 --> 00:13:26,160
@@ -1576,7 +1576,7 @@ Okay.
 
 395
 00:20:31,410 --> 00:20:34,120
-{\an7\frz266\fs14\3c&H635F5B&\pos(419,60)}Spirits and Such Consultation Office
+Spirits and Such Consultation Office
 
 396
 00:20:32,010 --> 00:20:34,120
@@ -1612,7 +1612,7 @@ More importantly, you're surethey weren't evil spirits, right?
 
 404
 00:20:46,300 --> 00:20:47,720
-{\fad(1,57)}If there are{\c&H2B352E&}3 evil spirits,the exorcism feeon 1 of themwill be on thehouse!!
+If there are3 evil spirits,the exorcism feeon 1 of themwill be on thehouse!!
 
 405
 00:20:46,460 --> 00:20:50,620
@@ -1620,11 +1620,11 @@ Yeah. I tried to provoke him, but he didn't turn into an evil spirit.
 
 406
 00:20:49,430 --> 00:20:51,270
-{\fad(278,1)}If there are{\c&H2B352E&}3 evil spirits,the exorcism feeon 1 of themwill be on thehouse!!
+If there are3 evil spirits,the exorcism feeon 1 of themwill be on thehouse!!
 
 407
 00:20:52,090 --> 00:20:53,440
-Why are {\i1}you{\i0} trembling now?
+Why are you trembling now?
 
 408
 00:20:54,960 --> 00:20:57,710
@@ -1676,15 +1676,15 @@ All right, fine.
 
 420
 00:21:26,550 --> 00:21:31,310
-{\move(114,82,6,82)}If there are{\c&H2B352E&}3 evil spirits,the exorcism feeon 1 of themwill be on thehouse!!
+If there are3 evil spirits,the exorcism feeon 1 of themwill be on thehouse!!
 
 421
 00:21:26,550 --> 00:21:31,310
-{\move(130,209,20,209)}Reception
+Reception
 
 422
 00:21:26,550 --> 00:21:31,310
-{\move(148,280,38,280)}The New Star ofthe 21st Century{\c&H7786CD&}Reigen Arataka{\c&H444746&}Spirits and SuchConsultation Office
+The New Star ofthe 21st CenturyReigen AratakaSpirits and SuchConsultation Office
 
 423
 00:21:28,830 --> 00:21:31,310
@@ -1752,7 +1752,7 @@ We're gonna make that money, Mob!
 
 439
 00:24:02,530 --> 00:24:04,750
-Next time on {\i1}Mob Psycho 100 II{\i0} Episode 4:
+Next time on Mob Psycho 100 II Episode 4:
 
 440
 00:24:04,980 --> 00:24:06,580
@@ -1760,7 +1760,7 @@ Next time on {\i1}Mob Psycho 100 II{\i0} Episode 4:
 
 441
 00:24:06,960 --> 00:24:10,300
-{\c&H2F336F&\4c&H639951&}Inside~Evil Spirit~
+Inside~Evil Spirit~
 
 442
 00:24:06,960 --> 00:24:10,300

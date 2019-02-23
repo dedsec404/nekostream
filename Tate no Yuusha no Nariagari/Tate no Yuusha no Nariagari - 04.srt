@@ -96,7 +96,7 @@ I'll pass.
 
 25
 00:01:32,610 --> 00:01:34,530
-{\fad(1399,223)}Persons or objects can be registered to allow them to beteleported with you when summoned by the hourglass.
+Persons or objects can be registered to allow them to beteleported with you when summoned by the hourglass.
 
 26
 00:01:34,650 --> 00:01:36,700
@@ -104,7 +104,7 @@ Teleport people with me, huh?
 
 27
 00:01:38,070 --> 00:01:42,830
-{\fad(1399,223)}Persons or objects can be registered to allow them to beteleported with you when summoned by the hourglass.
+Persons or objects can be registered to allow them to beteleported with you when summoned by the hourglass.
 
 28
 00:01:38,280 --> 00:01:40,740
@@ -140,11 +140,11 @@ Duel me.
 
 36
 00:02:29,960 --> 00:02:32,250
-{\fad(750,645)}The Rising of the Shield Hero
+The Rising of the Shield Hero
 
 37
 00:03:43,820 --> 00:03:48,580
-{\fad(438,596)}Lullaby at Dawn
+Lullaby at Dawn
 
 38
 00:03:45,870 --> 00:03:50,540
@@ -296,7 +296,7 @@ If I win, you'd better return Raphtalia!
 
 75
 00:05:39,230 --> 00:05:42,520
-And how exactly will you win, {\i1}Shield{\i0} Hero?
+And how exactly will you win, Shield Hero?
 
 76
 00:05:50,700 --> 00:05:55,370
@@ -308,7 +308,7 @@ This duel will end when one of the combatants is pinned or admits defeat.
 
 78
 00:06:03,380 --> 00:06:05,050
-{\fad(500,1)}Legendary Weapon Rule Violation:Holding non-assigned weapon.
+Legendary Weapon Rule Violation:Holding non-assigned weapon.
 
 79
 00:06:18,480 --> 00:06:22,900
@@ -404,7 +404,7 @@ Fight me fair and square!
 
 102
 00:08:12,340 --> 00:08:13,800
-{\fad(447,1)}Two-Headed Black Dog Shield Exclusive Skill: Dog Bite
+Two-Headed Black Dog Shield Exclusive Skill: Dog Bite
 
 103
 00:08:15,390 --> 00:08:16,640
@@ -748,7 +748,7 @@ A world like this...
 
 188
 00:14:34,140 --> 00:14:37,730
-{\fad(1000,1)}Curse Series Requirement Met
+Curse Series Requirement Met
 
 189
 00:14:40,690 --> 00:14:42,020
@@ -828,7 +828,7 @@ He gave me valuable medicine to treat my illness!
 
 208
 00:15:45,750 --> 00:15:47,460
-Are {\i1}you{\i0} capable of that?!
+Are you capable of that?!
 
 209
 00:15:48,460 --> 00:15:50,380
@@ -880,7 +880,7 @@ You lost that duel, Motoyasu.
 
 221
 00:16:18,990 --> 00:16:22,540
-{\i1}Someone{\i0} shot a magic spell at Naofumi.
+Someone shot a magic spell at Naofumi.
 
 222
 00:16:22,540 --> 00:16:25,710
@@ -1240,7 +1240,7 @@ It's only leftovers from the castle kitchen and some bread, though.
 
 311
 00:22:35,370 --> 00:22:37,790
-You {\i1}are{\i0} Raphtalia, right?
+You are Raphtalia, right?
 
 312
 00:22:38,750 --> 00:22:40,940
@@ -1292,5 +1292,5 @@ Let's do our best.
 
 324
 00:23:36,220 --> 00:23:39,970
-{\fad(356,1)}Filo
+Filo
 
